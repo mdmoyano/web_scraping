@@ -12,5 +12,5 @@ rows=table_body.find_all('tr')
 for row in rows:
     cols = row.find_all('td')
     cols = [ele.text.strip() for ele in cols]
-    data.append([ele for ele in cols if ele]) # Get rid of empty values
+    data.append([ele for ele in cols if ele]) # Eliminar valores en blanco
 print(tabulate(data, headers=["País", "Año", "SMI Local", "SMI Euros", "Var"]))
