@@ -18,10 +18,21 @@ sueldos_dataset['Sueldo texto limpio']= sueldos_dataset['Sueldo texto limpio'].s
 sueldos_dataset['Sueldo texto limpio']= sueldos_dataset['Sueldo texto limpio'].str.replace('.','')
 sueldos_dataset['Sueldo texto limpio']= sueldos_dataset['Sueldo texto limpio'].str.replace(' ','')
 sueldos_dataset['Sueldo texto limpio']= sueldos_dataset['Sueldo texto limpio'].str.replace(u'\xa0','')
+sueldos_dataset['Sueldo texto limpio']= sueldos_dataset['Sueldo texto limpio'].str.replace('/h','')
+sueldos_dataset['Sueldo texto limpio']= sueldos_dataset['Sueldo texto limpio'].str.replace('us\$','')
+sueldos_dataset['Sueldo texto limpio']= sueldos_dataset['Sueldo texto limpio'].str.replace('ca\$','')
+
+# Hay una oferta de San Francisco que contiene una oferta de la Universidad de Canberra, otra de la india e incluso Brasil
+# No nos interesan.
+sueldos_dataset = sueldos_dataset[sueldos_dataset['Sueldo texto limpio'].str.contains('aud|inr|brl') == False]
+sueldos_dataset=sueldos_dataset.reset_index()
+
 
 sueldos_dataset['Sueldo anual']=""
 
+
 for row in range(sueldos_dataset.shape[0]):
+
 
     if '-' in sueldos_dataset['Sueldo texto limpio'][row]:
         valores=sueldos_dataset['Sueldo texto limpio'][row].split('-')
@@ -35,15 +46,17 @@ for row in range(sueldos_dataset.shape[0]):
             else:
                 valores[i]=int(valores[i])
 
-        sueldos_dataset['Sueldo anual'][row]=np.mean(valores)
+        sueldos_dataset['Sueldo texto limpio'][row]=np.mean(valores)
 
     if 'mes' in sueldos_dataset['Periodo'][row]:
-        sueldos_dataset['Sueldo anual'][row] = sueldos_dataset['Sueldo anual'][row]*12
+        sueldos_dataset['Sueldo anual'][row] = int(sueldos_dataset['Sueldo texto limpio'][row])*12
     elif 'hora' in sueldos_dataset['Periodo'][row]:
         #Numero aproximado de horas trabajadas al año: 1725
-        sueldos_dataset['Sueldo anual'][row] = sueldos_dataset['Sueldo anual'][row]*1725
+        sueldos_dataset['Sueldo anual'][row] = int(sueldos_dataset['Sueldo texto limpio'][row])*1725
+    else:
+        sueldos_dataset['Sueldo anual'][row] = sueldos_dataset['Sueldo texto limpio'][row]
 
-print(sueldos_dataset)
+sueldos_dataset.to_csv('dataset_sueldos_clean.csv',index=False)
 
 
 

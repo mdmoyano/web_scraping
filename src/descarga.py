@@ -26,41 +26,6 @@ dataset_sueldos = pd.DataFrame(columns=['Ciudad', 'Empresa', 'Sueldo','Periodo']
 lista_codigos = pd.read_csv('codigos.csv',delimiter=',')
 
 
-# Funcion de prueba para una sola pagina
-def sueldo_pagina(ciudad,pagina,dataset_sueldos):
-    url_base="https://www.glassdoor.es/Sueldos/"
-    url_puesto="-data-scientist-sueldo-"
-
-    ciudad=ciudad.lower()
-
-    if lista_codigos[lista_codigos["ciudad"] ==ciudad]['codigo'].empty:
-        print('No tenemos esta ciudad entre las almacenadas en los codigos.')
-        return 0
-    else:
-        codigo_ciudad = lista_codigos[lista_codigos["ciudad"] == ciudad]['codigo'].item()
-
-    url_completa=url_base+ciudad+url_puesto+codigo_ciudad+"_IP"+str(pagina)+".htm"
-
-    page = requests.get(url_completa,headers=headers)
-
-    if page.status_code==200:
-        soup = BeautifulSoup(page.content, "html.parser")
-    else:
-        print("HTTP error: ",page.status_code)
-        return 0
-
-    resultados = soup.findAll('div', {'class': 'py css-17435dd'})
-
-    with open('web.html','w', encoding="utf-8") as f:
-        f.write(str(soup.encode("utf-8")))
-        f.close()
-
-    for item in resultados:
-        dataset_sueldos = dataset_sueldos.append({'Ciudad':ciudad,'Empresa':item.find('a', {'class': 'css-f3vw95 e1aj7ssy3'}).text,'Sueldo':item.find('div', {'class': 'd-flex align-items-baseline'}).text
-                                                  ,'Periodo':item.find('span',{'class':'m-0 css-18stkbk'}).text},ignore_index=True)
-
-    return dataset_sueldos
-
 
 #Descarga completa de una ciudad
 def sueldos(ciudad, dataset_sueldos):
@@ -74,8 +39,9 @@ def sueldos(ciudad, dataset_sueldos):
         return 0
     else:
         codigo_ciudad = lista_codigos[lista_codigos["ciudad"] == ciudad]['codigo'].item()
+        ciudad_url=ciudad.replace(' ','-')
 
-    url_completa = url_base + ciudad + url_puesto + codigo_ciudad + ".htm"
+    url_completa = url_base + ciudad_url + url_puesto + codigo_ciudad + ".htm"
 
     page = requests.get(url_completa, headers=headers)
 
@@ -121,33 +87,14 @@ def sueldos(ciudad, dataset_sueldos):
     return dataset_sueldos
 
 
-#dataset_sueldos = sueldos('barcelona',dataset_sueldos)
 
-#dataset_sueldos.to_csv('dataset_sueldos.csv',index=False)
+dataset_sueldos = sueldos('madrid',dataset_sueldos)
+dataset_sueldos = sueldos('San Francisco',dataset_sueldos)
+dataset_sueldos = sueldos('barcelona',dataset_sueldos)
 
-dataset_sueldos = sueldo_pagina('barcelona',5,dataset_sueldos)
 dataset_sueldos.to_csv('dataset_sueldos.csv',index=False)
 
 
-
-
-# Guardar el fichero
-#with open('dataset_sueldos.csv','w', encoding="utf-8") as f:
-#    f.write(str(dataset_sueldos.encode("utf-8")))
-#    f.close()
-
-
-# Numero de páginas:
-# <div class="paginationFooter" data-test="pagination-footer-text">Viendo 1 - 10 de 1455<span class="filterLabel"/>
-
-# Primer nivel:
-# py css-17435dd
-
-# Nombre de la empresa:
-# css-f3vw95 e1aj7ssy3
-
-# Salario:
-# m-0 css-g261rn
 
 
 
