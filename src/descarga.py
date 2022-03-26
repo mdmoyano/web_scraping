@@ -2,33 +2,25 @@ import requests
 from bs4 import BeautifulSoup
 import pandas as pd
 
-#Ignorar los FutureWarnings de Pandas/append
-import warnings
-warnings.simplefilter(action='ignore', category=Warning)
-
-headers = {
-"Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,\
-*/*;q=0.8",
-"Accept-Encoding": "gzip, deflate, sdch, br",
-"Accept-Language": "en-US,en;q=0.8",
-"Cache-Control": "no-cache",
-"dnt": "1",
-"Pragma": "no-cache",
-"Upgrade-Insecure-Requests": "1",
-"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_3) AppleWebKit/5\
-37.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36"
-}
-
-#Empty data frame
-dataset_sueldos = pd.DataFrame(columns=['Ciudad', 'Empresa', 'Sueldo','Periodo'])
-
-
-lista_codigos = pd.read_csv('codigos.csv',delimiter=',')
-
-
 
 #Descarga completa de una ciudad
 def sueldos(ciudad, dataset_sueldos):
+
+    headers = {
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,\
+    */*;q=0.8",
+        "Accept-Encoding": "gzip, deflate, sdch, br",
+        "Accept-Language": "en-US,en;q=0.8",
+        "Cache-Control": "no-cache",
+        "dnt": "1",
+        "Pragma": "no-cache",
+        "Upgrade-Insecure-Requests": "1",
+        "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_3) AppleWebKit/5\
+    37.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36"
+    }
+
+    lista_codigos = pd.read_csv('codigos.csv', delimiter=',')
+
     url_base = "https://www.glassdoor.es/Sueldos/"
     url_puesto = "-data-scientist-sueldo-"
 
@@ -59,7 +51,7 @@ def sueldos(ciudad, dataset_sueldos):
 
     for pagina in range(total_paginas):
 
-        print("Pagina ",pagina," de un total de ",total_paginas)
+        print("Ciudad: ",ciudad,". Pagina ",pagina," de un total de ",total_paginas)
 
         url_completa = url_base + ciudad + url_puesto + codigo_ciudad + "_IP" + str(pagina+1) + ".htm"
 
@@ -88,11 +80,6 @@ def sueldos(ciudad, dataset_sueldos):
 
 
 
-dataset_sueldos = sueldos('madrid',dataset_sueldos)
-dataset_sueldos = sueldos('San Francisco',dataset_sueldos)
-dataset_sueldos = sueldos('barcelona',dataset_sueldos)
-
-dataset_sueldos.to_csv('dataset_sueldos.csv',index=False)
 
 
 

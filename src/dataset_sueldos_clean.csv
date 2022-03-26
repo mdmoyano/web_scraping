@@ -1,0 +1,1829 @@
+index,Ciudad,Empresa,Sueldo,Periodo,Sueldo texto limpio,Sueldo anual
+0,madrid,BBVA,35.957 € /año,Data Scientist,35957,35957
+1,madrid,Telefónica,39.884 € /año,Data Scientist,39884,39884
+2,madrid,Santander,34.867 € /año,Data Scientist,34867,34867
+3,madrid,Accenture,45.000 € /año,Data Scientist,45000,45000
+4,madrid,EY,30.254 € /año,Data Scientist,30254,30254
+5,madrid,Minsait,34.800 € /año,Data Scientist,34800,34800
+6,madrid,Orange,34.602 € /año,Data Scientist,34602,34602
+7,madrid,McKinsey & Company,35.264 € /año,Data Scientist,35264,35264
+8,madrid,everis,25.679 € /año,Data Scientist,25679,25679
+9,madrid,IIC,33.793 € /año,Data Scientist,33793,33793
+10,madrid,Capgemini,36.246 € /año,Data Scientist,36246,36246
+11,madrid,Capgemini Engineering,32.943 € /año,Data Scientist,32943,32943
+12,madrid,Vodafone,44.508 € /año,Data Scientist,44508,44508
+13,madrid,Boston Consulting Group,47.157 € /año,Data Scientist,47157,47157
+14,madrid,Quental Technologies,31.642 € /año,Data Scientist,31642,31642
+15,madrid,Deloitte,27.131 € /año,Data Scientist,27131,27131
+16,madrid,Management Solutions,28.193 € /año,Data Scientist,28193,28193
+17,madrid,Airbus,47.321 € /año,Data Scientist,47321,47321
+18,madrid,KPMG,32.036 € /año,Data Scientist,32036,32036
+19,madrid,Cabify,42.936 € /año,Data Scientist,42936,42936
+20,madrid,The Cocktail,28.500 € /año,Data Scientist,28500,28500
+21,madrid,Intelygenz,39.897 € /año,Data Scientist,39897,39897
+22,madrid,Equifax,44.275 € /año,Data Scientist,44275,44275
+23,madrid,EUROSTAR MEDIAGROUP,38.040 € /año,Data Scientist,38040,38040
+24,madrid,Synergic Partners,41.008 € /año,Data Scientist,41008,41008
+25,madrid,Indra,35.529 € /año,Data Scientist,35529,35529
+26,madrid,PwC,38.925 € /año,Data Scientist,38925,38925
+27,madrid,IBM,35.032 € /año,Data Scientist,35032,35032
+28,madrid,Amadeus,41.087 € /año,Data Scientist,41087,41087
+29,madrid,GMV,33.859 € /año,Data Scientist,33859,33859
+30,madrid,Iberia,48.067 € /año,Data Scientist,48067,48067
+31,madrid,UST,31.547 € /año,Data Scientist,31547,31547
+32,madrid,Bankia,48.262 € /año,Data Scientist,48262,48262
+33,madrid,Openbank,66.788 € /año,Data Scientist,66788,66788
+34,madrid,Bosonit,24.000 € /año,Data Scientist,24000,24000
+35,madrid,Olympic Channel Services,42.063 € /año,Data Scientist,42063,42063
+36,madrid,Datio,47.235 € /año,Data Scientist,47235,47235
+37,madrid,OpenSistemas,36.978 € /año,Data Scientist,36978,36978
+38,madrid,AEROENGY,25.778 € /año,Data Scientist,25778,25778
+39,madrid,El Corte Inglés,Sobre 33 mil € -37 mil €,Data Scientist,35000.0,35000.0
+40,madrid,CaixaBank,Sobre 33 mil € -47 mil €,Data Scientist,40000.0,40000.0
+41,madrid,Atos,Sobre 27 mil € -38 mil €,Data Scientist,32500.0,32500.0
+42,madrid,Acciona,Sobre 514 € -559 €,Data Scientist - Becario por mes,536.5,6432
+43,madrid,ALTEN,Sobre 30 mil € -40 mil €,Data Scientist,35000.0,35000.0
+44,madrid,Inetum,Sobre 579 € -628 €,Data Scientist - Becario por mes,603.5,7236
+45,madrid,Ineco,Sobre 29 mil € -34 mil €,Data Scientist,31500.0,31500.0
+46,madrid,Universidad Carlos III de Madrid,Sobre 18 mil € -43 mil €,Data Scientist,30500.0,30500.0
+47,madrid,Microsoft,Sobre 25 mil € -59 mil €,Data Scientist,42000.0,42000.0
+48,madrid,Universidad de Granada,Sobre 1 mil € -2 mil €,Data Scientist - Por mes,1500.0,18000
+49,madrid,Fever,Sobre 36 mil € -42 mil €,Data Scientist,39000.0,39000.0
+50,madrid,Experis,Sobre 25 mil € -29 mil €,Data Scientist,27000.0,27000.0
+51,madrid,Instituto de Empresa,Sobre 31 mil € -38 mil €,Data Scientist,34500.0,34500.0
+52,madrid,Making Science,Sobre 33 mil € -60 mil €,Data Scientist,46500.0,46500.0
+53,madrid,BIP,Sobre 26 mil € -62 mil €,Data Scientist,44000.0,44000.0
+54,madrid,Innova-Tsn,Sobre 26 mil € -50 mil €,Data Scientist,38000.0,38000.0
+55,madrid,Clarity AI,Sobre 27 mil € -45 mil €,Data Scientist,36000.0,36000.0
+56,madrid,Fintonic,Sobre 37 mil € -51 mil €,Data Scientist,44000.0,44000.0
+57,madrid,Indizen Consulting,Sobre 21 mil € -40 mil €,Data Scientist,30500.0,30500.0
+58,madrid,ETS Asset Management Factory,Sobre 25 mil € -39 mil €,Data Scientist,32000.0,32000.0
+59,madrid,Rebold,Sobre 33 mil € -39 mil €,Data Scientist,36000.0,36000.0
+60,madrid,Unlimiteck,Sobre 29 mil € -37 mil €,Data Scientist,33000.0,33000.0
+61,madrid,Avansis,Sobre 18 mil € -53 mil €,Data Scientist,35500.0,35500.0
+62,madrid,Novanotio,Sobre 24 mil € -44 mil €,Data Scientist,34000.0,34000.0
+63,madrid,Kernel Analytics,Sobre 26 mil € -51 mil €,Data Scientist,38500.0,38500.0
+64,madrid,Conento,Sobre 37 mil € -54 mil €,Data Scientist,45500.0,45500.0
+65,madrid,IHS Markit,Sobre 47 mil € -51 mil €,Data Scientist,49000.0,49000.0
+66,madrid,Wise Athena,Sobre 28 mil € -50 mil €,Data Scientist,39000.0,39000.0
+67,madrid,Altarius Capital,Sobre 29 mil € -53 mil €,Data Scientist,41000.0,41000.0
+68,madrid,Turing Challenge,Sobre 34 mil € -40 mil €,Data Scientist,37000.0,37000.0
+69,madrid,Tessella,Sobre 26 mil € -28 mil €,Data Scientist,27000.0,27000.0
+70,madrid,Unikie,Sobre 58 mil € -68 mil €,Data Scientist,63000.0,63000.0
+71,madrid,Smartme Analytics,Sobre 21 mil € -23 mil €,Data Scientist,22000.0,22000.0
+72,madrid,Accenture,Sobre 24 mil € -26 mil €,Data Scientist,25000.0,25000.0
+73,madrid,everis,Sobre 798 € -877 €,Data Scientist - Por mes,837.5,10044
+74,madrid,Amazon,Sobre 68 mil € -74 mil €,Data Scientist,71000.0,71000.0
+75,madrid,Telefónica,Sobre 953 € -1 mil €,Data Scientist - Becario por mes,976.5,11712
+76,madrid,Santander,Sobre 74 mil € -81 mil €,Data Scientist - Proveedor de servicios,77500.0,77500.0
+77,madrid,EY,Sobre 42 mil € -46 mil €,Data Scientist,44000.0,44000.0
+78,madrid,BBVA,Sobre 29 mil € -31 mil €,Data Scientist,30000.0,30000.0
+79,madrid,BBVA,Sobre 32 mil € -35 mil €,Data Scientist - Becario,33500.0,33500.0
+80,madrid,BBVA,Sobre 2 mil € -2 mil €,Data Scientist - Por mes,2000.0,24000
+81,madrid,Glovo,Sobre 2 mil € -2 mil €,Data Scientist - Por mes,2000.0,24000
+82,madrid,Ninguna,Sobre 20 mil € -21 mil €,Data Scientist - Becario,20500.0,20500.0
+83,madrid,Ninguna,Sobre 3 mil € -3 mil €,Data Scientist - Por mes,3000.0,36000
+84,madrid,Ninguna,Sobre 30 mil € -33 mil €,Data Scientist,31500.0,31500.0
+85,madrid,autonomo,Sobre 31 € -34 € por hora,Data Scientist - Por hora,32.5,55200
+86,madrid,Repsol,Sobre 39 mil € -42 mil €,Data Scientist,40500.0,40500.0
+87,madrid,Freelancer,Sobre 20 mil € -22 mil €,Data Scientist,21000.0,21000.0
+88,madrid,Freelancer,Sobre 42 mil € -45 mil €,Data Scientist,43500.0,43500.0
+89,madrid,GMV,Sobre 26 mil € -28 mil €,Data Scientist,27000.0,27000.0
+90,madrid,GMV,Sobre 23 mil € -25 mil €,Data Scientist - Becario,24000.0,24000.0
+91,madrid,Hewlett Packard Enterprise | HPE,Sobre 79 mil € -84 mil €,Data Scientist,81500.0,81500.0
+92,madrid,Iman Temporing,Sobre 17 mil € -18 mil €,Data Scientist,17500.0,17500.0
+93,madrid,Hays,Sobre 38 mil € -41 mil €,Data Scientist,39500.0,39500.0
+94,madrid,Nestlé,Sobre 20 mil € -22 mil €,Data Scientist - Becario,21000.0,21000.0
+95,madrid,Inetum,Sobre 1 mil € -1 mil €,Data Scientist - Por mes,1000.0,12000
+96,madrid,Roche,Sobre 54 mil € -58 mil €,Data Scientist,56000.0,56000.0
+97,madrid,Burger King,Sobre 57 mil € -62 mil €,Data Scientist,59500.0,59500.0
+98,madrid,CSIC,Sobre 61 mil € -66 mil €,Data Scientist - Becario,63500.0,63500.0
+99,madrid,CSIC,Sobre 2 mil € -2 mil €,Data Scientist - Por mes,2000.0,24000
+100,madrid,Ferrovial,Sobre 629 € -674 €,Data Scientist - Becario por mes,651.5,7812
+101,madrid,IQVIA,Sobre 36 mil € -39 mil €,Data Scientist,37500.0,37500.0
+102,madrid,Orange,Sobre 52 mil € -56 mil €,Data Scientist - Proveedor de servicios,54000.0,54000.0
+103,madrid,Universidad Politécnica de Madrid,Sobre 19 mil € -20 mil €,Data Scientist,19500.0,19500.0
+104,madrid,Universidad Politécnica de Madrid,Sobre 1 mil € -1 mil €,Data Scientist - Proveedor de servicios por mes,1000.0,12000
+105,madrid,Universidad Politécnica de Madrid,Sobre 204 € -219 €,Data Scientist - Por mes,211.5,2532
+106,madrid,Google,Sobre 61 mil € -65 mil €,Data Scientist,63000.0,63000.0
+107,madrid,Universidad Carlos III de Madrid,Sobre 10 mil € -10 mil €,Data Scientist - Becario,10000.0,10000.0
+108,madrid,Universidad Carlos III de Madrid,Sobre 775 € -849 €,Data Scientist - Por mes,812.0,9744
+109,madrid,Endesa S.A.,Sobre 31 mil € -33 mil €,Data Scientist,32000.0,32000.0
+110,madrid,Mapfre,Sobre 26 mil € -28 mil €,Data Scientist,27000.0,27000.0
+111,madrid,Freelance,Sobre 5 mil € -5 mil €,Data Scientist - Proveedor de servicios por mes,5000.0,60000
+112,madrid,Siemens,Sobre 31 mil € -33 mil €,Data Scientist,32000.0,32000.0
+113,madrid,Electronic Arts,Sobre 31 mil € -33 mil €,Data Scientist,32000.0,32000.0
+114,madrid,Between,Sobre 42 mil € -45 mil €,Data Scientist,43500.0,43500.0
+115,madrid,Comunidad de Madrid,Sobre 19 mil € -21 mil €,Data Scientist,20000.0,20000.0
+116,madrid,Iberdrola,Sobre 39 mil € -43 mil €,Data Scientist,41000.0,41000.0
+117,madrid,Page Personnel,Sobre 22 mil € -23 mil €,Data Scientist,22500.0,22500.0
+118,madrid,Cognizant Technology Solutions,Sobre 32 mil € -35 mil €,Data Scientist,33500.0,33500.0
+119,madrid,ING,Sobre 46 mil € -50 mil €,Data Scientist,48000.0,48000.0
+120,madrid,Robert Bosch,Sobre 820 € -904 €,Data Scientist - Becario por mes,862.0,10344
+121,madrid,Cepsa,Sobre 40 mil € -44 mil €,Data Scientist,42000.0,42000.0
+122,madrid,VASS,Sobre 32 mil € -34 mil €,Data Scientist,33000.0,33000.0
+123,madrid,Bankinter,Sobre 43 mil € -47 mil €,Data Scientist,45000.0,45000.0
+124,madrid,Bankinter,Sobre 627 € -669 €,Data Scientist - Becario por mes,648.0,7776
+125,madrid,AXA,Sobre 50 mil € -55 mil €,Data Scientist,52500.0,52500.0
+126,madrid,Talent Search People,Sobre 41 mil € -45 mil €,Data Scientist,43000.0,43000.0
+127,madrid,Paradigma Digital,Sobre 42 mil € -46 mil €,Data Scientist,44000.0,44000.0
+128,madrid,Jobandtalent,Sobre 34 mil € -37 mil €,Data Scientist,35500.0,35500.0
+129,madrid,GlaxoSmithKline,Sobre 677 € -729 €,Data Scientist - Becario por mes,703.0,8436
+130,madrid,Banco Popular Español,Sobre 46 mil € -50 mil €,Data Scientist,48000.0,48000.0
+131,madrid,Talgo,Sobre 32 mil € -35 mil €,Data Scientist,33500.0,33500.0
+132,madrid,sngular,Sobre 46 mil € -50 mil €,Data Scientist,48000.0,48000.0
+133,madrid,Informática El Corte Inglés,Sobre 27 mil € -29 mil €,Data Scientist,28000.0,28000.0
+134,madrid,Manpower,Sobre 25 mil € -27 mil €,Data Scientist,26000.0,26000.0
+135,madrid,Stratio,Sobre 29 mil € -31 mil €,Data Scientist,30000.0,30000.0
+136,madrid,SegurCaixa Adeslas,Sobre 26 mil € -28 mil €,Data Scientist,27000.0,27000.0
+137,madrid,Nielsen,Sobre 2 mil € -2 mil €,Data Scientist - Por mes,2000.0,24000
+138,madrid,Kairos Digital Solutions,Sobre 498 € -538 €,Data Scientist - Becario por mes,518.0,6216
+139,madrid,Techedge,Sobre 24 mil € -26 mil €,Data Scientist,25000.0,25000.0
+140,madrid,Cofares,Sobre 20 mil € -22 mil €,Data Scientist,21000.0,21000.0
+141,madrid,Carto,Sobre 38 mil € -41 mil €,Data Scientist,39500.0,39500.0
+142,madrid,University of Alcala,Sobre 1 mil € -1 mil €,Data Scientist - Por mes,1000.0,12000
+143,madrid,Línea Directa,Sobre 43 mil € -47 mil €,Data Scientist,45000.0,45000.0
+144,madrid,Gi Group,Sobre 30 mil € -33 mil €,Data Scientist,31500.0,31500.0
+145,madrid,Aubay,Sobre 28 mil € -30 mil €,Data Scientist,29000.0,29000.0
+146,madrid,Stellantis,Sobre 35 mil € -38 mil €,Data Scientist,36500.0,36500.0
+147,madrid,Grupo Servinform,Sobre 49 mil € -53 mil €,Data Scientist,51000.0,51000.0
+148,madrid,Bluetab,Sobre 31 mil € -33 mil €,Data Scientist,32000.0,32000.0
+149,madrid,Smart Protection,Sobre 15 mil € -17 mil €,Data Scientist,16000.0,16000.0
+150,madrid,Telefonica Tech,Sobre 38 mil € -41 mil €,Data Scientist,39500.0,39500.0
+151,madrid,Dentsu International,Sobre 517 € -562 €,Data Scientist - Becario por mes,539.5,6468
+152,madrid,Atresmedia,Sobre 25 mil € -27 mil €,Data Scientist,26000.0,26000.0
+153,madrid,Freepik,Sobre 36 mil € -39 mil €,Data Scientist,37500.0,37500.0
+154,madrid,GfK,Sobre 30 mil € -33 mil €,Data Scientist,31500.0,31500.0
+155,madrid,Good Rebels,Sobre 35 mil € -38 mil €,Data Scientist,36500.0,36500.0
+156,madrid,Serem,Sobre 39 mil € -42 mil €,Data Scientist,40500.0,40500.0
+157,madrid,Levi Strauss,Sobre 49 mil € -52 mil €,Data Scientist,50500.0,50500.0
+158,madrid,Savana,Sobre 51 mil € -55 mil €,Data Scientist,53000.0,53000.0
+159,madrid,Zooplus,Sobre 51 mil € -55 mil €,Data Scientist,53000.0,53000.0
+160,madrid,Kabel,Sobre 27 mil € -29 mil €,Data Scientist,28000.0,28000.0
+161,madrid,Findasense,Sobre 21 mil € -23 mil €,Data Scientist,22000.0,22000.0
+162,madrid,Nextail,Sobre 62 mil € -68 mil €,Data Scientist,65000.0,65000.0
+163,madrid,Taiger,Sobre 42 mil € -46 mil €,Data Scientist,44000.0,44000.0
+164,madrid,M2C Consulting,Sobre 48 mil € -51 mil €,Data Scientist,49500.0,49500.0
+165,madrid,El Corte Ingles,Sobre 21 mil € -23 mil €,Data Scientist,22000.0,22000.0
+166,madrid,Olympic Channel Services,Sobre 45 mil € -49 mil €,Data Scientist,47000.0,47000.0
+167,madrid,Analistas Financieros Internacionales,Sobre 25 mil € -27 mil €,Data Scientist,26000.0,26000.0
+168,madrid,Santillana,Sobre 49 mil € -53 mil €,Data Scientist,51000.0,51000.0
+169,madrid,ALD Automotive,Sobre 44 mil € -48 mil €,Data Scientist,46000.0,46000.0
+170,madrid,Aegon,Sobre 48 mil € -52 mil €,Data Scientist,50000.0,50000.0
+171,madrid,Evo Banco,Sobre 48 mil € -52 mil €,Data Scientist,50000.0,50000.0
+172,madrid,Teradata,Sobre 46 mil € -50 mil €,Data Scientist,48000.0,48000.0
+173,madrid,Accentue,Sobre 677 € -727 €,Data Scientist - Becario por mes,702.0,8424
+174,madrid,DOCOMO Digital,Sobre 48 mil € -53 mil €,Data Scientist,50500.0,50500.0
+175,madrid,Luca TIC,Sobre 22 mil € -24 mil €,Data Scientist,23000.0,23000.0
+176,madrid,Tempotel,Sobre 27 mil € -29 mil €,Data Scientist,28000.0,28000.0
+177,madrid,NEXO Professional Community,Sobre 28 mil € -30 mil €,Data Scientist,29000.0,29000.0
+178,madrid,Ericsson IT Solutions & Services,Sobre 35 mil € -38 mil €,Data Scientist,36500.0,36500.0
+179,madrid,Seedtag,Sobre 27 mil € -29 mil €,Data Scientist,28000.0,28000.0
+180,madrid,Irium,Sobre 37 mil € -40 mil €,Data Scientist,38500.0,38500.0
+181,madrid,BASF Digital Solutions,Sobre 51 mil € -56 mil €,Data Scientist,53500.0,53500.0
+182,madrid,Keepler,Sobre 42 mil € -45 mil €,Data Scientist,43500.0,43500.0
+183,madrid,Novabase,Sobre 26 mil € -28 mil €,Data Scientist,27000.0,27000.0
+184,madrid,Unlimiteck,Sobre 719 € -777 €,Data Scientist - Becario por mes,748.0,8976
+185,madrid,Aplicaciones en Informática Avanzada,Sobre 37 mil € -40 mil €,Data Scientist,38500.0,38500.0
+186,madrid,Altran,Sobre 49 mil € -53 mil €,Data Scientist,51000.0,51000.0
+187,madrid,ALTRAN,Sobre 50 mil € -54 mil €,Data Scientist,52000.0,52000.0
+188,madrid,Avansis,Sobre 25 mil € -27 mil €,Data Scientist - Proveedor de servicios,26000.0,26000.0
+189,madrid,Grupo Caja de Ingenieros,Sobre 39 mil € -43 mil €,Data Scientist,41000.0,41000.0
+190,madrid,PFS Group,Sobre 27 mil € -29 mil €,Data Scientist,28000.0,28000.0
+191,madrid,TE Connectivity,Sobre 2 mil € -2 mil €,Data Scientist - Becario por mes,2000.0,24000
+192,madrid,Alkemy,Sobre 1 mil € -1 mil €,Data Scientist - Becario por mes,1000.0,12000
+193,madrid,Labelium,Sobre 26 mil € -28 mil €,Data Scientist,27000.0,27000.0
+194,madrid,AnalyticAlways,Sobre 46 mil € -50 mil €,Data Scientist,48000.0,48000.0
+195,madrid,Boeing,Sobre 1 mil € -2 mil €,Data Scientist - Becario por mes,1500.0,18000
+196,madrid,JOT Internet Media,Sobre 26 mil € -29 mil €,Data Scientist,27500.0,27500.0
+197,madrid,Alter,Sobre 49 mil € -53 mil €,Data Scientist,51000.0,51000.0
+198,madrid,Grupo Inmoglaciar,Sobre 47 mil € -50 mil €,Data Scientist,48500.0,48500.0
+199,madrid,CrediMarket,Sobre 40 mil € -44 mil €,Data Scientist,42000.0,42000.0
+200,madrid,Vizzuality,Sobre 31 mil € -33 mil €,Data Scientist,32000.0,32000.0
+201,madrid,Rastreator,Sobre 29 mil € -31 mil €,Data Scientist,30000.0,30000.0
+202,madrid,ExxonMobil,Sobre 45 mil € -49 mil €,Data Scientist,47000.0,47000.0
+203,madrid,Colegio Universitario de Estudios Financieros,Sobre 48 mil € -53 mil €,Data Scientist,50500.0,50500.0
+204,madrid,8Belts,Sobre 22 mil € -24 mil €,Data Scientist,23000.0,23000.0
+205,madrid,Verisk Analytics,Sobre 57 mil € -62 mil €,Data Scientist,59500.0,59500.0
+206,madrid,Strategy Big Data,Sobre 63 mil € -67 mil €,Data Scientist,65000.0,65000.0
+207,madrid,Zed,Sobre 44 mil € -47 mil €,Data Scientist,45500.0,45500.0
+208,madrid,Dentsu,Sobre 49 mil € -52 mil €,Data Scientist,50500.0,50500.0
+209,madrid,Bestinver,Sobre 49 mil € -53 mil €,Data Scientist,51000.0,51000.0
+210,madrid,Aderen,Sobre 28 € -30 € por hora,Data Scientist - Por hora,29.0,50025
+211,madrid,Tinámica,Sobre 31 mil € -34 mil €,Data Scientist,32500.0,32500.0
+212,madrid,Novaquality Consulting,Sobre 21 mil € -23 mil €,Data Scientist,22000.0,22000.0
+213,madrid,Pragsis Technologies,Sobre 1 mil € -1 mil €,Data Scientist - Becario por mes,1000.0,12000
+214,madrid,Anonymous,Sobre 2 mil € -2 mil €,Data Scientist - Por mes,2000.0,24000
+215,madrid,Next Digital Hub,Sobre 38 mil € -41 mil €,Data Scientist,39500.0,39500.0
+216,madrid,FRG Technology Consulting,Sobre 28 mil € -31 mil €,Data Scientist,29500.0,29500.0
+217,madrid,Artefact,Sobre 49 mil € -53 mil €,Data Scientist,51000.0,51000.0
+218,madrid,Multiasistencia,Sobre 31 mil € -33 mil €,Data Scientist,32000.0,32000.0
+219,madrid,Investing.com,Sobre 38 mil € -42 mil €,Data Scientist,40000.0,40000.0
+220,madrid,Avansis,Sobre 50 mil € -53 mil €,Data Scientist,51500.0,51500.0
+221,madrid,Expert Timing Systems,Sobre 24 mil € -26 mil €,Data Scientist,25000.0,25000.0
+222,madrid,Hocelot Financial Technologies,Sobre 33 mil € -36 mil €,Data Scientist,34500.0,34500.0
+223,madrid,Centro de Cirugía de Mínima Invasión Jesús Usón,Sobre 15 mil € -16 mil €,Data Scientist,15500.0,15500.0
+224,madrid,Geoban,Sobre 1 mil € -1 mil €,Data Scientist - Becario por mes,1000.0,12000
+225,madrid,Walmeric Soluciones,Sobre 31 mil € -34 mil €,Data Scientist,32500.0,32500.0
+226,madrid,Keedio,Sobre 29 mil € -31 mil €,Data Scientist,30000.0,30000.0
+227,madrid,University of Valencia,Sobre 1 mil € -1 mil €,Data Scientist - Por mes,1000.0,12000
+228,madrid,Galgus,Sobre 990 € -1 mil €,Data Scientist - Por mes,995.0,11940
+229,madrid,Saptools Consulting,Sobre 49 mil € -53 mil €,Data Scientist,51000.0,51000.0
+230,madrid,Orange Business Services,Sobre 50 mil € -54 mil €,Data Scientist,52000.0,52000.0
+231,madrid,Fullstep Networks,Sobre 31 mil € -34 mil €,Data Scientist,32500.0,32500.0
+232,madrid,Geotab,Sobre 49 mil € -53 mil €,Data Scientist,51000.0,51000.0
+233,madrid,GlobalTMS,Sobre 28 mil € -30 mil €,Data Scientist,29000.0,29000.0
+234,madrid,NorayBio,Sobre 26 mil € -28 mil €,Data Scientist,27000.0,27000.0
+235,madrid,Smile and Learn,Sobre 30 mil € -32 mil €,Data Scientist,31000.0,31000.0
+236,madrid,Oceana,Sobre 36 mil € -39 mil €,Data Scientist,37500.0,37500.0
+237,madrid,Grupo Imprex Europe,Sobre 19 mil € -21 mil €,Data Scientist,20000.0,20000.0
+238,madrid,Arfima Trading,Sobre 19 mil € -20 mil €,Data Scientist,19500.0,19500.0
+239,madrid,Besoftware,Sobre 315 € -338 €,Data Scientist - Becario por mes,326.5,3912
+240,madrid,Idrica ,Sobre 31 mil € -34 mil €,Data Scientist,32500.0,32500.0
+241,madrid,Lynx Talent,Sobre 33 mil € -35 mil €,Data Scientist,34000.0,34000.0
+242,madrid,BMW Financial Services,Sobre 25 mil € -27 mil €,Data Scientist,26000.0,26000.0
+243,madrid,Instituto de Salud Carlos III,Sobre 43 mil € -47 mil €,Data Scientist,45000.0,45000.0
+244,madrid,Infoser New Tecnologies,Sobre 37 mil € -40 mil €,Data Scientist,38500.0,38500.0
+245,madrid,SGS Consulting,Sobre 24 mil € -26 mil €,Data Scientist - Proveedor de servicios,25000.0,25000.0
+246,madrid,Sanitas Medical Center,Sobre 49 mil € -53 mil €,Data Scientist,51000.0,51000.0
+247,madrid,Metiora,Sobre 26 mil € -28 mil €,Data Scientist,27000.0,27000.0
+248,madrid,MCA Engineering,Sobre 35 mil € -37 mil €,Data Scientist,36000.0,36000.0
+249,madrid,YUMP,Sobre 50 mil € -54 mil €,Data Scientist,52000.0,52000.0
+250,madrid,Pompeii,Sobre 27 mil € -29 mil €,Data Scientist,28000.0,28000.0
+251,madrid,Amadix.,Sobre 43 mil € -47 mil €,Data Scientist,45000.0,45000.0
+252,madrid,Tidart Digital Media & Data Agency,Sobre 28 mil € -30 mil €,Data Scientist,29000.0,29000.0
+253,madrid,Dive,Sobre 32 mil € -35 mil €,Data Scientist,33500.0,33500.0
+254,madrid,CoHispania,Sobre 21 mil € -23 mil €,Data Scientist,22000.0,22000.0
+255,madrid,Digilant,Sobre 37 mil € -40 mil €,Data Scientist,38500.0,38500.0
+256,madrid,DatMean,Sobre 23 mil € -25 mil €,Data Scientist,24000.0,24000.0
+257,madrid,Growara,Sobre 43 mil € -47 mil €,Data Scientist,45000.0,45000.0
+258,madrid,Grass Roots Group,Sobre 220 € -235 €,Data Scientist - Becario por mes,227.5,2724
+259,madrid,Innaxis,Sobre 34 mil € -38 mil €,Data Scientist,36000.0,36000.0
+260,madrid,BBVA AI Factory,Sobre 40 mil € -45 mil €,Data Scientist,42500.0,42500.0
+261,madrid,QUANT AI Lab,Sobre 32 mil € -34 mil €,Data Scientist,33000.0,33000.0
+262,madrid,Factoría Ambiental,Sobre 3 mil € -3 mil €,Data Scientist - Por mes,3000.0,36000
+263,madrid,MACSF,Sobre 156 mil € -168 mil €,Data Scientist,162000.0,162000.0
+264,madrid,Binfluencer,Sobre 27 mil € -29 mil €,Data Scientist,28000.0,28000.0
+265,madrid,Pursuit Collection,Sobre 12 mil € -14 mil €,Data Scientist,13000.0,13000.0
+266,madrid,Pipet Lab,Sobre 25 mil € -27 mil €,Data Scientist,26000.0,26000.0
+267,madrid,Recognai,Sobre 39 mil € -43 mil €,Data Scientist,41000.0,41000.0
+268,madrid,CAS,Sobre 67 mil € -73 mil €,Data Scientist,70000.0,70000.0
+269,madrid,Nommon,Sobre 39 mil € -42 mil €,Data Scientist,40500.0,40500.0
+270,madrid,Podo Technology,Sobre 49 mil € -54 mil €,Data Scientist,51500.0,51500.0
+271,madrid,Rede Marista,Sobre 14 mil € -16 mil €,Data Scientist - Becario,15000.0,15000.0
+272,madrid,medicalmotion,Sobre 3 mil € -4 mil €,Data Scientist - Por mes,3500.0,42000
+273,madrid,Niteimpirta,Sobre 37 mil € -39 mil €,Data Scientist,38000.0,38000.0
+274,madrid,Paco SA,Sobre 22 mil € -24 mil €,Data Scientist,23000.0,23000.0
+275,madrid,Raíz Cimentaciones,Sobre 47 mil € -51 mil €,Data Scientist,49000.0,49000.0
+276,madrid,Digital Rubik,Sobre 104 mil € -112 mil €,Data Scientist,108000.0,108000.0
+277,madrid,Capita,Sobre 49 mil € -53 mil €,Data Scientist,51000.0,51000.0
+278,madrid,Sensowave,Sobre 32 mil € -35 mil €,Data Scientist,33500.0,33500.0
+279,madrid,Chess.com,Sobre 61 mil € -66 mil €,Data Scientist,63500.0,63500.0
+280,madrid,Gestión,Sobre 24 mil € -27 mil €,Data Scientist,25500.0,25500.0
+281,madrid,Adiant,Sobre 24 mil € -26 mil €,Data Scientist,25000.0,25000.0
+282,madrid,Action Contre la Faim ,Sobre 28 mil € -30 mil €,Data Scientist,29000.0,29000.0
+283,madrid,----,Sobre 38 mil € -40 mil €,Data Scientist,39000.0,39000.0
+284,madrid,INNOVA Consulting Group,Sobre 49 mil € -53 mil €,Data Scientist,51000.0,51000.0
+285,madrid,Peru En Tu Mesa,Sobre 24 mil € -26 mil €,Data Scientist,25000.0,25000.0
+286,madrid,Inbonis,Sobre 49 mil € -54 mil €,Data Scientist,51500.0,51500.0
+287,madrid,R&M Data Scientist,Sobre 47 mil € -50 mil €,Data Scientist,48500.0,48500.0
+288,madrid,EFwef,Sobre 30 mil € -33 mil €,Data Scientist,31500.0,31500.0
+289,madrid,Kernel,Sobre 43 mil € -47 mil €,Data Scientist,45000.0,45000.0
+290,madrid,NPR Software,Sobre 33 mil € -35 mil €,Data Scientist,34000.0,34000.0
+291,madrid,AXA / France,Sobre 32 mil € -34 mil €,Data Scientist,33000.0,33000.0
+292,madrid,Building Outstanding Designs,Sobre 27 mil € -29 mil €,Data Scientist,28000.0,28000.0
+293,madrid,Sum (Spain),Sobre 31 mil € -34 mil €,Data Scientist,32500.0,32500.0
+294,madrid,BCC,Sobre 29 mil € -32 mil €,Data Scientist,30500.0,30500.0
+295,madrid,Marconi International Usa,Sobre 46 mil € -50 mil €,Data Scientist - Proveedor de servicios,48000.0,48000.0
+296,madrid,clipmgmt,Sobre 49 mil € -54 mil €,Data Scientist,51500.0,51500.0
+297,madrid,DataScientest,Sobre 39 mil € -42 mil €,Data Scientist,40500.0,40500.0
+298,madrid,AF,Sobre 26 mil € -28 mil €,Data Scientist,27000.0,27000.0
+299,madrid,Experius IT Consultancy,Sobre 30 mil € -33 mil €,Data Scientist,31500.0,31500.0
+300,madrid,OBI Intelligence,Sobre 72 mil € -78 mil €,Data Scientist,75000.0,75000.0
+301,madrid,System to Increase Quality and Knowledge,Sobre 17 mil € -18 mil €,Data Scientist,17500.0,17500.0
+302,madrid,Graphet Inc,Sobre 26 mil € -28 mil €,Data Scientist,27000.0,27000.0
+303,madrid,Lang.ai,Sobre 53 mil € -58 mil €,Data Scientist,55500.0,55500.0
+304,madrid,Sustainable Pest Systems,Sobre 46 mil € -50 mil €,Data Scientist,48000.0,48000.0
+305,madrid,BBVA,54.783 € /año,Senior Data Scientist,54783,54783
+306,madrid,Minsait,48.448 € /año,Senior Data Scientist,48448,48448
+307,madrid,Accenture,32.212 € /año,Data Science Analyst,32212,32212
+308,madrid,Orange,52.140 € /año,Senior Data Scientist,52140,52140
+309,madrid,Cabify,53.455 € /año,Senior Data Scientist,53455,53455
+310,madrid,Santander,30.194 € /año,Junior Data Scientist,30194,30194
+311,madrid,McKinsey & Company,48.628 € /año,Senior Data Scientist,48628,48628
+312,madrid,Savana,51.201 € /año,Senior Data Scientist,51201,51201
+313,madrid,IIC,25.434 € /año,Junior Data Scientist,25434,25434
+314,madrid,BBVA,Sobre 31 mil € -36 mil €,Científico De Datos,33500.0,33500.0
+315,madrid,EUROSTAR MEDIAGROUP,Sobre 44 mil € -48 mil €,Científico De Datos,46000.0,46000.0
+316,madrid,Telefónica,Sobre 36 mil € -45 mil €,Senior Data Scientist,40500.0,40500.0
+317,madrid,Santander,Sobre 61 mil € -68 mil €,Senior Data Scientist,64500.0,64500.0
+318,madrid,IBM,Sobre 37 mil € -44 mil €,Senior Data Scientist,40500.0,40500.0
+319,madrid,Repsol,Sobre 49 mil € -60 mil €,Senior Data Scientist,54500.0,54500.0
+320,madrid,SDG Group,Sobre 34 mil € -38 mil €,Senior Data Scientist,36000.0,36000.0
+321,madrid,Bankinter,Sobre 50 mil € -69 mil €,Senior Data Scientist,59500.0,59500.0
+322,madrid,Stratio,Sobre 43 mil € -47 mil €,Senior Data Scientist,45000.0,45000.0
+323,madrid,EPAM,Sobre 52 mil € -61 mil €,Senior Data Scientist,56500.0,56500.0
+324,madrid,The Cocktail,Sobre 47 mil € -51 mil €,Lead Data Scientist,49000.0,49000.0
+325,madrid,BBVA,Sobre 39 mil € -55 mil €,Associate Data Scientist,47000.0,47000.0
+326,madrid,BBVA,Sobre 46 mil € -58 mil €,Manager Data Scientist,52000.0,52000.0
+327,madrid,Santander,Sobre 11 mil € -12 mil €,Data Science - Becario,11500.0,11500.0
+328,madrid,Santander,Sobre 49 mil € -53 mil €,Data Science,51000.0,51000.0
+329,madrid,KPMG,Sobre 624 € -680 €,Data Science - Becario por mes,652.0,7824
+330,madrid,Ayesa,Sobre 30 mil € -33 mil €,Data Science,31500.0,31500.0
+331,madrid,Avanade,Sobre 22 mil € -24 mil €,Data Science,23000.0,23000.0
+332,madrid,Samsung Electronics,Sobre 70 mil € -77 mil €,Data Science,73500.0,73500.0
+333,madrid,Ninguno,Sobre 1 mil € -1 mil €,Data Science - Becario por mes,1000.0,12000
+334,madrid,EDP Renewables,Sobre 595 € -644 €,Data Science - Becario por mes,619.5,7428
+335,madrid,WiZink,Sobre 59 mil € -64 mil €,Data Science,61500.0,61500.0
+336,madrid,Holcim,Sobre 21 mil € -24 mil €,Data Science - Becario,22500.0,22500.0
+337,madrid,TomTom,Sobre 808 € -865 €,Data Science - Becario por mes,836.5,10032
+338,madrid,Alkemy,Sobre 30 mil € -32 mil €,Data Science,31000.0,31000.0
+339,madrid,Endesa X,Sobre 863 € -944 €,Data Science - Becario por mes,903.5,10836
+340,madrid,Vivid Seats,Sobre 40 mil € -43 mil €,Data Science,41500.0,41500.0
+341,madrid,The Perfume Shop,Sobre 32 mil € -35 mil €,Data Science,33500.0,33500.0
+342,madrid,INGENIO LABS,Sobre 518 € -566 €,Data Science - Becario por mes,542.0,6504
+343,madrid,Arrenta,Sobre 19 mil € -21 mil €,Data Science - Becario,20000.0,20000.0
+344,madrid,Breeze Technologies UG,Sobre 15 € -16 € por hora,Data Science - Becario por hora,15.5,25875
+345,madrid,A Tech (IA),Sobre 20 mil € -21 mil €,Data Science,20500.0,20500.0
+346,madrid,INCINE UNIVERSITARIO,Sobre 3 mil € -3 mil €,Data Science - Por mes,3000.0,36000
+347,madrid,Santander,Sobre 50 mil € -53 mil €,Científico De Datos,51500.0,51500.0
+348,madrid,IBM,Sobre 33 mil € -35 mil €,Científico De Datos,34000.0,34000.0
+349,madrid,The Cocktail,Sobre 685 € -741 €,Científico De Datos - Por mes,713.0,8556
+350,madrid,Europ Assistance,Sobre 435 € -465 €,Científico De Datos - Becario por mes,450.0,5400
+351,madrid,PayPal,Sobre 70 mil € -76 mil €,Científico De Datos,73000.0,73000.0
+352,madrid,Mott MacDonald,Sobre 37 mil € -40 mil €,Data scientists,38500.0,38500.0
+353,madrid,Accenture,Sobre 46 mil € -50 mil €,Senior Data Scientist,48000.0,48000.0
+354,madrid,KPMG,Sobre 34 mil € -36 mil €,Senior Data Scientist,35000.0,35000.0
+355,madrid,Vodafone,Sobre 44 mil € -48 mil €,Senior Data Scientist,46000.0,46000.0
+356,madrid,Sopra Steria,Sobre 56 mil € -61 mil €,Senior Data Scientist,58500.0,58500.0
+357,madrid,Oracle,Sobre 48 mil € -52 mil €,Senior Data Scientist,50000.0,50000.0
+358,madrid,Ineco,Sobre 49 mil € -53 mil €,Senior Data Scientist,51000.0,51000.0
+359,madrid,Randstad,Sobre 29 mil € -31 mil €,Senior Data Scientist,30000.0,30000.0
+360,madrid,Boston Consulting Group,Sobre 73 mil € -78 mil €,Senior Data Scientist - Proveedor de servicios,75500.0,75500.0
+361,madrid,Majorel,Sobre 39 mil € -43 mil €,Senior Data Scientist,41000.0,41000.0
+362,madrid,BBVA Next Technologies,Sobre 36 mil € -39 mil €,Senior Data Scientist,37500.0,37500.0
+363,madrid,ALSTOM,Sobre 65 mil € -70 mil €,Senior Data Scientist,67500.0,67500.0
+364,madrid,Capgemini Invent,Sobre 50 mil € -54 mil €,Senior Data Scientist,52000.0,52000.0
+365,madrid,Openbank,Sobre 82 mil € -88 mil €,Senior Data Scientist,85000.0,85000.0
+366,madrid,HipoGes Iberia,Sobre 57 mil € -62 mil €,Senior Data Scientist,59500.0,59500.0
+367,madrid,GFT,Sobre 53 mil € -57 mil €,Senior Data Scientist,55000.0,55000.0
+368,madrid,Clarity AI,Sobre 48 mil € -52 mil €,Senior Data Scientist,50000.0,50000.0
+369,madrid,Dentsu International,Sobre 40 mil € -44 mil €,Senior Data Scientist,42000.0,42000.0
+370,madrid,Zooplus,Sobre 42 mil € -45 mil €,Senior Data Scientist,43500.0,43500.0
+371,madrid,M2C Consulting,Sobre 47 mil € -50 mil €,Senior Data Scientist,48500.0,48500.0
+372,madrid,JTI - Japan Tobacco International,Sobre 77 mil € -83 mil €,Senior Data Scientist,80000.0,80000.0
+373,madrid,Teradata,Sobre 55 mil € -59 mil €,Senior Data Scientist,57000.0,57000.0
+374,madrid,CoverWallet,Sobre 41 mil € -43 mil €,Senior Data Scientist,42000.0,42000.0
+375,madrid,BASF Digital Solutions,Sobre 51 mil € -54 mil €,Senior Data Scientist,52500.0,52500.0
+376,madrid,Aplazame,Sobre 45 mil € -50 mil €,Senior Data Scientist,47500.0,47500.0
+377,madrid,Altran Group,Sobre 41 mil € -44 mil €,Senior Data Scientist,42500.0,42500.0
+378,madrid,Synergic Partners,Sobre 35 mil € -38 mil €,Senior Data Scientist,36500.0,36500.0
+379,madrid,Ladorian,Sobre 46 mil € -50 mil €,Senior Data Scientist,48000.0,48000.0
+380,madrid,Brambles,Sobre 76 mil € -83 mil €,Senior Data Scientist,79500.0,79500.0
+381,madrid,TMC (Netherlands),Sobre 54 mil € -59 mil €,Senior Data Scientist,56500.0,56500.0
+382,madrid,Orange Business Services,Sobre 45 mil € -50 mil €,Senior Data Scientist,47500.0,47500.0
+383,madrid,Marketing & Bases De Datos Consultores,Sobre 36 mil € -39 mil €,Senior Data Scientist,37500.0,37500.0
+384,madrid,Management Solutions,Sobre 43 mil € -46 mil €,Senior Data Scientist,44500.0,44500.0
+385,madrid,Atam,Sobre 29 mil € -31 mil €,Senior Data Scientist,30000.0,30000.0
+386,madrid,BBVA AI Factory,Sobre 45 mil € -49 mil €,Senior Data Scientist,47000.0,47000.0
+387,madrid,QUANT AI Lab,Sobre 58 mil € -62 mil €,Senior Data Scientist,60000.0,60000.0
+388,madrid,Italcementi,Sobre 42 mil € -46 mil €,Senior Data Scientist,44000.0,44000.0
+389,madrid,Todo Econometría,Sobre 82 mil € -88 mil €,Senior Data Scientist,85000.0,85000.0
+390,madrid,BeDataScience,Sobre 26 mil € -28 mil €,Senior Data Scientist,27000.0,27000.0
+391,madrid,Jada,Sobre 41 mil € -45 mil €,Senior Data Scientist,43000.0,43000.0
+392,madrid,Indra,Sobre 32 mil € -35 mil €,Junior Data Scientist,33500.0,33500.0
+393,madrid,Telefónica,Sobre 31 mil € -34 mil €,Junior Data Scientist,32500.0,32500.0
+394,madrid,Telefónica,Sobre 733 € -783 €,Junior Data Scientist - Becario por mes,758.0,9096
+395,madrid,BBVA,Sobre 34 mil € -36 mil €,Junior Data Scientist,35000.0,35000.0
+396,madrid,El Corte Inglés,Sobre 19 mil € -21 mil €,Junior Data Scientist,20000.0,20000.0
+397,madrid,IBM,Sobre 32 mil € -34 mil €,Junior Data Scientist,33000.0,33000.0
+398,madrid,Repsol,Sobre 40 mil € -43 mil €,Junior Data Scientist,41500.0,41500.0
+399,madrid,VIEWNEXT,Sobre 22 mil € -23 mil €,Junior Data Scientist,22500.0,22500.0
+400,madrid,Microsoft,Sobre 27 mil € -29 mil €,Junior Data Scientist,28000.0,28000.0
+401,madrid,Cognizant Technology Solutions,Sobre 23 mil € -25 mil €,Junior Data Scientist,24000.0,24000.0
+402,madrid,Avanade,Sobre 24 mil € -25 mil €,Junior Data Scientist,24500.0,24500.0
+403,madrid,McKinsey & Company,Sobre 34 mil € -37 mil €,Junior Data Scientist,35500.0,35500.0
+404,madrid,Cepsa,Sobre 26 mil € -28 mil €,Junior Data Scientist,27000.0,27000.0
+405,madrid,VASS,Sobre 433 € -468 €,Junior Data Scientist - Por mes,450.5,5400
+406,madrid,Bankinter,Sobre 29 mil € -32 mil €,Junior Data Scientist,30500.0,30500.0
+407,madrid,Informática El Corte Inglés,Sobre 25 mil € -27 mil €,Junior Data Scientist,26000.0,26000.0
+408,madrid,Kairos Digital Solutions,Sobre 503 € -546 €,Junior Data Scientist - Becario por mes,524.5,6288
+409,madrid,Devo,Sobre 26 mil € -28 mil €,Junior Data Scientist,27000.0,27000.0
+410,madrid,EDP,Sobre 10 € -10 € por hora,Junior Data Scientist - Por hora,10.0,17250
+411,madrid,Innova-Tsn,Sobre 22 mil € -23 mil €,Junior Data Scientist,22500.0,22500.0
+412,madrid,Celonis,Sobre 961 € -1 mil €,Junior Data Scientist - Becario por mes,980.5,11760
+413,madrid,WiZink,Sobre 31 mil € -34 mil €,Junior Data Scientist - Proveedor de servicios,32500.0,32500.0
+414,madrid,Savana,Sobre 939 € -1 mil €,Junior Data Scientist - Becario por mes,969.5,11628
+415,madrid,Indizen Consulting,Sobre 20 mil € -22 mil €,Junior Data Scientist,21000.0,21000.0
+416,madrid,ETS Asset Management Factory,Sobre 28 mil € -31 mil €,Junior Data Scientist,29500.0,29500.0
+417,madrid,Alkemy,Sobre 29 mil € -31 mil €,Junior Data Scientist,30000.0,30000.0
+418,madrid,SGAE,Sobre 26 mil € -28 mil €,Junior Data Scientist,27000.0,27000.0
+419,madrid,Keedio,Sobre 24 mil € -26 mil €,Junior Data Scientist,25000.0,25000.0
+420,madrid,NPSG Global,Sobre 38 mil € -42 mil €,Junior Data Scientist,40000.0,40000.0
+421,madrid,Hava-Soft Consultoría Informática,Sobre 19 mil € -21 mil €,Junior Data Scientist,20000.0,20000.0
+422,madrid,Sensu,Sobre 25 mil € -27 mil €,Junior Data Scientist,26000.0,26000.0
+423,madrid,Podo,Sobre 18 mil € -19 mil €,Junior Data Scientist,18500.0,18500.0
+424,madrid,Qaleon,Sobre 18 mil € -20 mil €,Junior Data Scientist,19000.0,19000.0
+425,madrid,Rocket Lawyer,Sobre 29 mil € -31 mil €,Junior Data Scientist,30000.0,30000.0
+426,madrid,everis,Sobre 35 mil € -38 mil €,Data Analyst/Data Scientist,36500.0,36500.0
+427,madrid,Telefónica,Sobre 30 mil € -33 mil €,Data Analyst/Data Scientist,31500.0,31500.0
+428,madrid,autonomo,Sobre 2 mil € -2 mil €,Data Analyst/Data Scientist - Por mes,2000.0,24000
+429,madrid,Majorel,Sobre 40 mil € -42 mil €,Data Analyst/Data Scientist,41000.0,41000.0
+430,madrid,Universidad Complutense de Madrid,Sobre 941 € -1 mil €,Data Analyst/Data Scientist - Por mes,970.5,11640
+431,madrid,Starbucks,Sobre 1 mil € -1 mil €,Data Analyst/Data Scientist - Por mes,1000.0,12000
+432,madrid,Smart Protection,Sobre 18 mil € -20 mil €,Data Analyst/Data Scientist,19000.0,19000.0
+433,madrid,Tech Mahindra,Sobre 31 mil € -34 mil €,Data Analyst/Data Scientist,32500.0,32500.0
+434,madrid,Telefónica,Sobre 40 mil € -43 mil €,Lead Data Scientist,41500.0,41500.0
+435,madrid,Cepsa,Sobre 52 mil € -57 mil €,Lead Data Scientist,54500.0,54500.0
+436,madrid,Oliver Wyman,Sobre 71 mil € -77 mil €,Lead Data Scientist,74000.0,74000.0
+437,madrid,Zooplus,Sobre 63 mil € -68 mil €,Lead Data Scientist,65500.0,65500.0
+438,madrid,Scalian,Sobre 60 mil € -65 mil €,Lead Data Scientist,62500.0,62500.0
+439,madrid,Monom,Sobre 53 mil € -57 mil €,Lead Data Scientist,55000.0,55000.0
+440,madrid,Cognizant Technology Solutions,Sobre 32 mil € -35 mil €,Associate Data Scientist,33500.0,33500.0
+441,madrid,Acciona,Sobre 49 mil € -53 mil €,Data Science Manager,51000.0,51000.0
+442,madrid,The Cocktail,Sobre 57 mil € -61 mil €,Data Science Manager,59000.0,59000.0
+443,madrid,Globant,Sobre 73 mil € -78 mil €,Data Science Manager,75500.0,75500.0
+444,madrid,Telefónica,Sobre 28 mil € -30 mil €,Data Science Analyst,29000.0,29000.0
+445,madrid,Accenture,Sobre 47 mil € -51 mil €,Data Science Consultant,49000.0,49000.0
+446,madrid,Hewlett Packard Enterprise | HPE,Sobre 35 mil € -38 mil €,Data Science Consultant,36500.0,36500.0
+447,madrid,Capgemini Invent,Sobre 54 mil € -58 mil €,Data Science Consultant,56000.0,56000.0
+448,madrid,Capgemini Engineering,Sobre 36 mil € -39 mil €,Data Science Engineer,37500.0,37500.0
+449,madrid,Signify,Sobre 39 mil € -42 mil €,Data Science Engineer,40500.0,40500.0
+450,madrid,EY,Sobre 50 mil € -53 mil €,Consultant Data Scientist,51500.0,51500.0
+451,madrid,Levi Strauss,Sobre 1 mil € -1 mil €,Graduate Data Scientist - Becario por mes,1000.0,12000
+452,madrid,Amazon,Sobre 82 mil € -88 mil €,Applied Data Scientist,85000.0,85000.0
+453,madrid,The CT Engineering Group,Sobre 46 mil € -50 mil €,Data Scientist Internship,48000.0,48000.0
+454,madrid,BBVA,Sobre 31 mil € -34 mil €,Entry Level Data Scientist,32500.0,32500.0
+455,madrid,Strategy Big Data,Sobre 22 mil € -24 mil €,Data Scientist Junior,23000.0,23000.0
+456,madrid,Lingokids,Sobre 55 mil € -60 mil €,Sr. Data Scientist,57500.0,57500.0
+457,madrid,Capgemini,Sobre 49 mil € -53 mil €,Data Scientist Consultant,51000.0,51000.0
+458,madrid,Management Solutions,Sobre 26 mil € -28 mil €,Data Scientist Consultant,27000.0,27000.0
+459,madrid,Deutsche Bank,Sobre 84 mil € -90 mil €,Head of Data Science,87000.0,87000.0
+460,madrid,Verti,Sobre 63 mil € -68 mil €,Head of Data Science,65500.0,65500.0
+461,madrid,Accenture,Sobre 32 mil € -35 mil €,Data Scientist Analyst,33500.0,33500.0
+462,madrid,Savana,Sobre 50 mil € -55 mil €,NLP Data Scientist,52500.0,52500.0
+463,madrid,DataRobot,Sobre 114 mil € -123 mil €,Customer Facing Data Scientist,118500.0,118500.0
+464,madrid,Telefónica,Sobre 53 mil € -58 mil €,Product Data Scientist,55500.0,55500.0
+465,madrid,The Cocktail,Sobre 520 € -563 €,Data Scientist Trainee - Becario por mes,541.5,6492
+466,madrid,AyGloo,Sobre 17 mil € -19 mil €,Data Analyst/Junior Data Scientist,18000.0,18000.0
+467,madrid,Capgemini,Sobre 53 mil € -58 mil €,Data Engineer/Data Scientist,55500.0,55500.0
+468,madrid,Cabify,Sobre 62 mil € -67 mil €,Senior Data Science Manager,64500.0,64500.0
+469,madrid,Tinámica,Sobre 53 mil € -57 mil €,Senior Data Science Manager,55000.0,55000.0
+470,madrid,Oliver Wyman,Sobre 96 mil € -103 mil €,Senior Lead Data Scientist,99500.0,99500.0
+471,madrid,Agile Solutions,Sobre 3 mil € -3 mil €,Data Science Team Lead - Por mes,3000.0,36000
+472,madrid,Asociacion ICEA,Sobre 49 mil € -54 mil €,Business Analyst/Data Scientist,51500.0,51500.0
+473,madrid,BEEVA,Sobre 29 mil € -32 mil €,Data Scientist & Machine Learning Engineer,30500.0,30500.0
+474,madrid,everis,Sobre 35 mil € -38 mil €,Business Data Scientist,36500.0,36500.0
+475,madrid,Carto,Sobre 42 mil € -45 mil €,Spatial Data Scientist,43500.0,43500.0
+476,madrid,Orange,Sobre 57 mil € -62 mil €,Data Scientist (Senior Level),59500.0,59500.0
+477,madrid,Enel Green Power,Sobre 49 mil € -53 mil €,Machine Learning Researcher/Data Scientist,51000.0,51000.0
+478,madrid,Management Solutions,Sobre 27 mil € -29 mil €,Consultor Data Science,28000.0,28000.0
+479,madrid,Neural.ONE - Digital Marketing Technologies,Sobre 46 mil € -50 mil €,Consultor Data Science,48000.0,48000.0
+480,madrid,Virtual Desk Jobs,Sobre 47 mil € -50 mil €,Senior Data Science,48500.0,48500.0
+481,madrid,Teralco Group,Sobre 46 mil € -50 mil €,Data Scientist/Project Manager,48000.0,48000.0
+482,madrid,Synergic Partners,Sobre 33 mil € -36 mil €,Mid Data Scientist,34500.0,34500.0
+483,madrid,Santander,Sobre 31 mil € -34 mil €,Analista de CIencia de Datos,32500.0,32500.0
+484,madrid,Vodafone,Sobre 30 mil € -33 mil €,Specialist Data Scientist,31500.0,31500.0
+485,madrid,Ninguno,Sobre 11 mil € -11 mil €,Data Scientist/AI Practitioner,11000.0,11000.0
+486,madrid,Avansis,Sobre 49 mil € -53 mil €,Desarrollador Python y científico de datos,51000.0,51000.0
+487,madrid,SURFONART,Sobre 63 mil € -68 mil €,Business Intelligence/Data Scientist Manager,65500.0,65500.0
+488,madrid,IBM,Sobre 52 mil € -56 mil €,Data Science Program Manager,54000.0,54000.0
+489,madrid,Pix4D,Sobre 510 € -545 €,Data Science QA Engineer - Por mes,527.5,6324
+490,madrid,Telefónica,Sobre 47 mil € -50 mil €,Data Scientist-BI Analyst,48500.0,48500.0
+491,madrid,Deloitte,Sobre 63 mil € -69 mil €,Data Scientist - Senior Specialist,66000.0,66000.0
+492,madrid,Banco Santander,Sobre 49 mil € -53 mil €,Analista y científico de datos,51000.0,51000.0
+493,madrid,Celonis,Sobre 36 mil € -39 mil €,Data Science and Management Consultant,37500.0,37500.0
+494,san-francisco,Meta,157.484 US$ /año,Data Scientist,157484,157484
+495,san-francisco,Airbnb,188.449 US$ /año,Data Scientist,188449,188449
+496,san-francisco,Uber,147.961 US$ /año,Data Scientist,147961,147961
+497,san-francisco,Stitch Fix,175.096 US$ /año,Data Scientist,175096,175096
+498,san-francisco,Snowflake,153.549 US$ /año,Data Scientist,153549,153549
+499,san-francisco,Visa Inc.,134.189 US$ /año,Data Scientist,134189,134189
+500,san-francisco,Lyft,165.021 US$ /año,Data Scientist,165021,165021
+501,san-francisco,C3 AI,132.263 US$ /año,Data Scientist,132263,132263
+502,san-francisco,Oracle,163.324 US$ /año,Data Scientist,163324,163324
+503,san-francisco,Autodesk,126.428 US$ /año,Data Scientist,126428,126428
+504,san-francisco,Twitter,155.267 US$ /año,Data Scientist,155267,155267
+505,san-francisco,Google,151.568 US$ /año,Data Scientist,151568,151568
+506,san-francisco,Salesforce,153.437 US$ /año,Data Scientist,153437,153437
+507,san-francisco,IBM,141.640 US$ /año,Data Scientist,141640,141640
+508,san-francisco,Asana,158.798 US$ /año,Data Scientist,158798,158798
+509,san-francisco,Workday,138.759 US$ /año,Data Scientist,138759,138759
+510,san-francisco,Meta,8400 US$ /mes,Data Scientist - Becario por mes,8400,100800
+511,san-francisco,Guidewire,132.340 US$ /año,Data Scientist,132340,132340
+512,san-francisco,Block,158.427 US$ /año,Data Scientist,158427,158427
+513,san-francisco,Lawrence Livermore National Laboratory,142.951 US$ /año,Data Scientist,142951,142951
+514,san-francisco,Wish,148.220 US$ /año,Data Scientist,148220,148220
+515,san-francisco,Cisco Systems,184.899 US$ /año,Data Scientist,184899,184899
+516,san-francisco,LinkedIn,144.752 US$ /año,Data Scientist,144752,144752
+517,san-francisco,Adobe,149.569 US$ /año,Data Scientist,149569,149569
+518,san-francisco,Nextdoor,154.171 US$ /año,Data Scientist,154171,154171
+519,san-francisco,Genentech,161.804 US$ /año,Data Scientist,161804,161804
+520,san-francisco,Pinterest,169.230 US$ /año,Data Scientist,169230,169230
+521,san-francisco,DoorDash,161.776 US$ /año,Data Scientist,161776,161776
+522,san-francisco,Walmart,146.538 US$ /año,Data Scientist,146538,146538
+523,san-francisco,Natera,126.000 US$ /año,Data Scientist,126000,126000
+524,san-francisco,Verisk Analytics,106.910 US$ /año,Data Scientist,106910,106910
+525,san-francisco,Opendoor,165.799 US$ /año,Data Scientist,165799,165799
+526,san-francisco,Lumiata,139.090 US$ /año,Data Scientist,139090,139090
+527,san-francisco,Tesla,119.992 US$ /año,Data Scientist,119992,119992
+528,san-francisco,Allstate,111.309 US$ /año,Data Scientist,111309,111309
+529,san-francisco,UC San Francisco,135.600 US$ /año,Data Scientist,135600,135600
+530,san-francisco,Esurance,114.907 US$ /año,Data Scientist,114907,114907
+531,san-francisco,Ancestry,138.425 US$ /año,Data Scientist,138425,138425
+532,san-francisco,Samba TV,125.113 US$ /año,Data Scientist,125113,125113
+533,san-francisco,Clover Health,153.635 US$ /año,Data Scientist,153635,153635
+534,san-francisco,Microsoft,156.384 US$ /año,Data Scientist,156384,156384
+535,san-francisco,Instacart,177.085 US$ /año,Data Scientist,177085,177085
+536,san-francisco,Dropbox,160.366 US$ /año,Data Scientist,160366,160366
+537,san-francisco,Wells Fargo,144.529 US$ /año,Data Scientist,144529,144529
+538,san-francisco,Amazon,165.000 US$ /año,Data Scientist,165000,165000
+539,san-francisco,SAP,122.522 US$ /año,Data Scientist,122522,122522
+540,san-francisco,Brex,197.074 US$ /año,Data Scientist,197074,197074
+541,san-francisco,SoFi,137.800 US$ /año,Data Scientist,137800,137800
+542,san-francisco,Apple,154.754 US$ /año,Data Scientist,154754,154754
+543,san-francisco,Tapjoy,149.648 US$ /año,Data Scientist,149648,149648
+544,san-francisco,Yelp,143.436 US$ /año,Data Scientist,143436,143436
+545,san-francisco,LendingClub,109.989 US$ /año,Data Scientist,109989,109989
+546,san-francisco,Lime,141.799 US$ /año,Data Scientist,141799,141799
+547,san-francisco,Stripe,170.718 US$ /año,Data Scientist,170718,170718
+548,san-francisco,Robinhood,174.180 US$ /año,Data Scientist,174180,174180
+549,san-francisco,Lawrence Berkeley Lab,133.297 US$ /año,Data Scientist,133297,133297
+550,san-francisco,The Climate Corp,152.925 US$ /año,Data Scientist,152925,152925
+551,san-francisco,GE,129.024 US$ /año,Data Scientist,129024,129024
+552,san-francisco,Twitch,172.052 US$ /año,Data Scientist,172052,172052
+553,san-francisco,J.P. Morgan,162.238 US$ /año,Data Scientist,162238,162238
+554,san-francisco,Kaiser Permanente,118.402 US$ /año,Data Scientist,118402,118402
+555,san-francisco,Ayasdi,182.204 US$ /año,Data Scientist,182204,182204
+556,san-francisco,Aktana,138.322 US$ /año,Data Scientist,138322,138322
+557,san-francisco,KeepTruckin,169.624 US$ /año,Data Scientist,169624,169624
+558,san-francisco,Scribd,140.881 US$ /año,Data Scientist,140881,140881
+559,san-francisco,Lam Research,129.595 US$ /año,Data Scientist,129595,129595
+560,san-francisco,Glassdoor,141.295 US$ /año,Data Scientist,141295,141295
+561,san-francisco,Rakuten,133.618 US$ /año,Data Scientist,133618,133618
+562,san-francisco,PlayStation,129.865 US$ /año,Data Scientist,129865,129865
+563,san-francisco,Indeed,161.913 US$ /año,Data Scientist,161913,161913
+564,san-francisco,Shipt,126.791 US$ /año,Data Scientist,126791,126791
+565,san-francisco,Roblox,193.422 US$ /año,Data Scientist,193422,193422
+566,san-francisco,Pandora,164.287 US$ /año,Data Scientist,164287,164287
+567,san-francisco,First Republic Bank,133.576 US$ /año,Data Scientist,133576,133576
+568,san-francisco,"CSAA Insurance Group, a AAA Insurer",134.206 US$ /año,Data Scientist,134206,134206
+569,san-francisco,Gap,139.143 US$ /año,Data Scientist,139143,139143
+570,san-francisco,Vungle,139.299 US$ /año,Data Scientist,139299,139299
+571,san-francisco,Kelvin,117.611 US$ /año,Data Scientist,117611,117611
+572,san-francisco,Mastercard,121.049 US$ /año,Data Scientist,121049,121049
+573,san-francisco,Genentech,157.918 US$ /año,Data Scientist - Proveedor de servicios,157918,157918
+574,san-francisco,Capital One,150.923 US$ /año,Data Scientist,150923,150923
+575,san-francisco,6sense,134.286 US$ /año,Data Scientist,134286,134286
+576,san-francisco,Calico Life Sciences,152.925 US$ /año,Data Scientist,152925,152925
+577,san-francisco,Citrine Informatics,109.435 US$ /año,Data Scientist,109435,109435
+578,san-francisco,Pocket Gems,143.407 US$ /año,Data Scientist,143407,143407
+579,san-francisco,Unity,133.151 US$ /año,Data Scientist,133151,133151
+580,san-francisco,Credit Karma,195.469 US$ /año,Data Scientist,195469,195469
+581,san-francisco,One Concern,130.474 US$ /año,Data Scientist,130474,130474
+582,san-francisco,Meraki,173.511 US$ /año,Data Scientist,173511,173511
+583,san-francisco,Included Health,153.655 US$ /año,Data Scientist,153655,153655
+584,san-francisco,AutoGrid,163.240 US$ /año,Data Scientist,163240,163240
+585,san-francisco,Proteus Digital Health,145.501 US$ /año,Data Scientist,145501,145501
+586,san-francisco,Meltwater,139.883 US$ /año,Data Scientist,139883,139883
+587,san-francisco,Logitech,105.692 US$ /año,Data Scientist,105692,105692
+588,san-francisco,Walmart,9318 US$ /mes,Data Scientist - Becario por mes,9318,111816
+589,san-francisco,Slack,157.459 US$ /año,Data Scientist,157459,157459
+590,san-francisco,Meta,128.857 US$ /año,Data Scientist - Proveedor de servicios,128857,128857
+591,san-francisco,Databricks,156.823 US$ /año,Data Scientist,156823,156823
+592,san-francisco,Airbnb,54 US$ /h,Data Scientist - Becario por hora,54,93150
+593,san-francisco,Salesforce,54 US$ /h,Data Scientist - Becario por hora,54,93150
+594,san-francisco,ICE Mortgage Technology,128.425 US$ /año,Data Scientist,128425,128425
+595,san-francisco,Segment,192.458 US$ /año,Data Scientist,192458,192458
+596,san-francisco,Coinbase,168.028 US$ /año,Data Scientist,168028,168028
+597,san-francisco,The Climate Corp,130.566 US$ /año,Data Scientist - Proveedor de servicios,130566,130566
+598,san-francisco,iMiDiA,84.721 US$ /año,Data Scientist,84721,84721
+599,san-francisco,Thermo Fisher Scientific,141.182 US$ /año,Data Scientist,141182,141182
+600,san-francisco,Uber,55 US$ /h,Data Scientist - Becario por hora,55,94875
+601,san-francisco,Maple Bear Global Schools,167.654 US$ /año,Data Scientist,167654,167654
+602,san-francisco,Branch International,163.892 US$ /año,Data Scientist,163892,163892
+603,san-francisco,StumbleUpon,136.844 US$ /año,Data Scientist,136844,136844
+604,san-francisco,The Clorox Company,110.635 US$ /año,Data Scientist,110635,110635
+605,san-francisco,DISH,120.378 US$ /año,Data Scientist,120378,120378
+606,san-francisco,LendUp,137.242 US$ /año,Data Scientist,137242,137242
+607,san-francisco,Electronic Arts,155.630 US$ /año,Data Scientist,155630,155630
+608,san-francisco,Roche,155.308 US$ /año,Data Scientist,155308,155308
+609,san-francisco,Feedzai,125.380 US$ /año,Data Scientist,125380,125380
+610,san-francisco,Boston Consulting Group,143.985 US$ /año,Data Scientist,143985,143985
+611,san-francisco,Nielsen,100.824 US$ /año,Data Scientist,100824,100824
+612,san-francisco,Nuna,144.951 US$ /año,Data Scientist,144951,144951
+613,san-francisco,Zynga,153.855 US$ /año,Data Scientist,153855,153855
+614,san-francisco,Shutterfly,147.588 US$ /año,Data Scientist,147588,147588
+615,san-francisco,Affirm,144.039 US$ /año,Data Scientist,144039,144039
+616,san-francisco,SAP Concur,117.642 US$ /año,Data Scientist,117642,117642
+617,san-francisco,Insurance Services Office,93.020 US$ /año,Data Scientist,93020,93020
+618,san-francisco,Urbint,148.535 US$ /año,Data Scientist,148535,148535
+619,san-francisco,Genentech,50 US$ /h,Data Scientist - Becario por hora,50,86250
+620,san-francisco,Practice Fusion,154.849 US$ /año,Data Scientist,154849,154849
+621,san-francisco,PwC,153.657 US$ /año,Data Scientist,153657,153657
+622,san-francisco,Acxiom,146.653 US$ /año,Data Scientist,146653,146653
+623,san-francisco,Walmart Global Tech,138.227 US$ /año,Data Scientist,138227,138227
+624,san-francisco,Aviso,131.322 US$ /año,Data Scientist,131322,131322
+625,san-francisco,Product Madness,95.902 US$ /año,Data Scientist,95902,95902
+626,san-francisco,Change Healthcare,184.739 US$ /año,Data Scientist,184739,184739
+627,san-francisco,Premise Data Corporation,125.102 US$ /año,Data Scientist,125102,125102
+628,san-francisco,Turo,119.248 US$ /año,Data Scientist,119248,119248
+629,san-francisco,PayPal,134.916 US$ /año,Data Scientist,134916,134916
+630,san-francisco,NerdWallet,158.367 US$ /año,Data Scientist,158367,158367
+631,san-francisco,Stealth Startup,150.886 US$ /año,Data Scientist,150886,150886
+632,san-francisco,Synthego,132.910 US$ /año,Data Scientist,132910,132910
+633,san-francisco,Sumo Logic,137.255 US$ /año,Data Scientist,137255,137255
+634,san-francisco,Metromile,154.126 US$ /año,Data Scientist,154126,154126
+635,san-francisco,Enlitic,147.252 US$ /año,Data Scientist,147252,147252
+636,san-francisco,CVS Health,158.022 US$ /año,Data Scientist,158022,158022
+637,san-francisco,2K,169.069 US$ /año,Data Scientist,169069,169069
+638,san-francisco,FLYR,143.736 US$ /año,Data Scientist,143736,143736
+639,san-francisco,Verily Life Sciences,153.938 US$ /año,Data Scientist,153938,153938
+640,san-francisco,GE Digital,129.750 US$ /año,Data Scientist,129750,129750
+641,san-francisco,Chan Zuckerberg Initiative,176.526 US$ /año,Data Scientist,176526,176526
+642,san-francisco,McKesson,142.480 US$ /año,Data Scientist,142480,142480
+643,san-francisco,Clarivate,125.850 US$ /año,Data Scientist,125850,125850
+644,san-francisco,Conviva,136.049 US$ /año,Data Scientist,136049,136049
+645,san-francisco,Entelo,141.799 US$ /año,Data Scientist,141799,141799
+646,san-francisco,Chime,218.045 US$ /año,Data Scientist,218045,218045
+647,san-francisco,Twitter,53 US$ /h,Data Scientist - Becario por hora,53,91425
+648,san-francisco,Schlumberger,150.000 US$ /año,Data Scientist,150000,150000
+649,san-francisco,Udemy,132.416 US$ /año,Data Scientist,132416,132416
+650,san-francisco,automotiveMastermind,134.342 US$ /año,Data Scientist,134342,134342
+651,san-francisco,NOMIS SOLUTIONS,120.254 US$ /año,Data Scientist,120254,120254
+652,san-francisco,SynergisticIT,95.000 US$ /año,Data Scientist,95000,95000
+653,san-francisco,eluv.io,106.371 US$ /año,Data Scientist,106371,106371
+654,san-francisco,Fractal,106.792 US$ /año,Data Scientist,106792,106792
+655,san-francisco,Pandora,61 US$ /h,Data Scientist - Becario por hora,61,105225
+656,san-francisco,Prosper.com,159.387 US$ /año,Data Scientist,159387,159387
+657,san-francisco,Brighterion,110.911 US$ /año,Data Scientist,110911,110911
+658,san-francisco,Second Measure,158.817 US$ /año,Data Scientist,158817,158817
+659,san-francisco,Holler ,125.000 US$ /año,Data Scientist,125000,125000
+660,san-francisco,Globant,158.924 US$ /año,Data Scientist,158924,158924
+661,san-francisco,Coupa Software Inc,131.322 US$ /año,Data Scientist,131322,131322
+662,san-francisco,NextRoll,146.258 US$ /año,Data Scientist,146258,146258
+663,san-francisco,TaskRabbit,173.315 US$ /año,Data Scientist,173315,173315
+664,san-francisco,Pacific Gas and Electric,163.611 US$ /año,Data Scientist,163611,163611
+665,san-francisco,OpenTable,171.816 US$ /año,Data Scientist,171816,171816
+666,san-francisco,Autodesk,46 US$ /h,Data Scientist - Becario por hora,46,79350
+667,san-francisco,CircleUp,159.979 US$ /año,Data Scientist,159979,159979
+668,san-francisco,Zillow,141.649 US$ /año,Data Scientist,141649,141649
+669,san-francisco,CareDx,159.000 US$ /año,Data Scientist,159000,159000
+670,san-francisco,ImpactVision,103.819 US$ /año,Data Scientist,103819,103819
+671,san-francisco,Doximity,145.616 US$ /año,Data Scientist,145616,145616
+672,san-francisco,PayJoy,139.873 US$ /año,Data Scientist,139873,139873
+673,san-francisco,Riviera Partners,138.726 US$ /año,Data Scientist,138726,138726
+674,san-francisco,Nones,116.000 US$ /año,Data Scientist,116000,116000
+675,san-francisco,Cruise,176.635 US$ /año,Data Scientist,176635,176635
+676,san-francisco,Happy Elements,153.209 US$ /año,Data Scientist,153209,153209
+677,san-francisco,Aisera,Sobre 157 mil US$ -198 mil US$,Data Scientist,177500.0,177500.0
+678,san-francisco,Seagate Technology,Sobre 159 mil US$ -171 mil US$,Data Scientist,165000.0,165000.0
+679,san-francisco,Ask Media Group,Sobre 124 mil US$ -143 mil US$,Data Scientist,133500.0,133500.0
+680,san-francisco,PubMatic,Sobre 138 mil US$ -177 mil US$,Data Scientist,157500.0,157500.0
+681,san-francisco,Moloco,Sobre 86 mil US$ -110 mil US$,Data Scientist,98000.0,98000.0
+682,san-francisco,Auris Health,Sobre 84 mil US$ -91 mil US$,Data Scientist,87500.0,87500.0
+683,san-francisco,University of California Berkeley,Sobre 58 mil US$ -87 mil US$,Data Scientist,72500.0,72500.0
+684,san-francisco,MoneyLion,Sobre 90 mil US$ -135 mil US$,Data Scientist,112500.0,112500.0
+685,san-francisco,Mozilla,Sobre 145 mil US$ -179 mil US$,Data Scientist,162000.0,162000.0
+686,san-francisco,Bayes Impact,Sobre 77 mil US$ -85 mil US$,Data Scientist,81000.0,81000.0
+687,san-francisco,Invitae,Sobre 99 mil US$ -164 mil US$,Data Scientist,131500.0,131500.0
+688,san-francisco,SmartNews,Sobre 146 mil US$ -160 mil US$,Data Scientist,153000.0,153000.0
+689,san-francisco,CyberCoders,Sobre 152 mil US$ -164 mil US$,Data Scientist,158000.0,158000.0
+690,san-francisco,Chevron,Sobre 98 mil US$ -170 mil US$,Data Scientist,134000.0,134000.0
+691,san-francisco,Etsy,Sobre 135 mil US$ -183 mil US$,Data Scientist,159000.0,159000.0
+692,san-francisco,Paradigm Strategy,Sobre 121 mil US$ -136 mil US$,Data Scientist,128500.0,128500.0
+693,san-francisco,Qubiqle,Sobre 83 mil US$ -114 mil US$,Data Scientist,98500.0,98500.0
+694,san-francisco,Fitbod,Sobre 110 mil US$ -149 mil US$,Data Scientist,129500.0,129500.0
+695,san-francisco,Ubisoft,Sobre 18 US$ -26 US$ por hora,Data Scientist - Becario por hora,22.0,37950
+696,san-francisco,Komodo Health,Sobre 116 mil US$ -127 mil US$,Data Scientist,121500.0,121500.0
+697,san-francisco,eBay,Sobre 125 mil US$ -157 mil US$,Data Scientist,141000.0,141000.0
+698,san-francisco,Alpine Data Labs,Sobre 101 mil US$ -134 mil US$,Data Scientist,117500.0,117500.0
+699,san-francisco,ZapLabs,Sobre 127 mil US$ -171 mil US$,Data Scientist,149000.0,149000.0
+700,san-francisco,Zeus,Sobre 147 mil US$ -170 mil US$,Data Scientist,158500.0,158500.0
+701,san-francisco,KIXEYE,Sobre 129 mil US$ -190 mil US$,Data Scientist,159500.0,159500.0
+702,san-francisco,Gap Inc.,Sobre 130 mil US$ -164 mil US$,Data Scientist,147000.0,147000.0
+703,san-francisco,Tailored Management,Sobre 83 US$ -91 US$ por hora,Data Scientist - Por hora,87.0,150075
+704,san-francisco,DOE Joint Genome Institute,Sobre 8 mil US$ -9 mil US$,Data Scientist - Por mes,8500.0,102000
+705,san-francisco,Deloitte,Sobre 171 mil US$ -204 mil US$,Data Scientist,187500.0,187500.0
+706,san-francisco,Rakuten Advertising,Sobre 107 mil US$ -145 mil US$,Data Scientist,126000.0,126000.0
+707,san-francisco,Ford Motor Company,Sobre 127 mil US$ -138 mil US$,Data Scientist,132500.0,132500.0
+708,san-francisco,Capella Space,Sobre 116 mil US$ -148 mil US$,Data Scientist,132000.0,132000.0
+709,san-francisco,Faire,Sobre 174 mil US$ -200 mil US$,Data Scientist,187000.0,187000.0
+710,san-francisco,Twilio,Sobre 125 mil US$ -182 mil US$,Data Scientist,153500.0,153500.0
+711,san-francisco,Getaround,Sobre 109 mil US$ -119 mil US$,Data Scientist,114000.0,114000.0
+712,san-francisco,Wealthfront,Sobre 143 mil US$ -174 mil US$,Data Scientist,158500.0,158500.0
+713,san-francisco,GE Capital,Sobre 124 mil US$ -145 mil US$,Data Scientist,134500.0,134500.0
+714,san-francisco,Upstart,Sobre 144 mil US$ -165 mil US$,Data Scientist,154500.0,154500.0
+715,san-francisco,Yummly,Sobre 147 mil US$ -161 mil US$,Data Scientist,154000.0,154000.0
+716,san-francisco,Spin,Sobre 125 mil US$ -157 mil US$,Data Scientist,141000.0,141000.0
+717,san-francisco,Epsilon,Sobre 135 mil US$ -168 mil US$,Data Scientist,151500.0,151500.0
+718,san-francisco,Sojern,Sobre 153 mil US$ -195 mil US$,Data Scientist,174000.0,174000.0
+719,san-francisco,Affine,Sobre 88 mil US$ -127 mil US$,Data Scientist,107500.0,107500.0
+720,san-francisco,Amgen,Sobre 105 mil US$ -166 mil US$,Data Scientist,135500.0,135500.0
+721,san-francisco,H2O.ai,Sobre 281 mil US$ -301 mil US$,Data Scientist,291000.0,291000.0
+722,san-francisco,Bloomberg L.P.,Sobre 196 mil US$ -213 mil US$,Data Scientist,204500.0,204500.0
+723,san-francisco,Caffeine,Sobre 134 mil US$ -216 mil US$,Data Scientist,175000.0,175000.0
+724,san-francisco,Box,Sobre 150 mil US$ -182 mil US$,Data Scientist,166000.0,166000.0
+725,san-francisco,Rodan + Fields,Sobre 143 mil US$ -169 mil US$,Data Scientist,156000.0,156000.0
+726,san-francisco,Baanyan Software Services,Sobre 125 mil US$ -136 mil US$,Data Scientist,130500.0,130500.0
+727,san-francisco,Quantifind,Sobre 124 mil US$ -170 mil US$,Data Scientist,147000.0,147000.0
+728,san-francisco,Amyris,Sobre 205 mil US$ -221 mil US$,Data Scientist,213000.0,213000.0
+729,san-francisco,GREE International Entertainment,Sobre 162 mil US$ -181 mil US$,Data Scientist,171500.0,171500.0
+730,san-francisco,RapidAI,Sobre 120 mil US$ -140 mil US$,Data Scientist,130000.0,130000.0
+731,san-francisco,Anchorage,Sobre 124 mil US$ -135 mil US$,Data Scientist,129500.0,129500.0
+732,san-francisco,VSCO,Sobre 157 mil US$ -179 mil US$,Data Scientist,168000.0,168000.0
+733,san-francisco,Intrexon,Sobre 105 mil US$ -145 mil US$,Data Scientist,125000.0,125000.0
+734,san-francisco,LiveRamp,Sobre 147 mil US$ -205 mil US$,Data Scientist,176000.0,176000.0
+735,san-francisco,JD.com,Sobre 178 mil US$ -196 mil US$,Data Scientist,187000.0,187000.0
+736,san-francisco,Tryolabs,Sobre 2 mil US$ -2 mil US$,Data Scientist - Por mes,2000.0,24000
+737,san-francisco,Crunchbase,Sobre 142 mil US$ -169 mil US$,Data Scientist,155500.0,155500.0
+738,san-francisco,Brain Technologies,Sobre 147 mil US$ -180 mil US$,Data Scientist,163500.0,163500.0
+739,san-francisco,Google,Sobre 94 mil US$ -107 mil US$,Data Scientist - Becario,100500.0,100500.0
+740,san-francisco,Fanatics,Sobre 129 mil US$ -165 mil US$,Data Scientist,147000.0,147000.0
+741,san-francisco,Discord,Sobre 167 mil US$ -186 mil US$,Data Scientist,176500.0,176500.0
+742,san-francisco,Appen,Sobre 108 mil US$ -188 mil US$,Data Scientist,148000.0,148000.0
+743,san-francisco,RichRelevance,Sobre 92 mil US$ -117 mil US$,Data Scientist,104500.0,104500.0
+744,san-francisco,Symphony RetailAI,Sobre 102 mil US$ -114 mil US$,Data Scientist,108000.0,108000.0
+745,san-francisco,AppDynamics,Sobre 123 mil US$ -133 mil US$,Data Scientist,128000.0,128000.0
+746,san-francisco,Formation,Sobre 127 mil US$ -198 mil US$,Data Scientist,162500.0,162500.0
+747,san-francisco,Freedom Financial Network,Sobre 113 mil US$ -141 mil US$,Data Scientist,127000.0,127000.0
+748,san-francisco,Accenture,Sobre 128 mil US$ -158 mil US$,Data Scientist,143000.0,143000.0
+749,san-francisco,Vituity,Sobre 108 mil US$ -124 mil US$,Data Scientist,116000.0,116000.0
+750,san-francisco,Eventbrite,Sobre 99 mil US$ -171 mil US$,Data Scientist,135000.0,135000.0
+751,san-francisco,Together Labs,Sobre 120 mil US$ -130 mil US$,Data Scientist,125000.0,125000.0
+752,san-francisco,Levi Strauss,Sobre 152 mil US$ -170 mil US$,Data Scientist,161000.0,161000.0
+753,san-francisco,Axiom Exergy,Sobre 130 mil US$ -156 mil US$,Data Scientist,143000.0,143000.0
+754,san-francisco,Uatc,Sobre 127 mil US$ -164 mil US$,Data Scientist,145500.0,145500.0
+755,san-francisco,Charles Schwab,Sobre 140 mil US$ -152 mil US$,Data Scientist,146000.0,146000.0
+756,san-francisco,Maze Therapeutics,Sobre 121 mil US$ -148 mil US$,Data Scientist,134500.0,134500.0
+757,san-francisco,Grid Dynamics,Sobre 94 mil US$ -174 mil US$,Data Scientist,134000.0,134000.0
+758,san-francisco,Kiavi,Sobre 138 mil US$ -199 mil US$,Data Scientist,168500.0,168500.0
+759,san-francisco,Glu Mobile,Sobre 117 mil US$ -150 mil US$,Data Scientist,133500.0,133500.0
+760,san-francisco,Blueshift,Sobre 124 mil US$ -148 mil US$,Data Scientist,136000.0,136000.0
+761,san-francisco,Galvanize,Sobre 124 mil US$ -154 mil US$,Data Scientist,139000.0,139000.0
+762,san-francisco,"CSG, Inc.",Sobre 136 mil US$ -148 mil US$,Data Scientist,142000.0,142000.0
+763,san-francisco,Demandbase,Sobre 146 mil US$ -165 mil US$,Data Scientist,155500.0,155500.0
+764,san-francisco,Bonsai AI,Sobre 142 mil US$ -165 mil US$,Data Scientist,153500.0,153500.0
+765,san-francisco,Sportradar,Sobre 198 mil US$ -214 mil US$,Data Scientist,206000.0,206000.0
+766,san-francisco,Locus Energy,Sobre 83 mil US$ -121 mil US$,Data Scientist,102000.0,102000.0
+767,san-francisco,Zephyr Health,Sobre 74 mil US$ -120 mil US$,Data Scientist,97000.0,97000.0
+768,san-francisco,Lineage Logistics,Sobre 120 mil US$ -144 mil US$,Data Scientist,132000.0,132000.0
+769,san-francisco,Bayer,Sobre 60 US$ -65 US$ por hora,Data Scientist - Proveedor de servicios por hora,62.5,106950
+770,san-francisco,Agile Secure Data Exchange,Sobre 131 mil US$ -172 mil US$,Data Scientist,151500.0,151500.0
+771,san-francisco,Edmodo,Sobre 105 mil US$ -114 mil US$,Data Scientist,109500.0,109500.0
+772,san-francisco,eHealth,Sobre 126 mil US$ -145 mil US$,Data Scientist,135500.0,135500.0
+773,san-francisco,Gilead Sciences,Sobre 60 US$ -74 US$ por hora,Data Scientist - Proveedor de servicios por hora,67.0,115575
+774,san-francisco,Cablevision Systems,Sobre 46 US$ -54 US$ por hora,Data Scientist - Becario por hora,50.0,86250
+775,san-francisco,Credit Sesame,Sobre 139 mil US$ -151 mil US$,Data Scientist,145000.0,145000.0
+776,san-francisco,Granular,Sobre 122 mil US$ -147 mil US$,Data Scientist,134500.0,134500.0
+777,san-francisco,Atlassian,Sobre 155 mil US$ -174 mil US$,Data Scientist,164500.0,164500.0
+778,san-francisco,Nightfall AI,Sobre 108 mil US$ -149 mil US$,Data Scientist,128500.0,128500.0
+779,san-francisco,Epic,Sobre 129 mil US$ -142 mil US$,Data Scientist,135500.0,135500.0
+780,san-francisco,GRAIL,Sobre 70 mil US$ -167 mil US$,Data Scientist,118500.0,118500.0
+781,san-francisco,Microsfere Technologies,Sobre 158 mil US$ -171 mil US$,Data Scientist,164500.0,164500.0
+782,san-francisco,zypmedia,Sobre 111 mil US$ -121 mil US$,Data Scientist,116000.0,116000.0
+783,san-francisco,thredUP,Sobre 111 mil US$ -149 mil US$,Data Scientist,130000.0,130000.0
+784,san-francisco,Ubisoft,Sobre 141 mil US$ -160 mil US$,Data Scientist,150500.0,150500.0
+785,san-francisco,ZS Associates,Sobre 126 mil US$ -140 mil US$,Data Scientist,133000.0,133000.0
+786,san-francisco,Slide Inc,Sobre 101 mil US$ -121 mil US$,Data Scientist,111000.0,111000.0
+787,san-francisco,BlackRock,Sobre 154 mil US$ -214 mil US$,Data Scientist,184000.0,184000.0
+788,san-francisco,Servidyne,Sobre 157 mil US$ -172 mil US$,Data Scientist,164500.0,164500.0
+789,san-francisco,Zendar,Sobre 126 mil US$ -137 mil US$,Data Scientist,131500.0,131500.0
+790,san-francisco,"AAA Northern California, Nevada & Utah",Sobre 78 mil US$ -154 mil US$,Data Scientist,116000.0,116000.0
+791,san-francisco,Clarify Health Solutions,Sobre 146 mil US$ -162 mil US$,Data Scientist,154000.0,154000.0
+792,san-francisco,Figma,Sobre 142 mil US$ -197 mil US$,Data Scientist,169500.0,169500.0
+793,san-francisco,SurveyMonkey,Sobre 113 mil US$ -153 mil US$,Data Scientist,133000.0,133000.0
+794,san-francisco,Skai,Sobre 108 mil US$ -141 mil US$,Data Scientist,124500.0,124500.0
+795,san-francisco,CoreLogic,Sobre 99 mil US$ -142 mil US$,Data Scientist,120500.0,120500.0
+796,san-francisco,Shinyan Robotics,Sobre 70 mil US$ -76 mil US$,Data Scientist,73000.0,73000.0
+797,san-francisco,Aetna,Sobre 110 mil US$ -172 mil US$,Data Scientist,141000.0,141000.0
+798,san-francisco,Gracenote,Sobre 106 mil US$ -145 mil US$,Data Scientist,125500.0,125500.0
+799,san-francisco,Intel Corporation,Sobre 128 mil US$ -178 mil US$,Data Scientist,153000.0,153000.0
+800,san-francisco,Twist Bioscience,Sobre 146 mil US$ -159 mil US$,Data Scientist,152500.0,152500.0
+801,san-francisco,Albertsons Companies,Sobre 129 mil US$ -172 mil US$,Data Scientist,150500.0,150500.0
+802,san-francisco,Zymergen,Sobre 124 mil US$ -186 mil US$,Data Scientist,155000.0,155000.0
+803,san-francisco,AnchorFree,Sobre 105 mil US$ -170 mil US$,Data Scientist,137500.0,137500.0
+804,san-francisco,University of California Berkeley,Sobre 19 US$ -29 US$ por hora,Data Scientist - Por hora,24.0,41400
+805,san-francisco,Tagged,Sobre 137 mil US$ -158 mil US$,Data Scientist,147500.0,147500.0
+806,san-francisco,Fanatcis,Sobre 105 mil US$ -146 mil US$,Data Scientist,125500.0,125500.0
+807,san-francisco,Movie Labs,Sobre 116 mil US$ -163 mil US$,Data Scientist,139500.0,139500.0
+808,san-francisco,StreetLight Data,Sobre 126 mil US$ -149 mil US$,Data Scientist,137500.0,137500.0
+809,san-francisco,Quid,Sobre 147 mil US$ -195 mil US$,Data Scientist,171000.0,171000.0
+810,san-francisco,Thomson Reuters,Sobre 128 mil US$ -149 mil US$,Data Scientist,138500.0,138500.0
+811,san-francisco,PlanGrid,Sobre 123 mil US$ -201 mil US$,Data Scientist,162000.0,162000.0
+812,san-francisco,YouGov,Sobre 87 mil US$ -124 mil US$,Data Scientist,105500.0,105500.0
+813,san-francisco,Marin Software,Sobre 120 mil US$ -171 mil US$,Data Scientist,145500.0,145500.0
+814,san-francisco,Asurion,Sobre 121 mil US$ -146 mil US$,Data Scientist,133500.0,133500.0
+815,san-francisco,Valor Water Analytics,Sobre 107 mil US$ -145 mil US$,Data Scientist,126000.0,126000.0
+816,san-francisco,Iterable,Sobre 151 mil US$ -186 mil US$,Data Scientist,168500.0,168500.0
+817,san-francisco,BlueVine,Sobre 132 mil US$ -158 mil US$,Data Scientist,145000.0,145000.0
+818,san-francisco,Contextlogic,Sobre 126 mil US$ -204 mil US$,Data Scientist,165000.0,165000.0
+819,san-francisco,Unlearn.AI,Sobre 128 mil US$ -149 mil US$,Data Scientist,138500.0,138500.0
+820,san-francisco,Kyocera,Sobre 108 mil US$ -137 mil US$,Data Scientist,122500.0,122500.0
+821,san-francisco,Staples,Sobre 131 mil US$ -151 mil US$,Data Scientist,141000.0,141000.0
+822,san-francisco,Silicon Valley Bank,Sobre 18 US$ -66 US$ por hora,Data Scientist - Proveedor de servicios por hora,42.0,72450
+823,san-francisco,American Automobile Association (AAA),Sobre 78 mil US$ -148 mil US$,Data Scientist,113000.0,113000.0
+824,san-francisco,Kabbage,Sobre 135 mil US$ -180 mil US$,Data Scientist,157500.0,157500.0
+825,san-francisco,Everlaw,Sobre 138 mil US$ -147 mil US$,Data Scientist,142500.0,142500.0
+826,san-francisco,Genpact,Sobre 131 mil US$ -167 mil US$,Data Scientist,149000.0,149000.0
+827,san-francisco,Tailored Brands,Sobre 123 mil US$ -147 mil US$,Data Scientist,135000.0,135000.0
+828,san-francisco,Omni,Sobre 110 mil US$ -155 mil US$,Data Scientist,132500.0,132500.0
+829,san-francisco,Juul Labs,Sobre 103 mil US$ -133 mil US$,Data Scientist,118000.0,118000.0
+830,san-francisco,Zenefits,Sobre 133 mil US$ -145 mil US$,Data Scientist,139000.0,139000.0
+831,san-francisco,QUANTCO,Sobre 130 mil US$ -150 mil US$,Data Scientist,140000.0,140000.0
+832,san-francisco,Apollo Education Group,Sobre 135 mil US$ -167 mil US$,Data Scientist,151000.0,151000.0
+833,san-francisco,Flyr,Sobre 132 mil US$ -147 mil US$,Data Scientist,139500.0,139500.0
+834,san-francisco,UKG (Ultimate Kronos Group),Sobre 144 mil US$ -159 mil US$,Data Scientist,151500.0,151500.0
+835,san-francisco,Illumina,Sobre 38 US$ -42 US$ por hora,Data Scientist - Becario por hora,40.0,69000
+836,san-francisco,Enovity,Sobre 104 mil US$ -113 mil US$,Data Scientist,108500.0,108500.0
+837,san-francisco,LinkedIn,Sobre 59 US$ -64 US$ por hora,Data Scientist - Proveedor de servicios por hora,61.5,105225
+838,san-francisco,Sunbasket,Sobre 99 mil US$ -107 mil US$,Data Scientist,103000.0,103000.0
+839,san-francisco,Coupang,Sobre 7 mil US$ -7 mil US$,Data Scientist - Por mes,7000.0,84000
+840,san-francisco,IONpath,Sobre 148 mil US$ -158 mil US$,Data Scientist,153000.0,153000.0
+841,san-francisco,Touch Of Modern,Sobre 147 mil US$ -160 mil US$,Data Scientist,153500.0,153500.0
+842,san-francisco,Bank of America,Sobre 114 mil US$ -125 mil US$,Data Scientist,119500.0,119500.0
+843,san-francisco,Zumper,Sobre 29 US$ -32 US$ por hora,Data Scientist - Becario por hora,30.5,51750
+844,san-francisco,StubHub,Sobre 143 mil US$ -156 mil US$,Data Scientist,149500.0,149500.0
+845,san-francisco,Houlihan Lokey,Sobre 17 US$ -18 US$ por hora,Data Scientist - Becario por hora,17.5,29325
+846,san-francisco,Branch,Sobre 42 US$ -45 US$ por hora,Data Scientist - Por hora,43.5,74175
+847,san-francisco,In-Q-Tel,Sobre 148 mil US$ -160 mil US$,Data Scientist,154000.0,154000.0
+848,san-francisco,Patreon,Sobre 119 mil US$ -130 mil US$,Data Scientist,124500.0,124500.0
+849,san-francisco,WHFTech,Sobre 106 mil US$ -117 mil US$,Data Scientist,111500.0,111500.0
+850,san-francisco,Lawrence Berkeley Lab,Sobre 4 mil US$ -4 mil US$,Data Scientist - Becario por mes,4000.0,48000
+851,san-francisco,O'Reilly Media,Sobre 129 mil US$ -141 mil US$,Data Scientist,135000.0,135000.0
+852,san-francisco,ExactTarget Marketing Cloud,Sobre 156 mil US$ -170 mil US$,Data Scientist,163000.0,163000.0
+853,san-francisco,Sephora,Sobre 106 mil US$ -115 mil US$,Data Scientist,110500.0,110500.0
+854,san-francisco,ThirdLove,Sobre 119 mil US$ -129 mil US$,Data Scientist,124000.0,124000.0
+855,san-francisco,Boomtown,Sobre 90 mil US$ -97 mil US$,Data Scientist,93500.0,93500.0
+856,san-francisco,Driver,Sobre 137 mil US$ -147 mil US$,Data Scientist,142000.0,142000.0
+857,san-francisco,Quantcast,Sobre 137 mil US$ -148 mil US$,Data Scientist,142500.0,142500.0
+858,san-francisco,Pattern ai™,Sobre 44 US$ -49 US$ por hora,Data Scientist - Proveedor de servicios por hora,46.5,79350
+859,san-francisco,Tachyus,Sobre 150 mil US$ -160 mil US$,Data Scientist,155000.0,155000.0
+860,san-francisco,SelfEmployed.com,Sobre 48 US$ -52 US$ por hora,Data Scientist - Por hora,50.0,86250
+861,san-francisco,PlushCare,Sobre 18 US$ -19 US$ por hora,Data Scientist - Becario por hora,18.5,31050
+862,san-francisco,MobiTV,Sobre 42 US$ -45 US$ por hora,Data Scientist - Por hora,43.5,74175
+863,san-francisco,Startup,Sobre 168 mil US$ -182 mil US$,Data Scientist,175000.0,175000.0
+865,san-francisco,Momentive.ai,Sobre 131 mil US$ -142 mil US$,Data Scientist,136500.0,136500.0
+866,san-francisco,Next Insurance,Sobre 143 mil US$ -154 mil US$,Data Scientist,148500.0,148500.0
+867,san-francisco,Mission Bio,Sobre 145 mil US$ -156 mil US$,Data Scientist,150500.0,150500.0
+868,san-francisco,Aclima,Sobre 167 mil US$ -180 mil US$,Data Scientist,173500.0,173500.0
+869,san-francisco,Rocket Lawyer,Sobre 125 mil US$ -136 mil US$,Data Scientist,130500.0,130500.0
+870,san-francisco,Narvar,Sobre 112 mil US$ -122 mil US$,Data Scientist,117000.0,117000.0
+871,san-francisco,Digital Technology Laboratory,Sobre 160 mil US$ -171 mil US$,Data Scientist,165500.0,165500.0
+872,san-francisco,Cerego,Sobre 133 mil US$ -142 mil US$,Data Scientist,137500.0,137500.0
+873,san-francisco,Ibport,Sobre 115 mil US$ -124 mil US$,Data Scientist,119500.0,119500.0
+874,san-francisco,King,Sobre 107 mil US$ -114 mil US$,Data Scientist,110500.0,110500.0
+875,san-francisco,UC Berkeley Extension,Sobre 103 mil US$ -111 mil US$,Data Scientist,107000.0,107000.0
+876,san-francisco,KeepTruckin,Sobre 53 US$ -56 US$ por hora,Data Scientist - Becario por hora,54.5,93150
+877,san-francisco,Uncountable,Sobre 151 mil US$ -164 mil US$,Data Scientist,157500.0,157500.0
+878,san-francisco,Element Science,Sobre 108 mil US$ -117 mil US$,Data Scientist,112500.0,112500.0
+879,san-francisco,Womply,Sobre 138 mil US$ -149 mil US$,Data Scientist,143500.0,143500.0
+880,san-francisco,Science 37,Sobre 63 US$ -68 US$ por hora,Data Scientist - Proveedor de servicios por hora,65.5,112125
+881,san-francisco,Shopify,Sobre 112 mil US$ -120 mil US$,Data Scientist - Becario,116000.0,116000.0
+882,san-francisco,Epic!,Sobre 129 mil US$ -139 mil US$,Data Scientist,134000.0,134000.0
+883,san-francisco,City and County of San Francisco,Sobre 153 mil US$ -166 mil US$,Data Scientist,159500.0,159500.0
+884,san-francisco,Gallium Artists,Sobre 95 mil US$ -102 mil US$,Data Scientist,98500.0,98500.0
+885,san-francisco,eBibelot,Sobre 93 mil US$ -99 mil US$,Data Scientist,96000.0,96000.0
+886,san-francisco,WyzAnt,Sobre 28 US$ -31 US$ por hora,Data Scientist - Por hora,29.5,50025
+887,san-francisco,BitTorrent,Sobre 153 mil US$ -166 mil US$,Data Scientist,159500.0,159500.0
+888,san-francisco,Safran,Sobre 96 mil US$ -105 mil US$,Data Scientist,100500.0,100500.0
+889,san-francisco,kevala analytics,Sobre 134 mil US$ -144 mil US$,Data Scientist,139000.0,139000.0
+890,san-francisco,Genomic Health,Sobre 146 mil US$ -159 mil US$,Data Scientist,152500.0,152500.0
+891,san-francisco,Bread Financial,Sobre 137 mil US$ -150 mil US$,Data Scientist,143500.0,143500.0
+892,san-francisco,Asana,Sobre 125 mil US$ -135 mil US$,Data Scientist - Becario,130000.0,130000.0
+893,san-francisco,Sony Electronics,Sobre 140 mil US$ -152 mil US$,Data Scientist,146000.0,146000.0
+894,san-francisco,Resultid,Sobre 26 US$ -28 US$ por hora,Data Scientist - Por hora,27.0,46575
+895,san-francisco,Triad,Sobre 157 mil US$ -170 mil US$,Data Scientist,163500.0,163500.0
+896,san-francisco,Xandr,Sobre 145 mil US$ -157 mil US$,Data Scientist,151000.0,151000.0
+897,san-francisco,UC San Francisco,Sobre 97 mil US$ -104 mil US$,Data Scientist,100500.0,100500.0
+898,san-francisco,Workday,Sobre 47 US$ -50 US$ por hora,Data Scientist - Becario por hora,48.5,82800
+899,san-francisco,AlsoEnergy,Sobre 138 mil US$ -151 mil US$,Data Scientist,144500.0,144500.0
+900,san-francisco,Alkanza,Sobre 95 mil US$ -102 mil US$,Data Scientist,98500.0,98500.0
+901,san-francisco,Bayer,Sobre 126 mil US$ -135 mil US$,Data Scientist,130500.0,130500.0
+902,san-francisco,Business France,Sobre 56 mil € -60 mil €,Data Scientist,58000.0,58000.0
+903,san-francisco,Itron,Sobre 159 mil US$ -174 mil US$,Data Scientist,166500.0,166500.0
+904,san-francisco,Milliman,Sobre 79 mil US$ -85 mil US$,Data Scientist,82000.0,82000.0
+905,san-francisco,American Express,Sobre 196 mil US$ -213 mil US$,Data Scientist,204500.0,204500.0
+906,san-francisco,Terathink,Sobre 10 mil US$ -10 mil US$,Data Scientist - Por mes,10000.0,120000
+907,san-francisco,GoPro,Sobre 130 mil US$ -143 mil US$,Data Scientist,136500.0,136500.0
+908,san-francisco,Amino,Sobre 123 mil US$ -132 mil US$,Data Scientist,127500.0,127500.0
+909,san-francisco,Mobstaz,Sobre 86 mil US$ -94 mil US$,Data Scientist,90000.0,90000.0
+910,san-francisco,Tokio Marine Holdings,Sobre 121 mil US$ -131 mil US$,Data Scientist,126000.0,126000.0
+911,san-francisco,Dawar Consulting,Sobre 117 mil US$ -126 mil US$,Data Scientist,121500.0,121500.0
+912,san-francisco,Mission Analytics Group,Sobre 72 mil US$ -79 mil US$,Data Scientist,75500.0,75500.0
+913,san-francisco,First Place for Youth,Sobre 42 US$ -46 US$ por hora,Data Scientist - Por hora,44.0,75900
+914,san-francisco,Confidential Practices,Sobre 189 mil US$ -206 mil US$,Data Scientist,197500.0,197500.0
+915,san-francisco,FTI Consulting,Sobre 210 mil US$ -227 mil US$,Data Scientist,218500.0,218500.0
+916,san-francisco,Get the Data,Sobre 103 mil US$ -112 mil US$,Data Scientist,107500.0,107500.0
+917,san-francisco,HouseCanary,Sobre 127 mil US$ -137 mil US$,Data Scientist,132000.0,132000.0
+918,san-francisco,BMO Financial Group,Sobre 74 mil US$ -81 mil US$,Data Scientist,77500.0,77500.0
+919,san-francisco,Reddit,Sobre 124 mil US$ -135 mil US$,Data Scientist,129500.0,129500.0
+920,san-francisco,Sight4all,Sobre 96 mil US$ -104 mil US$,Data Scientist,100000.0,100000.0
+921,san-francisco,TrueCar,Sobre 143 mil US$ -156 mil US$,Data Scientist,149500.0,149500.0
+922,san-francisco,Space Sciences Lab,Sobre 7 mil US$ -7 mil US$,Data Scientist - Becario por mes,7000.0,84000
+923,san-francisco,WattTime,Sobre 126 mil US$ -138 mil US$,Data Scientist,132000.0,132000.0
+924,san-francisco,Umba,Sobre 27 US$ -29 US$ por hora,Data Scientist - Becario por hora,28.0,48300
+925,san-francisco,Datameer,Sobre 187 mil US$ -202 mil US$,Data Scientist,194500.0,194500.0
+926,san-francisco,Intercom,Sobre 114 mil US$ -123 mil US$,Data Scientist,118500.0,118500.0
+927,san-francisco,Springboard,Sobre 69 US$ -75 US$ por hora,Data Scientist - Proveedor de servicios por hora,72.0,124200
+928,san-francisco,Kinship,Sobre 123 mil US$ -132 mil US$,Data Scientist,127500.0,127500.0
+929,san-francisco,WePay,Sobre 8 mil US$ -8 mil US$,Data Scientist - Becario por mes,8000.0,96000
+930,san-francisco,PRO Unlimited,Sobre 155 mil US$ -165 mil US$,Data Scientist - Proveedor de servicios,160000.0,160000.0
+931,san-francisco,CNA,Sobre 148 mil US$ -159 mil US$,Data Scientist,153500.0,153500.0
+932,san-francisco,Toptal,Sobre 6 mil US$ -6 mil US$,Data Scientist - Por mes,6000.0,72000
+933,san-francisco,Auction.com,Sobre 171 mil US$ -183 mil US$,Data Scientist,177000.0,177000.0
+934,san-francisco,DOE Joint Genome Institute,Sobre 17 US$ -19 US$ por hora,Data Scientist - Por hora,18.0,31050
+935,san-francisco,Uber,Sobre 127 mil US$ -140 mil US$,Data Scientist - Proveedor de servicios,133500.0,133500.0
+936,san-francisco,Colaberry,Sobre 98 mil US$ -107 mil US$,Data Scientist,102500.0,102500.0
+937,san-francisco,Roche,Sobre 105 mil CA$ -115 mil CA$,Data Scientist,110000.0,110000.0
+938,san-francisco,LendingTree,Sobre 139 mil US$ -151 mil US$,Data Scientist,145000.0,145000.0
+939,san-francisco,Intuit,Sobre 292 mil US$ -319 mil US$,Data Scientist,305500.0,305500.0
+940,san-francisco,Verizon Wireless,Sobre 144 mil US$ -159 mil US$,Data Scientist,151500.0,151500.0
+941,san-francisco,Volvo Cars,Sobre 37 US$ -39 US$ por hora,Data Scientist - Por hora,38.0,65550
+942,san-francisco,WithHealth,Sobre 52 US$ -57 US$ por hora,Data Scientist - Por hora,54.5,93150
+943,san-francisco,Rad AI,Sobre 180 mil US$ -194 mil US$,Data Scientist,187000.0,187000.0
+944,san-francisco,Groupon,Sobre 153 mil US$ -165 mil US$,Data Scientist,159000.0,159000.0
+945,san-francisco,Humble Bundle,Sobre 140 mil US$ -151 mil US$,Data Scientist,145500.0,145500.0
+946,san-francisco,Celgene,Sobre 27 US$ -29 US$ por hora,Data Scientist - Proveedor de servicios por hora,28.0,48300
+947,san-francisco,TellApart,Sobre 122 mil US$ -133 mil US$,Data Scientist,127500.0,127500.0
+948,san-francisco,Blink Health,Sobre 98 mil US$ -107 mil US$,Data Scientist,102500.0,102500.0
+949,san-francisco,QuinStreet,Sobre 116 mil US$ -125 mil US$,Data Scientist,120500.0,120500.0
+950,san-francisco,Ten-X Commercial,Sobre 174 mil US$ -190 mil US$,Data Scientist,182000.0,182000.0
+951,san-francisco,Lawfty,Sobre 112 mil US$ -121 mil US$,Data Scientist,116500.0,116500.0
+952,san-francisco,CarePredict,Sobre 128 mil US$ -138 mil US$,Data Scientist,133000.0,133000.0
+953,san-francisco,Earnest,Sobre 164 mil US$ -177 mil US$,Data Scientist,170500.0,170500.0
+954,san-francisco,Risk Management Solutions,Sobre 169 mil US$ -185 mil US$,Data Scientist,177000.0,177000.0
+955,san-francisco,Tala,Sobre 108 mil US$ -118 mil US$,Data Scientist,113000.0,113000.0
+956,san-francisco,Uber,Sobre 70 mil US$ -76 mil US$,Data Scientist,73000.0,73000.0
+957,san-francisco,Arrivalist,Sobre 135 mil US$ -148 mil US$,Data Scientist,141500.0,141500.0
+958,san-francisco,Lucidworks,Sobre 111 mil US$ -121 mil US$,Data Scientist,116000.0,116000.0
+959,san-francisco,ZymoGenetics,Sobre 99 mil US$ -107 mil US$,Data Scientist,103000.0,103000.0
+960,san-francisco,Amobee,Sobre 129 mil US$ -140 mil US$,Data Scientist,134500.0,134500.0
+961,san-francisco,HealthLucid,Sobre 125 mil US$ -136 mil US$,Data Scientist,130500.0,130500.0
+962,san-francisco,Safeway,Sobre 135 mil US$ -147 mil US$,Data Scientist,141000.0,141000.0
+963,san-francisco,SmartZip Analytics,Sobre 96 mil US$ -103 mil US$,Data Scientist,99500.0,99500.0
+964,san-francisco,Impossible Foods,Sobre 135 mil US$ -145 mil US$,Data Scientist,140000.0,140000.0
+965,san-francisco,Slalom,Sobre 146 mil US$ -160 mil US$,Data Scientist,153000.0,153000.0
+966,san-francisco,Taulia,Sobre 124 mil US$ -134 mil US$,Data Scientist,129000.0,129000.0
+967,san-francisco,Leap Motion,Sobre 161 mil US$ -176 mil US$,Data Scientist,168500.0,168500.0
+968,san-francisco,Glassdoor,Sobre 104 mil US$ -113 mil US$,Data Scientist,108500.0,108500.0
+969,san-francisco,IPG Mediabrands,Sobre 129 mil US$ -139 mil US$,Data Scientist,134000.0,134000.0
+970,san-francisco,Foresite Labs,Sobre 149 mil US$ -162 mil US$,Data Scientist,155500.0,155500.0
+971,san-francisco,Weights & Biases,Sobre 122 mil US$ -132 mil US$,Data Scientist,127000.0,127000.0
+972,san-francisco,Pacific Northwest National Laboratory,Sobre 153 mil US$ -166 mil US$,Data Scientist,159500.0,159500.0
+973,san-francisco,Tatari,Sobre 153 mil US$ -165 mil US$,Data Scientist,159000.0,159000.0
+974,san-francisco,Wellio,Sobre 153 mil US$ -165 mil US$,Data Scientist,159000.0,159000.0
+975,san-francisco,Guidehouse,Sobre 69 mil US$ -75 mil US$,Data Scientist,72000.0,72000.0
+976,san-francisco,IFTTT,Sobre 188 mil US$ -204 mil US$,Data Scientist,196000.0,196000.0
+977,san-francisco,Meta,Sobre 157 mil US$ -168 mil US$,Data Scientist,162500.0,162500.0
+978,san-francisco,Stealth Mode Startup,Sobre 106 mil US$ -116 mil US$,Data Scientist,111000.0,111000.0
+979,san-francisco,Gilead Sciences,Sobre 143 mil US$ -155 mil US$,Data Scientist,149000.0,149000.0
+980,san-francisco,REX,Sobre 43 US$ -47 US$ por hora,Data Scientist - Becario por hora,45.0,77625
+981,san-francisco,Frederick National Laboratory for Cancer Research,Sobre 83 mil US$ -90 mil US$,Data Scientist,86500.0,86500.0
+982,san-francisco,Argus Information & Advisory Services,Sobre 106 mil US$ -115 mil US$,Data Scientist,110500.0,110500.0
+983,san-francisco,HomeShare,Sobre 90 mil US$ -98 mil US$,Data Scientist,94000.0,94000.0
+984,san-francisco,CodeSignal,Sobre 109 mil US$ -119 mil US$,Data Scientist,114000.0,114000.0
+985,san-francisco,Guideline,Sobre 135 mil US$ -147 mil US$,Data Scientist,141000.0,141000.0
+986,san-francisco,Unity,Sobre 57 US$ -62 US$ por hora,Data Scientist - Becario por hora,59.5,101775
+987,san-francisco,Mindstrong,Sobre 147 mil US$ -159 mil US$,Data Scientist,153000.0,153000.0
+988,san-francisco,Insight Global,Sobre 68 US$ -73 US$ por hora,Data Scientist - Por hora,70.5,120750
+989,san-francisco,APATICS,Sobre 183 mil US$ -196 mil US$,Data Scientist - Proveedor de servicios,189500.0,189500.0
+990,san-francisco,SpringML,Sobre 110 mil US$ -117 mil US$,Data Scientist,113500.0,113500.0
+991,san-francisco,AbbVie,Sobre 101 mil US$ -108 mil US$,Data Scientist,104500.0,104500.0
+992,san-francisco,Nisum,Sobre 72 mil US$ -78 mil US$,Data Scientist,75000.0,75000.0
+993,san-francisco,Misfit,Sobre 171 mil US$ -183 mil US$,Data Scientist,177000.0,177000.0
+994,san-francisco,Zendesk,Sobre 11 mil US$ -12 mil US$,Data Scientist - Por mes,11500.0,138000
+995,san-francisco,Scalable Path,Sobre 51 US$ -55 US$ por hora,Data Scientist - Proveedor de servicios por hora,53.0,91425
+996,san-francisco,ABC,Sobre 74 US$ -80 US$ por hora,Data Scientist - Por hora,77.0,132825
+997,san-francisco,SKINNY LABS,Sobre 145 mil US$ -157 mil US$,Data Scientist,151000.0,151000.0
+998,san-francisco,Granular,Sobre 57 US$ -61 US$ por hora,Data Scientist - Por hora,59.0,101775
+999,san-francisco,Management & Economics Consulting,Sobre 147 mil US$ -158 mil US$,Data Scientist,152500.0,152500.0
+1000,san-francisco,FN Capital,Sobre 104 mil US$ -112 mil US$,Data Scientist,108000.0,108000.0
+1001,san-francisco,The Sourcery,Sobre 138 mil US$ -151 mil US$,Data Scientist,144500.0,144500.0
+1002,san-francisco,Lightpath,Sobre 135 mil US$ -145 mil US$,Data Scientist,140000.0,140000.0
+1003,san-francisco,NortonLifeLock,Sobre 182 mil US$ -197 mil US$,Data Scientist,189500.0,189500.0
+1004,san-francisco,Publica (CA),Sobre 97 mil US$ -105 mil US$,Data Scientist,101000.0,101000.0
+1005,san-francisco,Capital One,Sobre 34 US$ -37 US$ por hora,Data Scientist - Proveedor de servicios por hora,35.5,60375
+1006,san-francisco,Knightscope,Sobre 108 mil US$ -116 mil US$,Data Scientist,112000.0,112000.0
+1007,san-francisco,Visa Inc.,Sobre 32 US$ -35 US$ por hora,Data Scientist - Becario por hora,33.5,56925
+1008,san-francisco,PhantasmaTech,Sobre 130 mil US$ -142 mil US$,Data Scientist,136000.0,136000.0
+1009,san-francisco,XYZ Tech,Sobre 63 mil US$ -68 mil US$,Data Scientist,65500.0,65500.0
+1010,san-francisco,Chez Moi,Sobre 71 mil € -77 mil €,Data Scientist,74000.0,74000.0
+1011,san-francisco,Navient,Sobre 129 mil US$ -140 mil US$,Data Scientist,134500.0,134500.0
+1012,san-francisco,Qbiz,Sobre 134 mil US$ -146 mil US$,Data Scientist,140000.0,140000.0
+1014,san-francisco,SRI International,Sobre 75 mil US$ -82 mil US$,Data Scientist,78500.0,78500.0
+1015,san-francisco,Guotai Junan Securities,Sobre 68 mil US$ -73 mil US$,Data Scientist,70500.0,70500.0
+1016,san-francisco,Indiana University,Sobre 98 mil US$ -104 mil US$,Data Scientist,101000.0,101000.0
+1017,san-francisco,Turn,Sobre 168 mil US$ -181 mil US$,Data Scientist,174500.0,174500.0
+1018,san-francisco,West Monroe,Sobre 101 mil US$ -110 mil US$,Data Scientist,105500.0,105500.0
+1019,san-francisco,2K,Sobre 26 US$ -28 US$ por hora,Data Scientist - Por hora,27.0,46575
+1020,san-francisco,GreatSchools,Sobre 92 mil US$ -100 mil US$,Data Scientist,96000.0,96000.0
+1021,san-francisco,SigFig,Sobre 137 mil US$ -147 mil US$,Data Scientist,142000.0,142000.0
+1022,san-francisco,Metis,Sobre 76 mil US$ -83 mil US$,Data Scientist,79500.0,79500.0
+1023,san-francisco,Undertone,Sobre 140 mil US$ -152 mil US$,Data Scientist,146000.0,146000.0
+1024,san-francisco,Jawbone,Sobre 114 mil US$ -125 mil US$,Data Scientist,119500.0,119500.0
+1025,san-francisco,Decathlon,Sobre 41 mil US$ -45 mil US$,Data Scientist - Becario,43000.0,43000.0
+1026,san-francisco,Figure Eight Technologies,Sobre 147 mil US$ -160 mil US$,Data Scientist,153500.0,153500.0
+1027,san-francisco,Evidation Health,Sobre 121 mil US$ -132 mil US$,Data Scientist,126500.0,126500.0
+1028,san-francisco,Non Zero,Sobre 8 mil US$ -9 mil US$,Data Scientist - Becario por mes,8500.0,102000
+1029,san-francisco,Dote,Sobre 185 mil US$ -199 mil US$,Data Scientist,192000.0,192000.0
+1030,san-francisco,FortressIQ,Sobre 119 mil US$ -129 mil US$,Data Scientist,124000.0,124000.0
+1031,san-francisco,Coco Soft,Sobre 64 US$ -70 US$ por hora,Data Scientist - Proveedor de servicios por hora,67.0,115575
+1032,san-francisco,Deserve,Sobre 7 mil US$ -7 mil US$,Data Scientist - Proveedor de servicios por mes,7000.0,84000
+1033,san-francisco,Giving Assistant,Sobre 164 mil US$ -177 mil US$,Data Scientist,170500.0,170500.0
+1034,san-francisco,ClearSlide,Sobre 138 mil US$ -150 mil US$,Data Scientist,144000.0,144000.0
+1035,san-francisco,Evernote,Sobre 95 mil US$ -103 mil US$,Data Scientist,99000.0,99000.0
+1036,san-francisco,Circle Internet Financial,Sobre 198 mil US$ -214 mil US$,Data Scientist,206000.0,206000.0
+1037,san-francisco,Canvas,Sobre 131 mil US$ -141 mil US$,Data Scientist,136000.0,136000.0
+1038,san-francisco,Flexport,Sobre 147 mil US$ -160 mil US$,Data Scientist,153500.0,153500.0
+1039,san-francisco,Virgin America,Sobre 143 mil US$ -153 mil US$,Data Scientist,148000.0,148000.0
+1040,san-francisco,Mpaa,Sobre 113 mil US$ -121 mil US$,Data Scientist,117000.0,117000.0
+1041,san-francisco,Pottery Barn,Sobre 142 mil US$ -152 mil US$,Data Scientist,147000.0,147000.0
+1042,san-francisco,Ford Motor Company,Sobre 25 US$ -26 US$ por hora,Data Scientist - Becario por hora,25.5,43125
+1043,san-francisco,Yewno,Sobre 140 mil US$ -152 mil US$,Data Scientist,146000.0,146000.0
+1044,san-francisco,Wind River,Sobre 163 mil US$ -177 mil US$,Data Scientist,170000.0,170000.0
+1045,san-francisco,Checkr,Sobre 214 mil US$ -231 mil US$,Data Scientist,222500.0,222500.0
+1046,san-francisco,AgilOne,Sobre 120 mil US$ -131 mil US$,Data Scientist,125500.0,125500.0
+1047,san-francisco,dotData,Sobre 140 mil US$ -151 mil US$,Data Scientist,145500.0,145500.0
+1048,san-francisco,Elite Techno Groups,Sobre 28 US$ -30 US$ por hora,Data Scientist - Becario por hora,29.0,50025
+1049,san-francisco,Active Mind Technologies,Sobre 6 mil US$ -6 mil US$,Data Scientist - Proveedor de servicios por mes,6000.0,72000
+1050,san-francisco,POPSUGAR,Sobre 142 mil US$ -153 mil US$,Data Scientist,147500.0,147500.0
+1051,san-francisco,Denali Therapeutics,Sobre 124 mil US$ -135 mil US$,Data Scientist,129500.0,129500.0
+1052,san-francisco,Chartboost,Sobre 130 mil US$ -142 mil US$,Data Scientist,136000.0,136000.0
+1053,san-francisco,Apple,Sobre 95 mil US$ -102 mil US$,Data Scientist - Proveedor de servicios,98500.0,98500.0
+1054,san-francisco,University of Texas at Austin,Sobre 148 mil US$ -160 mil US$,Data Scientist,154000.0,154000.0
+1055,san-francisco,Uberflip,Sobre 51 US$ -55 US$ por hora,Data Scientist - Becario por hora,53.0,91425
+1056,san-francisco,Renew Financial,Sobre 123 mil US$ -133 mil US$,Data Scientist,128000.0,128000.0
+1057,san-francisco,Social Bicycles,Sobre 125 mil US$ -135 mil US$,Data Scientist,130000.0,130000.0
+1058,san-francisco,Humanyze,Sobre 109 mil US$ -118 mil US$,Data Scientist,113500.0,113500.0
+1059,san-francisco,ZEISS Group,Sobre 113 mil US$ -123 mil US$,Data Scientist,118000.0,118000.0
+1060,san-francisco,CASTLE GLOBAL,Sobre 126 mil US$ -137 mil US$,Data Scientist,131500.0,131500.0
+1061,san-francisco,OpenText,Sobre 115 mil US$ -125 mil US$,Data Scientist,120000.0,120000.0
+1062,san-francisco,Thumbtack,Sobre 172 mil US$ -186 mil US$,Data Scientist,179000.0,179000.0
+1063,san-francisco,Movoto Real Estate,Sobre 119 mil US$ -128 mil US$,Data Scientist,123500.0,123500.0
+1064,san-francisco,Citadel,Sobre 145 mil US$ -159 mil US$,Data Scientist,152000.0,152000.0
+1065,san-francisco,NCSOFT,Sobre 135 mil US$ -149 mil US$,Data Scientist,142000.0,142000.0
+1067,san-francisco,NatureBox,Sobre 140 mil US$ -150 mil US$,Data Scientist,145000.0,145000.0
+1068,san-francisco,SunPower,Sobre 140 mil US$ -151 mil US$,Data Scientist,145500.0,145500.0
+1069,san-francisco,Dictionary.com,Sobre 138 mil US$ -149 mil US$,Data Scientist,143500.0,143500.0
+1070,san-francisco,Wiser (California),Sobre 118 mil US$ -128 mil US$,Data Scientist,123000.0,123000.0
+1071,san-francisco,Reputation,Sobre 38 US$ -42 US$ por hora,Data Scientist - Becario por hora,40.0,69000
+1072,san-francisco,Seer Interactive,Sobre 111 mil US$ -122 mil US$,Data Scientist,116500.0,116500.0
+1073,san-francisco,Explorium,Sobre 7 mil US$ -8 mil US$,Data Scientist - Por mes,7500.0,90000
+1074,san-francisco,Apartment List,Sobre 151 mil US$ -161 mil US$,Data Scientist,156000.0,156000.0
+1075,san-francisco,Iron Horse Interactive,Sobre 109 mil US$ -118 mil US$,Data Scientist,113500.0,113500.0
+1076,san-francisco,Philips,Sobre 162 mil US$ -174 mil US$,Data Scientist,168000.0,168000.0
+1077,san-francisco,Nestlé USA,Sobre 125 mil US$ -136 mil US$,Data Scientist,130500.0,130500.0
+1078,san-francisco,TinyCo,Sobre 96 mil US$ -105 mil US$,Data Scientist,100500.0,100500.0
+1079,san-francisco,RingCentral,Sobre 105 mil US$ -114 mil US$,Data Scientist,109500.0,109500.0
+1080,san-francisco,Edison Software,Sobre 151 mil US$ -163 mil US$,Data Scientist,157000.0,157000.0
+1081,san-francisco,CloudMedx,Sobre 148 mil US$ -160 mil US$,Data Scientist,154000.0,154000.0
+1082,san-francisco,Ypióca,Sobre 97 mil US$ -105 mil US$,Data Scientist,101000.0,101000.0
+1083,san-francisco,Smarking,Sobre 95 mil US$ -103 mil US$,Data Scientist,99000.0,99000.0
+1084,san-francisco,Roofstock,Sobre 129 mil US$ -139 mil US$,Data Scientist,134000.0,134000.0
+1085,san-francisco,Cypress Creek Renewables,Sobre 97 mil US$ -105 mil US$,Data Scientist,101000.0,101000.0
+1086,san-francisco,Amplitude,Sobre 157 mil US$ -170 mil US$,Data Scientist,163500.0,163500.0
+1087,san-francisco,Franklin Energy,Sobre 136 mil US$ -147 mil US$,Data Scientist,141500.0,141500.0
+1088,san-francisco,mscripts,Sobre 79 mil US$ -85 mil US$,Data Scientist,82000.0,82000.0
+1089,san-francisco,SingleStore,Sobre 135 mil US$ -148 mil US$,Data Scientist,141500.0,141500.0
+1090,san-francisco,Outlier AI,Sobre 153 mil US$ -166 mil US$,Data Scientist,159500.0,159500.0
+1091,san-francisco,Panorama Education,Sobre 148 mil US$ -160 mil US$,Data Scientist,154000.0,154000.0
+1092,san-francisco,VIZIO,Sobre 25 US$ -26 US$ por hora,Data Scientist - Becario por hora,25.5,43125
+1093,san-francisco,Sungevity,Sobre 111 mil US$ -122 mil US$,Data Scientist,116500.0,116500.0
+1094,san-francisco,eJoule,Sobre 97 mil US$ -106 mil US$,Data Scientist,101500.0,101500.0
+1095,san-francisco,Radius Intelligence,Sobre 137 mil US$ -147 mil US$,Data Scientist,142000.0,142000.0
+1096,san-francisco,Engage3,Sobre 45 mil US$ -49 mil US$,Data Scientist,47000.0,47000.0
+1097,san-francisco,iDox.ai,Sobre 97 mil US$ -104 mil US$,Data Scientist,100500.0,100500.0
+1098,san-francisco,Vitagene,Sobre 143 mil US$ -156 mil US$,Data Scientist,149500.0,149500.0
+1099,san-francisco,Graph Concepts,Sobre 156 mil US$ -168 mil US$,Data Scientist,162000.0,162000.0
+1100,san-francisco,Ginger,Sobre 139 mil US$ -150 mil US$,Data Scientist,144500.0,144500.0
+1101,san-francisco,Afresh Technologies,Sobre 166 mil US$ -182 mil US$,Data Scientist,174000.0,174000.0
+1102,san-francisco,One Source Visual Marketing Solutions,Sobre 94 mil US$ -102 mil US$,Data Scientist,98000.0,98000.0
+1103,san-francisco,Databricks,Sobre 21 US$ -22 US$ por hora,Data Scientist - Becario por hora,21.5,36225
+1104,san-francisco,Google,Sobre 170 mil US$ -184 mil US$,Data Scientist - Proveedor de servicios,177000.0,177000.0
+1105,san-francisco,Goodyear,Sobre 115 mil US$ -125 mil US$,Data Scientist,120000.0,120000.0
+1106,san-francisco,Vida Health,Sobre 134 mil US$ -147 mil US$,Data Scientist,140500.0,140500.0
+1107,san-francisco,Buck Institute,Sobre 73 mil US$ -79 mil US$,Data Scientist,76000.0,76000.0
+1108,san-francisco,Aptly,Sobre 201 mil US$ -216 mil US$,Data Scientist,208500.0,208500.0
+1109,san-francisco,NCR,Sobre 199 mil US$ -213 mil US$,Data Scientist,206000.0,206000.0
+1110,san-francisco,Tiger Analytics,Sobre 154 mil US$ -168 mil US$,Data Scientist,161000.0,161000.0
+1111,san-francisco,Telepathy Labs,Sobre 100 mil US$ -106 mil US$,Data Scientist,103000.0,103000.0
+1112,san-francisco,Eaze,Sobre 161 mil US$ -175 mil US$,Data Scientist,168000.0,168000.0
+1113,san-francisco,Twenty,Sobre 143 mil US$ -154 mil US$,Data Scientist,148500.0,148500.0
+1114,san-francisco,FlowCommand,Sobre 127 mil US$ -137 mil US$,Data Scientist,132000.0,132000.0
+1115,san-francisco,Upsight,Sobre 96 mil US$ -103 mil US$,Data Scientist,99500.0,99500.0
+1116,san-francisco,UC Berkeley Extension,Sobre 97 US$ -105 US$ por hora,Data Scientist - Por hora,101.0,174225
+1117,san-francisco,Plaid,Sobre 151 mil US$ -166 mil US$,Data Scientist,158500.0,158500.0
+1118,san-francisco,Teamsoft Technologies,Sobre 125 mil US$ -136 mil US$,Data Scientist,130500.0,130500.0
+1119,san-francisco,DuPont,Sobre 124 mil US$ -133 mil US$,Data Scientist,128500.0,128500.0
+1120,san-francisco,Deserve,Sobre 34 US$ -37 US$ por hora,Data Scientist - Becario por hora,35.5,60375
+1121,san-francisco,Blume Global,Sobre 140 mil US$ -151 mil US$,Data Scientist,145500.0,145500.0
+1122,san-francisco,Cloudflare,Sobre 126 mil US$ -137 mil US$,Data Scientist,131500.0,131500.0
+1123,san-francisco,Mercedes-Benz Research & Development North America,Sobre 115 mil US$ -126 mil US$,Data Scientist,120500.0,120500.0
+1124,san-francisco,Agari,Sobre 155 mil US$ -166 mil US$,Data Scientist,160500.0,160500.0
+1125,san-francisco,Upwork,Sobre 38 US$ -41 US$ por hora,Data Scientist - Por hora,39.5,67275
+1126,san-francisco,TuneIn,Sobre 145 mil US$ -157 mil US$,Data Scientist,151000.0,151000.0
+1127,san-francisco,adRise,Sobre 154 mil US$ -164 mil US$,Data Scientist,159000.0,159000.0
+1128,san-francisco,Tile,Sobre 130 mil US$ -140 mil US$,Data Scientist,135000.0,135000.0
+1129,san-francisco,Chubb,Sobre 124 mil US$ -134 mil US$,Data Scientist,129000.0,129000.0
+1130,san-francisco,Huntington Learning Centers,Sobre 95 mil US$ -105 mil US$,Data Scientist,100000.0,100000.0
+1131,san-francisco,Sift,Sobre 135 mil US$ -144 mil US$,Data Scientist,139500.0,139500.0
+1132,san-francisco,None of Your Business Boutique,Sobre 128 mil US$ -138 mil US$,Data Scientist,133000.0,133000.0
+1133,san-francisco,Bio-Rad Laboratories,Sobre 116 mil US$ -124 mil US$,Data Scientist,120000.0,120000.0
+1134,san-francisco,UC Santa Cruz,Sobre 124 mil US$ -136 mil US$,Data Scientist,130000.0,130000.0
+1135,san-francisco,Storm8,Sobre 158 mil US$ -169 mil US$,Data Scientist,163500.0,163500.0
+1136,san-francisco,E-Cube Energy,Sobre 118 mil US$ -127 mil US$,Data Scientist,122500.0,122500.0
+1137,san-francisco,Celtra,Sobre 118 mil US$ -126 mil US$,Data Scientist,122000.0,122000.0
+1138,san-francisco,Gap,Sobre 42 US$ -45 US$ por hora,Data Scientist - Becario por hora,43.5,74175
+1139,san-francisco,Conga,Sobre 27 US$ -29 US$ por hora,Data Scientist - Becario por hora,28.0,48300
+1140,san-francisco,Onclusive,Sobre 119 mil US$ -130 mil US$,Data Scientist,124500.0,124500.0
+1141,san-francisco,Metromile,Sobre 117 mil US$ -128 mil US$,Data Scientist - Becario,122500.0,122500.0
+1142,san-francisco,HERE Technologies,Sobre 149 mil US$ -163 mil US$,Data Scientist,156000.0,156000.0
+1143,san-francisco,Sensor Tower,Sobre 139 mil US$ -150 mil US$,Data Scientist,144500.0,144500.0
+1144,san-francisco,SoFi,Sobre 54 US$ -59 US$ por hora,Data Scientist - Becario por hora,56.5,96600
+1145,san-francisco,Deserve,Sobre 271 mil US$ -299 mil US$,Data Scientist,285000.0,285000.0
+1146,san-francisco,Cuberg,Sobre 26 US$ -28 US$ por hora,Data Scientist - Becario por hora,27.0,46575
+1147,san-francisco,iMATCHATIVE,Sobre 100 mil US$ -108 mil US$,Data Scientist,104000.0,104000.0
+1148,san-francisco,Essence,Sobre 103 mil US$ -113 mil US$,Data Scientist,108000.0,108000.0
+1149,san-francisco,VIZIO,Sobre 156 mil US$ -167 mil US$,Data Scientist,161500.0,161500.0
+1150,san-francisco,Lyft Brands Group,Sobre 154 mil US$ -167 mil US$,Data Scientist,160500.0,160500.0
+1151,san-francisco,UpLift (CA),Sobre 141 mil US$ -155 mil US$,Data Scientist,148000.0,148000.0
+1152,san-francisco,DocuSign,Sobre 147 mil US$ -159 mil US$,Data Scientist,153000.0,153000.0
+1153,san-francisco,ICM,Sobre 128 mil US$ -139 mil US$,Data Scientist,133500.0,133500.0
+1154,san-francisco,Idexcel,Sobre 118 mil US$ -128 mil US$,Data Scientist - Proveedor de servicios,123000.0,123000.0
+1155,san-francisco,Carvana,Sobre 182 mil US$ -196 mil US$,Data Scientist,189000.0,189000.0
+1156,san-francisco,Metabiota,Sobre 110 mil US$ -119 mil US$,Data Scientist,114500.0,114500.0
+1157,san-francisco,Bank of the West,Sobre 21 US$ -23 US$ por hora,Data Scientist - Becario por hora,22.0,37950
+1158,san-francisco,Tribe Dynamics,Sobre 151 mil US$ -163 mil US$,Data Scientist,157000.0,157000.0
+1159,san-francisco,SACC,Sobre 77 US$ -83 US$ por hora,Data Scientist - Por hora,80.0,138000
+1160,san-francisco,EMC,Sobre 127 mil US$ -139 mil US$,Data Scientist,133000.0,133000.0
+1161,san-francisco,LexisNexis Legal & Professional,Sobre 123 mil US$ -133 mil US$,Data Scientist,128000.0,128000.0
+1162,san-francisco,Lyft,Sobre 12 mil US$ -13 mil US$,Data Scientist - Becario por mes,12500.0,150000
+1163,san-francisco,Biohub,Sobre 24 US$ -26 US$ por hora,Data Scientist - Por hora,25.0,43125
+1164,san-francisco,University of Michigan,Sobre 3 mil US$ -3 mil US$,Data Scientist - Por mes,3000.0,36000
+1165,san-francisco,Carter Lumber,Sobre 107 mil US$ -115 mil US$,Data Scientist,111000.0,111000.0
+1166,san-francisco,Dignity Health,Sobre 133 mil US$ -145 mil US$,Data Scientist,139000.0,139000.0
+1167,san-francisco,Marqeta,Sobre 116 mil US$ -126 mil US$,Data Scientist,121000.0,121000.0
+1168,san-francisco,Tencent,Sobre 114 mil US$ -123 mil US$,Data Scientist,118500.0,118500.0
+1169,san-francisco,GoTo,Sobre 145 mil US$ -157 mil US$,Data Scientist,151000.0,151000.0
+1170,san-francisco,Sharethrough,Sobre 140 mil US$ -150 mil US$,Data Scientist,145000.0,145000.0
+1171,san-francisco,Sonder,Sobre 4 mil US$ -5 mil US$,Data Scientist - Becario por mes,4500.0,54000
+1172,san-francisco,Freenome,Sobre 133 mil US$ -145 mil US$,Data Scientist,139000.0,139000.0
+1173,san-francisco,IDEO,Sobre 151 mil US$ -162 mil US$,Data Scientist,156500.0,156500.0
+1174,san-francisco,Medium,Sobre 136 mil US$ -148 mil US$,Data Scientist,142000.0,142000.0
+1175,san-francisco,if(we),Sobre 152 mil US$ -164 mil US$,Data Scientist,158000.0,158000.0
+1176,san-francisco,Upwave,Sobre 103 mil US$ -114 mil US$,Data Scientist,108500.0,108500.0
+1177,san-francisco,Zoom Video Communications,Sobre 7 mil US$ -8 mil US$,Data Scientist - Becario por mes,7500.0,90000
+1178,san-francisco,Path,Sobre 148 mil US$ -162 mil US$,Data Scientist,155000.0,155000.0
+1179,san-francisco,Guy Carpenter,Sobre 25 US$ -27 US$ por hora,Data Scientist - Por hora,26.0,44850
+1180,san-francisco,Publicis Groupe,Sobre 145 mil US$ -157 mil US$,Data Scientist,151000.0,151000.0
+1181,san-francisco,Electronic Arts,Sobre 20 US$ -22 US$ por hora,Data Scientist - Por hora,21.0,36225
+1182,san-francisco,Google,Sobre 109 mil US$ -118 mil US$,Data Scientist,113500.0,113500.0
+1183,san-francisco,US Coast Guard,Sobre 153 mil US$ -167 mil US$,Data Scientist - Proveedor de servicios,160000.0,160000.0
+1184,san-francisco,Casetext,Sobre 106 mil US$ -114 mil US$,Data Scientist,110000.0,110000.0
+1185,san-francisco,Proofpoint,Sobre 128 mil US$ -141 mil US$,Data Scientist,134500.0,134500.0
+1186,san-francisco,Dataquest Labs,Sobre 98 mil US$ -106 mil US$,Data Scientist,102000.0,102000.0
+1187,san-francisco,American Express,Sobre 74 US$ -80 US$ por hora,Data Scientist - Proveedor de servicios por hora,77.0,132825
+1188,san-francisco,Tejase Technologies,Sobre 159 mil US$ -174 mil US$,Data Scientist,166500.0,166500.0
+1189,san-francisco,Allbirds,Sobre 137 mil US$ -148 mil US$,Data Scientist,142500.0,142500.0
+1190,san-francisco,Xactly Corp.,Sobre 80 US$ -87 US$ por hora,Data Scientist - Por hora,83.5,143175
+1191,san-francisco,Personagraph,Sobre 168 mil US$ -184 mil US$,Data Scientist,176000.0,176000.0
+1192,san-francisco,"Extend, Inc.",Sobre 125 mil US$ -137 mil US$,Data Scientist,131000.0,131000.0
+1193,san-francisco,Jobscience,Sobre 220 mil US$ -239 mil US$,Data Scientist,229500.0,229500.0
+1194,san-francisco,Juvo,Sobre 140 mil US$ -153 mil US$,Data Scientist,146500.0,146500.0
+1195,san-francisco,Altman Vilandrie & Company,Sobre 121 mil US$ -130 mil US$,Data Scientist,125500.0,125500.0
+1196,san-francisco,Federal Reserve Bank of San Francisco,Sobre 200 mil US$ -217 mil US$,Data Scientist,208500.0,208500.0
+1198,san-francisco,Alt,Sobre 8 mil US$ -9 mil US$,Data Scientist - Becario por mes,8500.0,102000
+1199,san-francisco,McKee Foods,Sobre 152 mil US$ -166 mil US$,Data Scientist,159000.0,159000.0
+1200,san-francisco,Sony Interactive Entertainment,Sobre 121 mil US$ -130 mil US$,Data Scientist,125500.0,125500.0
+1201,san-francisco,Voxer,Sobre 170 mil US$ -183 mil US$,Data Scientist,176500.0,176500.0
+1202,san-francisco,Postmates,Sobre 106 mil US$ -115 mil US$,Data Scientist,110500.0,110500.0
+1203,san-francisco,NGM Biopharmaceuticals,Sobre 105 mil US$ -113 mil US$,Data Scientist,109000.0,109000.0
+1204,san-francisco,Gogalex ,Sobre 115 mil US$ -124 mil US$,Data Scientist,119500.0,119500.0
+1205,san-francisco,KPMG,Sobre 135 mil US$ -146 mil US$,Data Scientist,140500.0,140500.0
+1206,san-francisco,Genentech,Sobre 171 mil US$ -185 mil US$,Data Scientist,178000.0,178000.0
+1207,san-francisco,Ten-X,Sobre 130 mil US$ -140 mil US$,Data Scientist,135000.0,135000.0
+1208,san-francisco,BOLD,Sobre 127 mil US$ -139 mil US$,Data Scientist,133000.0,133000.0
+1209,san-francisco,Didi Chuxing,Sobre 145 mil US$ -157 mil US$,Data Scientist,151000.0,151000.0
+1210,san-francisco,Learnetic Latin America,Sobre 85 mil US$ -93 mil US$,Data Scientist,89000.0,89000.0
+1211,san-francisco,DataScientest,Sobre 115 mil US$ -125 mil US$,Data Scientist,120000.0,120000.0
+1212,san-francisco,Stanford University,Sobre 101 mil US$ -108 mil US$,Data Scientist,104500.0,104500.0
+1213,san-francisco,Elin.ai,Sobre 90 mil US$ -96 mil US$,Data Scientist,93000.0,93000.0
+1214,san-francisco,Reddit,Sobre 19 US$ -20 US$ por hora,Data Scientist - Becario por hora,19.5,32775
+1215,san-francisco,Lawrence Livermore National Laboratory,Sobre 6 mil US$ -7 mil US$,Data Scientist - Becario por mes,6500.0,78000
+1216,san-francisco,Bosch,Sobre 137 mil US$ -150 mil US$,Data Scientist,143500.0,143500.0
+1217,san-francisco,Optum,Sobre 106 mil US$ -113 mil US$,Data Scientist,109500.0,109500.0
+1218,san-francisco,Goodreads,Sobre 118 mil US$ -128 mil US$,Data Scientist,123000.0,123000.0
+1219,san-francisco,Rhodium Group,Sobre 107 mil US$ -116 mil US$,Data Scientist,111500.0,111500.0
+1220,san-francisco,Aidéo Technologies,Sobre 134 mil US$ -145 mil US$,Data Scientist,139500.0,139500.0
+1221,san-francisco,Bloomreach,Sobre 116 mil US$ -128 mil US$,Data Scientist,122000.0,122000.0
+1222,san-francisco,Ebates,Sobre 166 mil US$ -180 mil US$,Data Scientist,173000.0,173000.0
+1223,san-francisco,Beautylish,Sobre 82 mil US$ -89 mil US$,Data Scientist,85500.0,85500.0
+1224,san-francisco,NTT DATA,Sobre 124 mil US$ -136 mil US$,Data Scientist,130000.0,130000.0
+1225,san-francisco,VigLink,Sobre 158 mil US$ -171 mil US$,Data Scientist,164500.0,164500.0
+1226,san-francisco,Dazeworks,Sobre 248 mil US$ -267 mil US$,Data Scientist,257500.0,257500.0
+1227,san-francisco,LendingClub,Sobre 38 US$ -42 US$ por hora,Data Scientist - Becario por hora,40.0,69000
+1228,san-francisco,Novartis Pharmaceuticals,Sobre 152 mil US$ -166 mil US$,Data Scientist,159000.0,159000.0
+1229,san-francisco,Envoy,Sobre 151 mil US$ -163 mil US$,Data Scientist,157000.0,157000.0
+1230,san-francisco,Unify Consulting,Sobre 149 mil US$ -163 mil US$,Data Scientist,156000.0,156000.0
+1231,san-francisco,SEVEN Networks,Sobre 32 US$ -35 US$ por hora,Data Scientist - Becario por hora,33.5,56925
+1232,san-francisco,FICO,Sobre 110 mil US$ -118 mil US$,Data Scientist,114000.0,114000.0
+1233,san-francisco,Seer,Sobre 132 mil US$ -142 mil US$,Data Scientist,137000.0,137000.0
+1234,san-francisco,Tata Consultancy Services,Sobre 196 mil US$ -214 mil US$,Data Scientist,205000.0,205000.0
+1235,san-francisco,Farmer's Business Network,Sobre 116 mil US$ -124 mil US$,Data Scientist,120000.0,120000.0
+1236,san-francisco,McKinsey & Company,Sobre 142 mil US$ -154 mil US$,Data Scientist,148000.0,148000.0
+1237,san-francisco,Ripple,Sobre 207 mil US$ -224 mil US$,Data Scientist,215500.0,215500.0
+1238,san-francisco,Akoya Biosciences,Sobre 125 mil US$ -136 mil US$,Data Scientist,130500.0,130500.0
+1239,san-francisco,Exponent,Sobre 96 mil US$ -103 mil US$,Data Scientist,99500.0,99500.0
+1240,san-francisco,UC San Francisco,Sobre 97 mil US$ -106 mil US$,Data Scientist - Becario,101500.0,101500.0
+1241,san-francisco,Target,Sobre 130 mil US$ -140 mil US$,Data Scientist,135000.0,135000.0
+1242,san-francisco,Nasdaq,Sobre 121 mil US$ -130 mil US$,Data Scientist,125500.0,125500.0
+1243,san-francisco,Self-employed,Sobre 100 mil US$ -109 mil US$,Data Scientist,104500.0,104500.0
+1244,san-francisco,Cipio,Sobre 4 mil US$ -5 mil US$,Data Scientist - Por mes,4500.0,54000
+1245,san-francisco,Oracle,Sobre 48 US$ -52 US$ por hora,Data Scientist - Becario por hora,50.0,86250
+1246,san-francisco,DDD,Sobre 37 US$ -40 US$ por hora,Data Scientist - Por hora,38.5,65550
+1247,san-francisco,Infosys,Sobre 10 mil US$ -10 mil US$,Data Scientist - Por mes,10000.0,120000
+1248,san-francisco,Goodwater,Sobre 112 mil US$ -123 mil US$,Data Scientist,117500.0,117500.0
+1249,san-francisco,Meta,Sobre 148 mil US$ -159 mil US$,Data Scientist,153500.0,153500.0
+1250,san-francisco,Datadog,Sobre 120 mil US$ -130 mil US$,Data Scientist,125000.0,125000.0
+1251,san-francisco,Sydata Consulting,Sobre 97 mil US$ -105 mil US$,Data Scientist,101000.0,101000.0
+1252,san-francisco,Sandia National Laboratories,Sobre 150 mil US$ -161 mil US$,Data Scientist,155500.0,155500.0
+1253,san-francisco,Drawbridge,Sobre 153 mil US$ -166 mil US$,Data Scientist,159500.0,159500.0
+1254,san-francisco,ZipRealty,Sobre 146 mil US$ -157 mil US$,Data Scientist,151500.0,151500.0
+1255,san-francisco,Object Edge,Sobre 87 mil US$ -95 mil US$,Data Scientist,91000.0,91000.0
+1256,san-francisco,Hired,Sobre 123 mil US$ -133 mil US$,Data Scientist,128000.0,128000.0
+1257,san-francisco,Williams-Sonoma,Sobre 128 mil US$ -138 mil US$,Data Scientist,133000.0,133000.0
+1258,san-francisco,Blizzard Entertainment,Sobre 95 mil US$ -103 mil US$,Data Scientist,99000.0,99000.0
+1259,san-francisco,Support.com,Sobre 92 mil US$ -100 mil US$,Data Scientist,96000.0,96000.0
+1260,san-francisco,GitHub,Sobre 160 mil US$ -171 mil US$,Data Scientist,165500.0,165500.0
+1261,san-francisco,Savonix,Sobre 119 mil US$ -131 mil US$,Data Scientist,125000.0,125000.0
+1262,san-francisco,Shiru,Sobre 120 mil US$ -129 mil US$,Data Scientist,124500.0,124500.0
+1263,san-francisco,Moody's Corporation,Sobre 127 mil US$ -136 mil US$,Data Scientist,131500.0,131500.0
+1264,san-francisco,Verba,Sobre 77 mil US$ -84 mil US$,Data Scientist,80500.0,80500.0
+1265,san-francisco,Novetta,Sobre 150 mil US$ -161 mil US$,Data Scientist,155500.0,155500.0
+1266,san-francisco,Tamr,Sobre 143 mil US$ -155 mil US$,Data Scientist,149000.0,149000.0
+1267,san-francisco,Decile,Sobre 142 mil US$ -154 mil US$,Data Scientist,148000.0,148000.0
+1268,san-francisco,Recurly,Sobre 154 mil US$ -169 mil US$,Data Scientist,161500.0,161500.0
+1269,san-francisco,Daily Mail and General Trust,Sobre 111 mil US$ -120 mil US$,Data Scientist,115500.0,115500.0
+1270,san-francisco,Adentro,Sobre 146 mil US$ -159 mil US$,Data Scientist,152500.0,152500.0
+1271,san-francisco,Avast Software,Sobre 158 mil US$ -172 mil US$,Data Scientist,165000.0,165000.0
+1272,san-francisco,Google,Sobre 136 mil € -146 mil €,Data Scientist,141000.0,141000.0
+1273,san-francisco,Adobe,Sobre 57 US$ -61 US$ por hora,Data Scientist - Becario por hora,59.0,101775
+1274,san-francisco,Moody's Analytics,Sobre 129 mil US$ -139 mil US$,Data Scientist,134000.0,134000.0
+1275,san-francisco,SocialCode,Sobre 140 mil US$ -150 mil US$,Data Scientist,145000.0,145000.0
+1276,san-francisco,Microsoft,Sobre 65 mil US$ -69 mil US$,Data Scientist - Becario,67000.0,67000.0
+1277,san-francisco,NCIRE,Sobre 138 mil US$ -151 mil US$,Data Scientist,144500.0,144500.0
+1278,san-francisco,Fracta,Sobre 93 mil US$ -100 mil US$,Data Scientist,96500.0,96500.0
+1279,san-francisco,Maveric Systems,Sobre 51 mil US$ -55 mil US$,Data Scientist,53000.0,53000.0
+1280,san-francisco,Acubed,Sobre 145 mil US$ -155 mil US$,Data Scientist,150000.0,150000.0
+1281,san-francisco,Zipongo,Sobre 162 mil US$ -174 mil US$,Data Scientist,168000.0,168000.0
+1282,san-francisco,Other,Sobre 77 mil US$ -83 mil US$,Data Scientist - Proveedor de servicios,80000.0,80000.0
+1283,san-francisco,Stem,Sobre 145 mil US$ -156 mil US$,Data Scientist,150500.0,150500.0
+1284,san-francisco,Novartis,Sobre 136 mil US$ -149 mil US$,Data Scientist,142500.0,142500.0
+1285,san-francisco,iSite Technologies,Sobre 97 mil US$ -106 mil US$,Data Scientist,101500.0,101500.0
+1286,san-francisco,Karius,Sobre 152 mil US$ -164 mil US$,Data Scientist,158000.0,158000.0
+1287,san-francisco,Biohub,Sobre 118 mil US$ -129 mil US$,Data Scientist,123500.0,123500.0
+1288,san-francisco,Noodle.ai,Sobre 115 mil US$ -125 mil US$,Data Scientist,120000.0,120000.0
+1289,san-francisco,ABCDE & FGHIJ,Sobre 192 mil US$ -208 mil US$,Data Scientist,200000.0,200000.0
+1290,san-francisco,Fisher Investments,Sobre 43 US$ -47 US$ por hora,Data Scientist - Por hora,45.0,77625
+1291,san-francisco,DISYS,Sobre 73 US$ -80 US$ por hora,Data Scientist - Por hora,76.5,131100
+1292,san-francisco,"CSAA Insurance Group, a AAA Insurer",Sobre 127 mil US$ -139 mil US$,Data Scientist,133000.0,133000.0
+1293,san-francisco,Cognoa,Sobre 137 mil US$ -150 mil US$,Data Scientist,143500.0,143500.0
+1294,san-francisco,Guavus,Sobre 185 mil US$ -202 mil US$,Data Scientist,193500.0,193500.0
+1295,san-francisco,Dascena,Sobre 81 mil US$ -87 mil US$,Data Scientist,84000.0,84000.0
+1296,san-francisco,The Nord Center,Sobre 146 mil US$ -158 mil US$,Data Scientist,152000.0,152000.0
+1297,san-francisco,Truework,Sobre 120 mil US$ -130 mil US$,Data Scientist,125000.0,125000.0
+1298,san-francisco,Medidata Solutions,Sobre 140 mil US$ -151 mil US$,Data Scientist,145500.0,145500.0
+1299,san-francisco,Q1,Sobre 131 mil US$ -141 mil US$,Data Scientist,136000.0,136000.0
+1300,san-francisco,Yammer,Sobre 184 mil US$ -199 mil US$,Data Scientist,191500.0,191500.0
+1301,san-francisco,ROI DNA,Sobre 94 mil US$ -103 mil US$,Data Scientist,98500.0,98500.0
+1302,san-francisco,Ancestry,Sobre 56 US$ -61 US$ por hora,Data Scientist - Becario por hora,58.5,100050
+1303,san-francisco,IHS Markit,Sobre 75 mil US$ -81 mil US$,Data Scientist,78000.0,78000.0
+1304,san-francisco,WhatsApp,Sobre 162 mil US$ -173 mil US$,Data Scientist,167500.0,167500.0
+1305,san-francisco,Chegg,Sobre 136 mil US$ -147 mil US$,Data Scientist,141500.0,141500.0
+1306,san-francisco,oDesk,Sobre 154 mil US$ -167 mil US$,Data Scientist,160500.0,160500.0
+1307,san-francisco,Global Wireless Solutions,Sobre 94 mil US$ -102 mil US$,Data Scientist,98000.0,98000.0
+1308,san-francisco,Technology Crossover Ventures,Sobre 104 mil US$ -114 mil US$,Data Scientist,109000.0,109000.0
+1309,san-francisco,4INFO,Sobre 34 US$ -37 US$ por hora,Data Scientist - Becario por hora,35.5,60375
+1310,san-francisco,Baker Hughes,Sobre 142 mil US$ -153 mil US$,Data Scientist,147500.0,147500.0
+1311,san-francisco,EY,Sobre 57 US$ -61 US$ por hora,Data Scientist - Becario por hora,59.0,101775
+1312,san-francisco,CrossChannel,Sobre 110 mil US$ -121 mil US$,Data Scientist,115500.0,115500.0
+1313,san-francisco,Avanade,Sobre 160 mil US$ -174 mil US$,Data Scientist,167000.0,167000.0
+1314,san-francisco,University of the Pacific,Sobre 20 US$ -22 US$ por hora,Data Scientist - Por hora,21.0,36225
+1315,san-francisco,Qualys,Sobre 20 US$ -22 US$ por hora,Data Scientist - Becario por hora,21.0,36225
+1316,san-francisco,Hamilton Porter,Sobre 156 mil US$ -169 mil US$,Data Scientist,162500.0,162500.0
+1317,san-francisco,Nurx,Sobre 189 mil US$ -202 mil US$,Data Scientist,195500.0,195500.0
+1318,san-francisco,Rang Technologies,Sobre 147 mil US$ -160 mil US$,Data Scientist,153500.0,153500.0
+1319,san-francisco,BloomSky,Sobre 100 mil US$ -107 mil US$,Data Scientist,103500.0,103500.0
+1320,san-francisco,Lodestone Software Services,Sobre 68 mil US$ -73 mil US$,Data Scientist,70500.0,70500.0
+1321,san-francisco,Dash Technologies,Sobre 78 mil US$ -86 mil US$,Data Scientist - Proveedor de servicios,82000.0,82000.0
+1322,san-francisco,Kaiser Permanente,Sobre 28 US$ -31 US$ por hora,Data Scientist - Becario por hora,29.5,50025
+1323,san-francisco,BMW Group,Sobre 99 mil US$ -107 mil US$,Data Scientist - Becario,103000.0,103000.0
+1324,san-francisco,Arine,Sobre 116 mil US$ -125 mil US$,Data Scientist,120500.0,120500.0
+1325,san-francisco,Ascent Services Group,Sobre 132 mil US$ -141 mil US$,Data Scientist,136500.0,136500.0
+1326,san-francisco,Fitbit,Sobre 155 mil US$ -166 mil US$,Data Scientist,160500.0,160500.0
+1327,san-francisco,Siemens,Sobre 32 US$ -35 US$ por hora,Data Scientist - Becario por hora,33.5,56925
+1328,san-francisco,Expedia Group,Sobre 171 mil US$ -187 mil US$,Data Scientist,179000.0,179000.0
+1329,san-francisco,Callisto Media,Sobre 152 mil US$ -167 mil US$,Data Scientist,159500.0,159500.0
+1330,san-francisco,Audeso,Sobre 118 mil US$ -128 mil US$,Data Scientist,123000.0,123000.0
+1331,san-francisco,Netflix,Sobre 444 mil US$ -476 mil US$,Data Scientist,460000.0,460000.0
+1332,san-francisco,Palantir Technologies,Sobre 135 mil US$ -147 mil US$,Data Scientist,141000.0,141000.0
+1333,san-francisco,Revvo,Sobre 102 mil US$ -110 mil US$,Data Scientist,106000.0,106000.0
+1334,san-francisco,Tektronix Communications,Sobre 167 mil US$ -182 mil US$,Data Scientist,174500.0,174500.0
+1335,san-francisco,Yale University,Sobre 76 mil US$ -82 mil US$,Data Scientist - Becario,79000.0,79000.0
+1336,san-francisco,Real Chemistry,Sobre 159 mil US$ -172 mil US$,Data Scientist,165500.0,165500.0
+1337,san-francisco,BetterUp,Sobre 118 mil US$ -127 mil US$,Data Scientist,122500.0,122500.0
+1338,san-francisco,Netspend,Sobre 142 mil US$ -152 mil US$,Data Scientist,147000.0,147000.0
+1339,san-francisco,Roblox,Sobre 57 US$ -63 US$ por hora,Data Scientist - Becario por hora,60.0,103500
+1340,san-francisco,Cognilytics,Sobre 118 mil US$ -129 mil US$,Data Scientist,123500.0,123500.0
+1341,san-francisco,Spire Health,Sobre 167 mil US$ -182 mil US$,Data Scientist,174500.0,174500.0
+1342,san-francisco,Annalect,Sobre 107 mil US$ -116 mil US$,Data Scientist,111500.0,111500.0
+1343,san-francisco,Oracle,Sobre 94 US$ -101 US$ por hora,Data Scientist - Proveedor de servicios por hora,97.5,167325
+1344,san-francisco,SunFunder,Sobre 107 mil US$ -116 mil US$,Data Scientist,111500.0,111500.0
+1345,san-francisco,Sparta Science,Sobre 130 mil US$ -142 mil US$,Data Scientist,136000.0,136000.0
+1346,san-francisco,"COWBELL CYBER, Inc.",Sobre 134 mil US$ -145 mil US$,Data Scientist,139500.0,139500.0
+1347,san-francisco,Insight Data Science,Sobre 104 mil US$ -113 mil US$,Data Scientist,108500.0,108500.0
+1348,san-francisco,McDonald's,Sobre 49 US$ -52 US$ por hora,Data Scientist - Becario por hora,50.5,86250
+1349,san-francisco,Prologis,Sobre 137 mil US$ -148 mil US$,Data Scientist,142500.0,142500.0
+1350,san-francisco,BetterCapital.us,Sobre 20 US$ -22 US$ por hora,Data Scientist - Por hora,21.0,36225
+1351,san-francisco,Trulia,Sobre 45 US$ -49 US$ por hora,Data Scientist - Becario por hora,47.0,81075
+1352,san-francisco,HiQ,Sobre 116 mil US$ -125 mil US$,Data Scientist,120500.0,120500.0
+1353,san-francisco,NA World Services,Sobre 133 mil US$ -144 mil US$,Data Scientist,138500.0,138500.0
+1354,san-francisco,Mathematica,Sobre 124 mil US$ -133 mil US$,Data Scientist,128500.0,128500.0
+1355,san-francisco,Fandom,Sobre 137 mil US$ -148 mil US$,Data Scientist,142500.0,142500.0
+1356,san-francisco,Livongo Health,Sobre 144 mil US$ -155 mil US$,Data Scientist,149500.0,149500.0
+1357,san-francisco,Gusto,Sobre 178 mil US$ -195 mil US$,Data Scientist,186500.0,186500.0
+1358,san-francisco,Twist Bioscience,Sobre 29 US$ -32 US$ por hora,Data Scientist - Becario por hora,30.5,51750
+1359,san-francisco,SPH Analytics,Sobre 128 mil US$ -138 mil US$,Data Scientist,133000.0,133000.0
+1360,san-francisco,Cox Automotive,Sobre 82 mil US$ -90 mil US$,Data Scientist,86000.0,86000.0
+1361,san-francisco,Franklin Templeton Investments,Sobre 135 mil US$ -147 mil US$,Data Scientist,141000.0,141000.0
+1362,san-francisco,Silicon Valley Bank,Sobre 131 mil US$ -142 mil US$,Data Scientist,136500.0,136500.0
+1363,san-francisco,Castlight,Sobre 140 mil US$ -150 mil US$,Data Scientist,145000.0,145000.0
+1364,san-francisco,Harvard University,Sobre 18 US$ -19 US$ por hora,Data Scientist - Por hora,18.5,31050
+1365,san-francisco,Swish Analytics,Sobre 114 mil US$ -124 mil US$,Data Scientist,119000.0,119000.0
+1366,san-francisco,FusionOps,Sobre 139 mil US$ -150 mil US$,Data Scientist,144500.0,144500.0
+1367,san-francisco,The Permanente Medical Group,Sobre 78 US$ -85 US$ por hora,Data Scientist - Proveedor de servicios por hora,81.5,139725
+1368,san-francisco,Santa Clara University,Sobre 86 mil US$ -94 mil US$,Data Scientist,90000.0,90000.0
+1369,san-francisco,Domino's,Sobre 192 mil US$ -208 mil US$,Data Scientist,200000.0,200000.0
+1370,san-francisco,Informatica,Sobre 105 mil US$ -113 mil US$,Data Scientist,109000.0,109000.0
+1371,san-francisco,GroundTruth,Sobre 126 mil US$ -136 mil US$,Data Scientist,131000.0,131000.0
+1372,san-francisco,IAC,Sobre 146 mil US$ -160 mil US$,Data Scientist,153000.0,153000.0
+1373,san-francisco,Johnson & Johnson,Sobre 215 mil US$ -233 mil US$,Data Scientist,224000.0,224000.0
+1374,san-francisco,ANCILE Solutions,Sobre 101 mil US$ -109 mil US$,Data Scientist,105000.0,105000.0
+1375,san-francisco,Morgan Stanley,Sobre 119 mil US$ -129 mil US$,Data Scientist,124000.0,124000.0
+1376,san-francisco,Circle K,Sobre 145 mil US$ -156 mil US$,Data Scientist,150500.0,150500.0
+1377,san-francisco,LendingClub,Sobre 137 mil US$ -146 mil US$,Data Scientist,141500.0,141500.0
+1378,san-francisco,ShopperTrak,Sobre 161 mil US$ -174 mil US$,Data Scientist,167500.0,167500.0
+1379,san-francisco,Even,Sobre 171 mil US$ -187 mil US$,Data Scientist,179000.0,179000.0
+1380,san-francisco,Intercontinental Exchange,Sobre 130 mil US$ -139 mil US$,Data Scientist,134500.0,134500.0
+1381,san-francisco,Planet,Sobre 133 mil US$ -141 mil US$,Data Scientist,137000.0,137000.0
+1382,san-francisco,Minerva School,Sobre 31 US$ -33 US$ por hora,Data Scientist - Por hora,32.0,55200
+1383,san-francisco,Lawrence Berkeley Lab,Sobre 77 mil US$ -83 mil US$,Data Scientist - Proveedor de servicios,80000.0,80000.0
+1384,san-francisco,Czoom Capital,Sobre 156 mil US$ -169 mil US$,Data Scientist,162500.0,162500.0
+1385,san-francisco,Netflix,Sobre 152 mil US$ -166 mil US$,Data Scientist - Proveedor de servicios,159000.0,159000.0
+1386,san-francisco,CallidusCloud,Sobre 91 mil US$ -97 mil US$,Data Scientist,94000.0,94000.0
+1387,san-francisco,no,Sobre 99 mil US$ -108 mil US$,Data Scientist,103500.0,103500.0
+1388,san-francisco,B Royal,Sobre 107 mil US$ -116 mil US$,Data Scientist,111500.0,111500.0
+1389,san-francisco,ngmoco,Sobre 104 mil US$ -112 mil US$,Data Scientist,108000.0,108000.0
+1390,san-francisco,Fyber,Sobre 275 mil US$ -294 mil US$,Data Scientist,284500.0,284500.0
+1391,san-francisco,SFL Scientific,Sobre 104 mil US$ -114 mil US$,Data Scientist - Proveedor de servicios,109000.0,109000.0
+1392,san-francisco,DET Norske Veritas,Sobre 158 mil US$ -169 mil US$,Data Scientist,163500.0,163500.0
+1393,san-francisco,Funding Circle,Sobre 116 mil US$ -125 mil US$,Data Scientist,120500.0,120500.0
+1394,san-francisco,Kohl's,Sobre 172 mil US$ -184 mil US$,Data Scientist,178000.0,178000.0
+1395,san-francisco,Apixio,Sobre 136 mil US$ -148 mil US$,Data Scientist,142000.0,142000.0
+1396,san-francisco,TubeMogul,Sobre 135 mil US$ -147 mil US$,Data Scientist,141000.0,141000.0
+1397,san-francisco,APN Software Services,Sobre 138 mil US$ -148 mil US$,Data Scientist,143000.0,143000.0
+1398,san-francisco,UC Berkeley CED,Sobre 116 mil US$ -124 mil US$,Data Scientist,120000.0,120000.0
+1399,san-francisco,AstraZeneca,Sobre 167 mil US$ -181 mil US$,Data Scientist,174000.0,174000.0
+1400,san-francisco,Power Factors,Sobre 84 mil US$ -90 mil US$,Data Scientist,87000.0,87000.0
+1401,san-francisco,Coalition (CA),Sobre 138 mil US$ -147 mil US$,Data Scientist,142500.0,142500.0
+1402,san-francisco,TIAA,Sobre 104 mil US$ -112 mil US$,Data Scientist,108000.0,108000.0
+1403,san-francisco,Beyond the Arc,Sobre 19 US$ -20 US$ por hora,Data Scientist - Becario por hora,19.5,32775
+1404,san-francisco,ClearVista Comm,Sobre 128 mil US$ -140 mil US$,Data Scientist,134000.0,134000.0
+1405,san-francisco,Mattermark,Sobre 137 mil US$ -151 mil US$,Data Scientist,144000.0,144000.0
+1406,san-francisco,Ford Credit,Sobre 85 mil US$ -92 mil US$,Data Scientist - Proveedor de servicios,88500.0,88500.0
+1407,san-francisco,i2c,Sobre 8 mil US$ -9 mil US$,Data Scientist - Por mes,8500.0,102000
+1408,san-francisco,JASK,Sobre 134 mil US$ -144 mil US$,Data Scientist,139000.0,139000.0
+1409,san-francisco,Blue Shield Of California,Sobre 94 mil US$ -102 mil US$,Data Scientist,98000.0,98000.0
+1410,san-francisco,SugarCRM,Sobre 5 mil US$ -5 mil US$,Data Scientist - Por mes,5000.0,60000
+1411,san-francisco,FOOBAR,Sobre 127 mil US$ -139 mil US$,Data Scientist,133000.0,133000.0
+1412,san-francisco,Omada Health,Sobre 126 mil US$ -136 mil US$,Data Scientist,131000.0,131000.0
+1413,san-francisco,DPR Construction,Sobre 152 mil US$ -165 mil US$,Data Scientist,158500.0,158500.0
+1414,san-francisco,EyeQue,Sobre 123 mil US$ -134 mil US$,Data Scientist,128500.0,128500.0
+1415,san-francisco,Cricket Health,Sobre 134 mil US$ -143 mil US$,Data Scientist,138500.0,138500.0
+1416,san-francisco,Volkswagen,Sobre 128 mil US$ -141 mil US$,Data Scientist,134500.0,134500.0
+1417,san-francisco,LexisNexis Legal & Professional,Sobre 20 US$ -21 US$ por hora,Data Scientist - Por hora,20.5,34500
+1418,san-francisco,eluv.io,Sobre 4 mil US$ -4 mil US$,Data Scientist - Becario por mes,4000.0,48000
+1419,san-francisco,AlixPartners,Sobre 153 mil US$ -165 mil US$,Data Scientist,159000.0,159000.0
+1420,san-francisco,Electronic Arts,Sobre 52 US$ -56 US$ por hora,Data Scientist - Becario por hora,54.0,93150
+1421,san-francisco,Shift,Sobre 134 mil US$ -147 mil US$,Data Scientist,140500.0,140500.0
+1422,san-francisco,Meltwater News US Support,Sobre 137 mil US$ -148 mil US$,Data Scientist,142500.0,142500.0
+1423,san-francisco,Liftoff (Redwood City),Sobre 264 mil US$ -285 mil US$,Data Scientist,274500.0,274500.0
+1424,san-francisco,FLURRY,Sobre 157 mil US$ -170 mil US$,Data Scientist,163500.0,163500.0
+1425,san-francisco,Highfive,Sobre 103 mil US$ -113 mil US$,Data Scientist,108000.0,108000.0
+1426,san-francisco,USRA,Sobre 5 mil US$ -6 mil US$,Data Scientist - Becario por mes,5500.0,66000
+1427,san-francisco,Hearsay Systems,Sobre 118 mil US$ -130 mil US$,Data Scientist,124000.0,124000.0
+1429,san-francisco,Academia.edu,Sobre 141 mil US$ -153 mil US$,Data Scientist,147000.0,147000.0
+1430,san-francisco,Smartly.io,Sobre 130 mil US$ -140 mil US$,Data Scientist,135000.0,135000.0
+1431,san-francisco,Teladoc Health,Sobre 139 mil US$ -151 mil US$,Data Scientist,145000.0,145000.0
+1432,san-francisco,Conversant,Sobre 158 mil US$ -171 mil US$,Data Scientist,164500.0,164500.0
+1433,san-francisco,MicroNet IT Solutions,Sobre 124 mil US$ -136 mil US$,Data Scientist,130000.0,130000.0
+1434,san-francisco,Pacific Gas and Electric,Sobre 44 US$ -48 US$ por hora,Data Scientist - Proveedor de servicios por hora,46.0,79350
+1435,san-francisco,MuleSoft,Sobre 63 US$ -67 US$ por hora,Data Scientist - Por hora,65.0,112125
+1436,san-francisco,Guidewire,Sobre 46 US$ -49 US$ por hora,Data Scientist - Becario por hora,47.5,81075
+1437,san-francisco,Realogy,Sobre 132 mil US$ -145 mil US$,Data Scientist,138500.0,138500.0
+1438,san-francisco,Castleton Commodities International,Sobre 104 US$ -114 US$ por hora,Data Scientist - Proveedor de servicios por hora,109.0,188025
+1439,san-francisco,Rainberry,Sobre 162 mil US$ -175 mil US$,Data Scientist,168500.0,168500.0
+1440,san-francisco,Lomotif,Sobre 4 mil US$ -4 mil US$,Data Scientist - Becario por mes,4000.0,48000
+1441,san-francisco,Danaher,Sobre 141 mil US$ -154 mil US$,Data Scientist,147500.0,147500.0
+1442,san-francisco,Scoop Technologies,Sobre 130 mil US$ -144 mil US$,Data Scientist,137000.0,137000.0
+1443,san-francisco,ClearMetal,Sobre 135 mil US$ -148 mil US$,Data Scientist,141500.0,141500.0
+1444,san-francisco,Triller,Sobre 126 mil US$ -135 mil US$,Data Scientist,130500.0,130500.0
+1445,san-francisco,Thinkful,Sobre 86 mil US$ -93 mil US$,Data Scientist,89500.0,89500.0
+1446,san-francisco,Elastic,Sobre 198 mil US$ -212 mil US$,Data Scientist,205000.0,205000.0
+1447,san-francisco,Kabam,Sobre 163 mil US$ -179 mil US$,Data Scientist,171000.0,171000.0
+1448,san-francisco,Amazon,Sobre 103 mil US$ -112 mil US$,Data Scientist,107500.0,107500.0
+1449,san-francisco,MyVest,Sobre 112 mil US$ -122 mil US$,Data Scientist,117000.0,117000.0
+1450,san-francisco,Orrick,Sobre 124 mil US$ -136 mil US$,Data Scientist,130000.0,130000.0
+1451,san-francisco,Trulia,Sobre 140 mil US$ -152 mil US$,Data Scientist,146000.0,146000.0
+1452,san-francisco,Hotwire,Sobre 140 mil US$ -153 mil US$,Data Scientist,146500.0,146500.0
+1453,san-francisco,Verdigris,Sobre 119 mil US$ -128 mil US$,Data Scientist,123500.0,123500.0
+1454,san-francisco,Verana Health,Sobre 146 mil US$ -158 mil US$,Data Scientist,152000.0,152000.0
+1455,san-francisco,Rocket Fuel,Sobre 165 mil US$ -180 mil US$,Data Scientist,172500.0,172500.0
+1456,san-francisco,Nones,Sobre 58 mil US$ -62 mil US$,Data Scientist,60000.0,60000.0
+1457,san-francisco,Skanksa,Sobre 96 mil US$ -104 mil US$,Data Scientist,100000.0,100000.0
+1458,san-francisco,Erom,Sobre 166 mil US$ -180 mil US$,Data Scientist,173000.0,173000.0
+1459,san-francisco,Spigit,Sobre 141 mil US$ -154 mil US$,Data Scientist,147500.0,147500.0
+1460,san-francisco,CDK Global,Sobre 28 US$ -31 US$ por hora,Data Scientist - Becario por hora,29.5,50025
+1461,san-francisco,WaterSmart Software,Sobre 138 mil US$ -148 mil US$,Data Scientist,143000.0,143000.0
+1462,san-francisco,PRA Group,Sobre 87 mil US$ -94 mil US$,Data Scientist - Becario,90500.0,90500.0
+1463,san-francisco,Center for Effective Philanthropy,Sobre 111 mil US$ -121 mil US$,Data Scientist,116000.0,116000.0
+1464,san-francisco,Bento,Sobre 3 mil US$ -4 mil US$,Data Scientist - Becario por mes,3500.0,42000
+1465,san-francisco,Oportun,Sobre 185 mil US$ -198 mil US$,Data Scientist,191500.0,191500.0
+1466,san-francisco,Exact Sciences,Sobre 142 mil US$ -156 mil US$,Data Scientist,149000.0,149000.0
+1467,san-francisco,Lyra Health,Sobre 127 mil US$ -137 mil US$,Data Scientist,132000.0,132000.0
+1468,san-francisco,Amitree,Sobre 140 mil US$ -151 mil US$,Data Scientist,145500.0,145500.0
+1469,san-francisco,Flywheel Software,Sobre 126 mil US$ -134 mil US$,Data Scientist,130000.0,130000.0
+1470,san-francisco,Alpha Financial Markets Consulting,Sobre 55 US$ -60 US$ por hora,Data Scientist - Por hora,57.5,98325
+1471,san-francisco,Bain & Company,Sobre 138 mil US$ -152 mil US$,Data Scientist,145000.0,145000.0
+1472,san-francisco,Sentry (CA),Sobre 195 mil US$ -208 mil US$,Data Scientist,201500.0,201500.0
+1473,san-francisco,ClassDojo,Sobre 174 mil US$ -187 mil US$,Data Scientist,180500.0,180500.0
+1474,san-francisco,Zipline,Sobre 115 mil US$ -126 mil US$,Data Scientist,120500.0,120500.0
+1475,san-francisco,BrightRoll,Sobre 85 mil US$ -94 mil US$,Data Scientist,89500.0,89500.0
+1476,san-francisco,AT&T,Sobre 134 mil US$ -143 mil US$,Data Scientist,138500.0,138500.0
+1477,san-francisco,Self Opportunity,Sobre 98 mil US$ -106 mil US$,Data Scientist,102000.0,102000.0
+1478,san-francisco,Cox Enterprises,Sobre 141 mil US$ -152 mil US$,Data Scientist,146500.0,146500.0
+1479,san-francisco,Tableau Software,Sobre 108 mil US$ -116 mil US$,Data Scientist,112000.0,112000.0
+1480,san-francisco,Curology,Sobre 82 mil US$ -89 mil US$,Data Scientist - Becario,85500.0,85500.0
+1481,san-francisco,Cognomotiv,Sobre 117 mil US$ -128 mil US$,Data Scientist,122500.0,122500.0
+1482,san-francisco,Uber,106.792 US$ /año,Data Analyst/Data Scientist,106792,106792
+1483,san-francisco,Uatc,106.792 US$ /año,Data Analyst/Data Scientist,106792,106792
+1484,san-francisco,Uber,183.653 US$ /año,Senior Data Scientist,183653,183653
+1485,san-francisco,Meta,213.398 US$ /año,Data Science Manager,213398,213398
+1486,san-francisco,Visa Inc.,175.068 US$ /año,Senior Data Scientist,175068,175068
+1487,san-francisco,Meta,7540 US$ /mes,Data Science - Becario por mes,7540,90480
+1488,san-francisco,LinkedIn,177.864 US$ /año,Senior Data Scientist,177864,177864
+1489,san-francisco,Box,101.293 US$ /año,Senior Data Science Analyst,101293,101293
+1490,san-francisco,SunPower,137.637 US$ /año,Worforce Data Scientist,137637,137637
+1491,san-francisco,Glassdoor,163.338 US$ /año,Senior Data Scientist,163338,163338
+1492,san-francisco,Twitter,196.564 US$ /año,Senior Data Scientist,196564,196564
+1493,san-francisco,Meta,179.975 US$ /año,Data Scientist - Analytics,179975,179975
+1494,san-francisco,C3 AI,171.784 US$ /año,Senior Data Scientist,171784,171784
+1495,san-francisco,McKinsey & Company,109.435 US$ /año,Senior Fellow Data Science,109435,109435
+1496,san-francisco,Meta,192.439 US$ /año,Senior Data Scientist,192439,192439
+1497,san-francisco,data.ai,152.706 US$ /año,Senior Data Scientist,152706,152706
+1498,san-francisco,Twitter,169.068 US$ /año,Data Scientist II,169068,169068
+1499,san-francisco,Instacart,190.284 US$ /año,Senior Data Scientist,190284,190284
+1500,san-francisco,Uber,148.544 US$ /año,Data Scientist II,148544,148544
+1501,san-francisco,Accenture,152.502 US$ /año,Data Science Consultant,152502,152502
+1502,san-francisco,GE Healthcare,147.151 US$ /año,Senior Data Scientist,147151,147151
+1503,san-francisco,Uber,207.774 US$ /año,Data Science Manager,207774,207774
+1504,san-francisco,Walmart,181.403 US$ /año,Staff Data Scientist,181403,181403
+1505,san-francisco,Meta,162.895 US$ /año,Research Data Scientist,162895,162895
+1506,san-francisco,GE,146.440 US$ /año,Senior Data Scientist,146440,146440
+1507,san-francisco,Included Health,208.519 US$ /año,Senior Data Scientist,208519,208519
+1508,san-francisco,Meta,128.327 US$ /año,"Data Scientist, Analytics",128327,128327
+1509,san-francisco,Autodesk,46 US$ /h,Data Science - Becario por hora,46,79350
+1510,san-francisco,Maple Bear Global Schools,203.039 US$ /año,Senior Data Scientist,203039,203039
+1511,san-francisco,Electronic Arts,192.439 US$ /año,Senior Data Scientist,192439,192439
+1512,san-francisco,Glassdoor,186.261 US$ /año,Lead Data Scientist,186261,186261
+1513,san-francisco,Meta,190.679 US$ /año,Data Scientist Manager,190679,190679
+1514,barcelona,Glovo,54.025 € /año,Data Scientist,54025,54025
+1515,barcelona,Accenture,38.913 € /año,Data Scientist,38913,38913
+1516,barcelona,eDreams ODIGEO,50.690 € /año,Data Scientist,50690,50690
+1517,barcelona,King,51.382 € /año,Data Scientist,51382,51382
+1518,barcelona,Eurecat,36.805 € /año,Data Scientist,36805,36805
+1519,barcelona,Aplicaciones en Informática Avanzada,38.758 € /año,Data Scientist,38758,38758
+1520,barcelona,Accenture,1343 € /mes,Data Scientist - Becario por mes,1343,16116
+1521,barcelona,everis,27.328 € /año,Data Scientist,27328,27328
+1522,barcelona,HP Inc.,35.047 € /año,Data Scientist,35047,35047
+1523,barcelona,CaixaBank,33.921 € /año,Data Scientist,33921,33921
+1524,barcelona,Mango,37.881 € /año,Data Scientist,37881,37881
+1525,barcelona,Vueling Airlines,50.057 € /año,Data Scientist,50057,50057
+1526,barcelona,Banco Sabadell,32.890 € /año,Data Scientist,32890,32890
+1527,barcelona,Socialpoint,44.458 € /año,Data Scientist,44458,44458
+1528,barcelona,Schibsted,50.812 € /año,Data Scientist,50812,50812
+1529,barcelona,Kernel Analytics,32.069 € /año,Data Scientist,32069,32069
+1530,barcelona,Amazon,37.843 € /año,Data Scientist,37843,37843
+1531,barcelona,Universitat Politecnica de Catalunya,30.728 € /año,Data Scientist,30728,30728
+1532,barcelona,Boston Consulting Group,51.750 € /año,Data Scientist,51750,51750
+1533,barcelona,Novartis,43.212 € /año,Data Scientist,43212,43212
+1534,barcelona,Typeform,53.078 € /año,Data Scientist,53078,53078
+1535,barcelona,Gameloft,37.598 € /año,Data Scientist,37598,37598
+1536,barcelona,BaseTIS,23.686 € /año,Data Scientist,23686,23686
+1537,barcelona,Activision Blizzard,43.381 € /año,Data Scientist,43381,43381
+1538,barcelona,Telefónica,Sobre 29 mil € -68 mil €,Data Scientist,48500.0,48500.0
+1539,barcelona,Minsait,Sobre 23 mil € -32 mil €,Data Scientist,27500.0,27500.0
+1540,barcelona,Nestlé,Sobre 49 mil € -57 mil €,Data Scientist,53000.0,53000.0
+1541,barcelona,Barcelona Supercomputing Center,Sobre 50 mil € -62 mil €,Data Scientist,56000.0,56000.0
+1542,barcelona,Criteo,Sobre 36 mil € -48 mil €,Data Scientist,42000.0,42000.0
+1543,barcelona,"SEAT, S.A.",Sobre 36 mil € -51 mil €,Data Scientist,43500.0,43500.0
+1544,barcelona,King,Sobre 34 mil € -44 mil €,Data Scientist - Proveedor de servicios,39000.0,39000.0
+1545,barcelona,Adevinta,Sobre 31 mil € -41 mil €,Data Scientist,36000.0,36000.0
+1546,barcelona,Vista,Sobre 51 mil € -56 mil €,Data Scientist,53500.0,53500.0
+1547,barcelona,Jobandtalent,Sobre 40 mil € -59 mil €,Data Scientist,49500.0,49500.0
+1548,barcelona,Havas Media,Sobre 8 € -9 € por hora,Data Scientist - Becario por hora,8.5,13800
+1549,barcelona,Stuart,Sobre 43 mil € -65 mil €,Data Scientist,54000.0,54000.0
+1550,barcelona,Badi,Sobre 43 mil € -48 mil €,Data Scientist,45500.0,45500.0
+1551,barcelona,Satellogic,Sobre 33 mil € -39 mil €,Data Scientist,36000.0,36000.0
+1552,barcelona,CYBERCLICK MARKETING,Sobre 31 mil € -37 mil €,Data Scientist,34000.0,34000.0
+1553,barcelona,NTENT,Sobre 51 mil € -61 mil €,Data Scientist,56000.0,56000.0
+1554,barcelona,Accenture,Sobre 824 € -899 €,Data Scientist - Por mes,861.5,10332
+1555,barcelona,Indra,Sobre 35 mil € -38 mil €,Data Scientist,36500.0,36500.0
+1556,barcelona,PwC,Sobre 45 mil € -49 mil €,Data Scientist,47000.0,47000.0
+1557,barcelona,Telefónica,Sobre 783 € -842 €,Data Scientist - Becario por mes,812.5,9744
+1558,barcelona,Capgemini,Sobre 49 mil € -53 mil €,Data Scientist,51000.0,51000.0
+1559,barcelona,Glovo,Sobre 830 € -892 €,Data Scientist - Becario por mes,861.0,10332
+1560,barcelona,Management Solutions,Sobre 26 mil € -28 mil €,Data Scientist,27000.0,27000.0
+1561,barcelona,IBM,Sobre 51 mil € -55 mil €,Data Scientist,53000.0,53000.0
+1562,barcelona,Freelancer,Sobre 1 mil € -2 mil €,Data Scientist - Por mes,1500.0,18000
+1563,barcelona,NTT DATA,Sobre 28 mil € -30 mil €,Data Scientist,29000.0,29000.0
+1564,barcelona,NTT DATA,Sobre 5 € -5 € por hora,Data Scientist - Becario por hora,5.0,8625
+1565,barcelona,Hays,Sobre 41 mil € -45 mil €,Data Scientist,43000.0,43000.0
+1566,barcelona,ALTEN,Sobre 40 mil € -44 mil €,Data Scientist,42000.0,42000.0
+1567,barcelona,Nestlé,Sobre 941 € -1 mil €,Data Scientist - Becario por mes,970.5,11640
+1568,barcelona,Roche,Sobre 57 mil € -62 mil €,Data Scientist,59500.0,59500.0
+1569,barcelona,DXC Technology,Sobre 50 mil € -53 mil €,Data Scientist,51500.0,51500.0
+1570,barcelona,CSIC,Sobre 1 mil € -1 mil €,Data Scientist - Por mes,1000.0,12000
+1571,barcelona,Barcelona Supercomputing Center,Sobre 40 mil € -43 mil €,Data Scientist - Proveedor de servicios,41500.0,41500.0
+1572,barcelona,Criteo,Sobre 1 mil € -1 mil €,Data Scientist - Becario por mes,1000.0,12000
+1573,barcelona,SDG Group,Sobre 33 mil € -36 mil €,Data Scientist,34500.0,34500.0
+1574,barcelona,Lidl,Sobre 47 mil € -50 mil €,Data Scientist,48500.0,48500.0
+1575,barcelona,Google,Sobre 37 mil € -39 mil €,Data Scientist,38000.0,38000.0
+1576,barcelona,atSistemas,Sobre 41 mil € -44 mil €,Data Scientist,42500.0,42500.0
+1577,barcelona,Between,Sobre 37 mil € -40 mil €,Data Scientist,38500.0,38500.0
+1578,barcelona,Tech Data,Sobre 21 mil € -22 mil €,Data Scientist,21500.0,21500.0
+1579,barcelona,Page Personnel,Sobre 30 mil € -33 mil €,Data Scientist,31500.0,31500.0
+1580,barcelona,Eurofirms,Sobre 26 mil € -28 mil €,Data Scientist,27000.0,27000.0
+1581,barcelona,Ninguno,Sobre 2 mil € -3 mil €,Data Scientist - Becario por mes,2500.0,30000
+1582,barcelona,Zurich Insurance,Sobre 35 mil € -38 mil €,Data Scientist,36500.0,36500.0
+1583,barcelona,Banco Sabadell,Sobre 51 mil € -55 mil €,Data Scientist,53000.0,53000.0
+1584,barcelona,Typeform,Sobre 1 mil € -1 mil €,Data Scientist - Becario por mes,1000.0,12000
+1585,barcelona,Norwegian Air Shuttle,Sobre 47 mil € -51 mil €,Data Scientist,49000.0,49000.0
+1586,barcelona,Allianz,Sobre 47 mil € -51 mil €,Data Scientist,49000.0,49000.0
+1587,barcelona,PepsiCo,Sobre 23 mil € -25 mil €,Data Scientist - Becario,24000.0,24000.0
+1588,barcelona,PepsiCo,Sobre 44 mil € -48 mil €,Data Scientist,46000.0,46000.0
+1589,barcelona,ABB,Sobre 40 mil € -43 mil €,Data Scientist,41500.0,41500.0
+1590,barcelona,ESADE,Sobre 24 mil € -26 mil €,Data Scientist,25000.0,25000.0
+1591,barcelona,Softonic,Sobre 65 mil € -69 mil €,Data Scientist,67000.0,67000.0
+1592,barcelona,Adevinta Spain,Sobre 57 mil € -61 mil €,Data Scientist,59000.0,59000.0
+1593,barcelona,Sanofi,Sobre 61 mil € -66 mil €,Data Scientist,63500.0,63500.0
+1594,barcelona,Ocado Technology,Sobre 37 mil € -41 mil €,Data Scientist,39000.0,39000.0
+1595,barcelona,Generali,Sobre 1 mil € -1 mil €,Data Scientist - Becario por mes,1000.0,12000
+1596,barcelona,Banco de Sabadell,Sobre 36 mil € -39 mil €,Data Scientist,37500.0,37500.0
+1597,barcelona,Privalia,Sobre 29 mil € -31 mil €,Data Scientist,30000.0,30000.0
+1598,barcelona,Kantox,Sobre 851 € -921 €,Data Scientist - Becario por mes,886.0,10632
+1599,barcelona,Altran Technologies,Sobre 34 mil € -37 mil €,Data Scientist,35500.0,35500.0
+1600,barcelona,Wallapop,Sobre 41 mil € -45 mil €,Data Scientist,43000.0,43000.0
+1601,barcelona,SCRM,Sobre 32 mil € -35 mil €,Data Scientist,33500.0,33500.0
+1602,barcelona,Netquest (Spain),Sobre 19 mil € -20 mil €,Data Scientist,19500.0,19500.0
+1603,barcelona,Kantar,Sobre 30 mil € -32 mil €,Data Scientist,31000.0,31000.0
+1604,barcelona,Catalana Occidente,Sobre 9 € -10 € por hora,Data Scientist - Por hora,9.5,15525
+1605,barcelona,Ecolab,Sobre 29 mil € -32 mil €,Data Scientist,30500.0,30500.0
+1606,barcelona,Schibsted,Sobre 1 mil € -1 mil €,Data Scientist - Becario por mes,1000.0,12000
+1607,barcelona,"Fundación ""la Caixa""",Sobre 45 mil € -49 mil €,Data Scientist,47000.0,47000.0
+1608,barcelona,Servihabitat Servicios Inmobiliarios,Sobre 36 mil € -39 mil €,Data Scientist,37500.0,37500.0
+1609,barcelona,Verychic,Sobre 777 € -834 €,Data Scientist - Becario por mes,805.5,9660
+1610,barcelona,NexTReT,Sobre 49 mil € -53 mil €,Data Scientist,51000.0,51000.0
+1611,barcelona,Vall d'Hebron Institut de Recerca,Sobre 30 mil € -32 mil €,Data Scientist,31000.0,31000.0
+1612,barcelona,F.C. Barcelona,Sobre 22 € -24 € por hora,Data Scientist - Por hora,23.0,39675
+1613,barcelona,GFT,Sobre 33 mil € -36 mil €,Data Scientist,34500.0,34500.0
+1614,barcelona,Nortempo,Sobre 31 mil € -33 mil €,Data Scientist,32000.0,32000.0
+1615,barcelona,CIRSA,Sobre 29 mil € -32 mil €,Data Scientist,30500.0,30500.0
+1616,barcelona,KingEclient,Sobre 38 mil € -42 mil €,Data Scientist,40000.0,40000.0
+1617,barcelona,Universidad de Vigo,Sobre 30 mil € -33 mil €,Data Scientist,31500.0,31500.0
+1618,barcelona,TTTech Auto Iberia,Sobre 32 mil € -34 mil €,Data Scientist,33000.0,33000.0
+1619,barcelona,TeamCMP,Sobre 57 mil € -62 mil €,Data Scientist,59500.0,59500.0
+1620,barcelona,Celsa Group,Sobre 23 mil € -25 mil €,Data Scientist,24000.0,24000.0
+1621,barcelona,Weekendesk,Sobre 29 mil € -31 mil €,Data Scientist,30000.0,30000.0
+1622,barcelona,Grupo CMC,Sobre 30 mil € -33 mil €,Data Scientist,31500.0,31500.0
+1623,barcelona,NPAW,Sobre 23 mil € -25 mil €,Data Scientist,24000.0,24000.0
+1624,barcelona,BaseTIS,Sobre 9 € -10 € por hora,Data Scientist - Becario por hora,9.5,15525
+1625,barcelona,Colvin,Sobre 37 mil € -40 mil €,Data Scientist,38500.0,38500.0
+1626,barcelona,Meta,Sobre 38 mil € -42 mil €,Data Scientist,40000.0,40000.0
+1627,barcelona,Cofidis,Sobre 31 mil € -34 mil €,Data Scientist,32500.0,32500.0
+1628,barcelona,ClearPeaks ,Sobre 28 mil € -30 mil €,Data Scientist,29000.0,29000.0
+1629,barcelona,Revolut,Sobre 3 mil € -3 mil €,Data Scientist - Por mes,3000.0,36000
+1630,barcelona,Limitless Games,Sobre 54 mil € -58 mil €,Data Scientist,56000.0,56000.0
+1631,barcelona,Beabloo,Sobre 25 mil € -27 mil €,Data Scientist,26000.0,26000.0
+1632,barcelona,Emailing Network,Sobre 50 mil € -55 mil €,Data Scientist,52500.0,52500.0
+1633,barcelona,Cinesa,Sobre 43 mil € -45 mil €,Data Scientist,44000.0,44000.0
+1634,barcelona,Accentue,Sobre 42 mil € -45 mil €,Data Scientist,43500.0,43500.0
+1635,barcelona,QIAGEN,Sobre 8 € -9 € por hora,Data Scientist - Por hora,8.5,13800
+1636,barcelona,CornerJob,Sobre 29 mil € -31 mil €,Data Scientist,30000.0,30000.0
+1637,barcelona,Kantar (Worldpanel Division),Sobre 513 € -558 €,Data Scientist - Becario por mes,535.5,6420
+1638,barcelona,VidaCaixa,Sobre 31 mil € -33 mil €,Data Scientist,32000.0,32000.0
+1639,barcelona,Page Group (London),Sobre 30 mil € -32 mil €,Data Scientist,31000.0,31000.0
+1640,barcelona,Ubiqum Code Academy,Sobre 49 mil € -53 mil €,Data Scientist,51000.0,51000.0
+1641,barcelona,Cdmon,Sobre 39 mil € -42 mil €,Data Scientist,40500.0,40500.0
+1642,barcelona,Zeptolab,Sobre 49 mil € -53 mil €,Data Scientist,51000.0,51000.0
+1643,barcelona,Centre for Research in Agricultural Genomics - CRAG,Sobre 63 mil € -67 mil €,Data Scientist,65000.0,65000.0
+1644,barcelona,Unnax,Sobre 9 € -10 € por hora,Data Scientist - Becario por hora,9.5,15525
+1645,barcelona,"Banc Sabadell, Sant Cugat del Vallès",Sobre 30 mil € -32 mil €,Data Scientist,31000.0,31000.0
+1646,barcelona,Festo,Sobre 48 mil € -52 mil €,Data Scientist,50000.0,50000.0
+1647,barcelona,Enzyme Advising Group,Sobre 31 mil € -34 mil €,Data Scientist,32500.0,32500.0
+1648,barcelona,Ofertia,Sobre 37 mil € -41 mil €,Data Scientist,39000.0,39000.0
+1649,barcelona,Multiplica,Sobre 33 mil € -35 mil €,Data Scientist,34000.0,34000.0
+1650,barcelona,Billy,Sobre 50 mil € -54 mil €,Data Scientist,52000.0,52000.0
+1651,barcelona,Landbot,Sobre 49 mil € -53 mil €,Data Scientist,51000.0,51000.0
+1652,barcelona,OpenText,Sobre 44 mil € -48 mil €,Data Scientist,46000.0,46000.0
+1653,barcelona,CRG,Sobre 30 mil € -33 mil €,Data Scientist,31500.0,31500.0
+1654,barcelona,Metyis,Sobre 27 mil € -30 mil €,Data Scientist,28500.0,28500.0
+1655,barcelona,DEXMA,Sobre 49 mil € -53 mil €,Data Scientist,51000.0,51000.0
+1656,barcelona,Urgo Medical,Sobre 10 € -11 € por hora,Data Scientist - Por hora,10.5,17250
+1657,barcelona,Hemav,Sobre 36 mil € -40 mil €,Data Scientist,38000.0,38000.0
+1658,barcelona,Siemens Energy,Sobre 33 mil € -36 mil €,Data Scientist,34500.0,34500.0
+1659,barcelona,Zyte,Sobre 33 mil € -36 mil €,Data Scientist,34500.0,34500.0
+1660,barcelona,The Keenfolks,Sobre 26 mil € -28 mil €,Data Scientist,27000.0,27000.0
+1661,barcelona,Siemens Energy,Sobre 51 mil € -55 mil €,Data Scientist,53000.0,53000.0
+1662,barcelona,Momentum Worldwide,Sobre 39 mil € -43 mil €,Data Scientist,41000.0,41000.0
+1663,barcelona,Institut de Recerca en Energia,Sobre 613 € -661 €,Data Scientist - Becario por mes,637.0,7644
+1664,barcelona,Tesis,Sobre 31 mil € -34 mil €,Data Scientist,32500.0,32500.0
+1665,barcelona,inAtlas,Sobre 34 mil € -38 mil €,Data Scientist,36000.0,36000.0
+1666,barcelona,UVE,Sobre 7 € -7 € por hora,Data Scientist - Becario por hora,7.0,12075
+1667,barcelona,Ogilvy,Sobre 20 mil € -21 mil €,Data Scientist - Becario,20500.0,20500.0
+1668,barcelona,Unknown Planner,Sobre 24 mil € -26 mil €,Data Scientist,25000.0,25000.0
+1669,barcelona,Institut d'Estudis Espacials de Catalunya,Sobre 31 mil € -34 mil €,Data Scientist,32500.0,32500.0
+1670,barcelona,Entravision,Sobre 36 mil € -39 mil €,Data Scientist,37500.0,37500.0
+1671,barcelona,GINDUMAC,Sobre 842 € -916 €,Data Scientist - Becario por mes,879.0,10548
+1672,barcelona,Magnus Commodities,Sobre 32 mil € -35 mil €,Data Scientist,33500.0,33500.0
+1673,barcelona,Ledmotive,Sobre 35 mil € -38 mil €,Data Scientist,36500.0,36500.0
+1674,barcelona,Chemotargets,Sobre 26 mil € -28 mil €,Data Scientist,27000.0,27000.0
+1675,barcelona,Cien,Sobre 25 mil € -27 mil €,Data Scientist,26000.0,26000.0
+1676,barcelona,INSIKT Intelligence,Sobre 49 mil € -53 mil €,Data Scientist,51000.0,51000.0
+1677,barcelona,BanSabadell Vida,Sobre 33 mil € -36 mil €,Data Scientist,34500.0,34500.0
+1678,barcelona,AleaSoft Energy Forecasting,Sobre 32 mil € -35 mil €,Data Scientist,33500.0,33500.0
+1679,barcelona,Universal Robots,Sobre 954 € -1 mil €,Data Scientist - Becario por mes,977.0,11724
+1680,barcelona,Qumram,Sobre 49 mil € -53 mil €,Data Scientist,51000.0,51000.0
+1681,barcelona,Knowledge Discovery & Predictions,Sobre 38 mil € -41 mil €,Data Scientist,39500.0,39500.0
+1682,barcelona,ProcessTalks,Sobre 11 € -12 € por hora,Data Scientist - Por hora,11.5,18975
+1683,barcelona,Nature’s Logic,Sobre 25 mil € -27 mil €,Data Scientist,26000.0,26000.0
+1684,barcelona,AIA Group,Sobre 39 mil € -43 mil €,Data Scientist,41000.0,41000.0
+1685,barcelona,Lead Ratings,Sobre 46 mil € -50 mil €,Data Scientist,48000.0,48000.0
+1686,barcelona,Socralex Espagne,Sobre 49 mil € -53 mil €,Data Scientist,51000.0,51000.0
+1687,barcelona,BenevolentAI,Sobre 53 mil € -57 mil €,Data Scientist,55000.0,55000.0
+1688,barcelona,IDT,Sobre 37 mil € -39 mil €,Data Scientist,38000.0,38000.0
+1689,barcelona,Trebol Energía,Sobre 29 mil € -31 mil €,Data Scientist,30000.0,30000.0
+1690,barcelona,Justinmind,Sobre 29 mil € -31 mil €,Data Scientist,30000.0,30000.0
+1691,barcelona,New Scientist,Sobre 29 mil € -31 mil €,Data Scientist,30000.0,30000.0
+1692,barcelona,Mitiga Solutions,Sobre 34 mil € -37 mil €,Data Scientist,35500.0,35500.0
+1693,barcelona,Ailytic,Sobre 48 mil € -52 mil €,Data Scientist,50000.0,50000.0
+1694,barcelona,Entefy,Sobre 75 mil € -82 mil €,Data Scientist - Proveedor de servicios,78500.0,78500.0
+1695,barcelona,Hypefactors,Sobre 4 mil € -4 mil €,Data Scientist - Por mes,4000.0,48000
+1696,barcelona,Gafas,Sobre 41 mil € -44 mil €,Data Scientist,42500.0,42500.0
+1697,barcelona,Wind River,Sobre 60 mil € -65 mil €,Data Scientist,62500.0,62500.0
+1698,barcelona,Sportmas,Sobre 50 mil € -53 mil €,Data Scientist,51500.0,51500.0
+1699,barcelona,Mc&Cheese,Sobre 24 mil € -26 mil €,Data Scientist,25000.0,25000.0
+1700,barcelona,Accenture,34.454 € /año,Data Science Analyst,34454,34454
+1701,barcelona,Typeform,72.000 € /año,Senior Data Scientist,72000,72000
+1702,barcelona,Vista,59.597 € /año,Senior Data Scientist,59597,59597
+1703,barcelona,King,35.982 € /año,Junior Data Scientist,35982,35982
+1704,barcelona,Socialpoint,43.464 € /año,Game Data Scientist,43464,43464
+1705,barcelona,Accenture,54.395 € /año,Senior Data Scientist,54395,54395
+1706,barcelona,Glovo,63.197 € /año,Senior Data Scientist,63197,63197
+1707,barcelona,eDreams ODIGEO,54.480 € /año,Senior Data Scientist,54480,54480
+1708,barcelona,CaixaBank,38.704 € /año,Senior Data Scientist,38704,38704
+1709,barcelona,King,54.062 € /año,Senior Data Scientist,54062,54062
+1710,barcelona,Skyscanner,76.802 € /año,Senior Data Scientist,76802,76802
+1711,barcelona,Accenture,Sobre 9 € -10 € por hora,Data Science - Becario por hora,9.5,15525
+1712,barcelona,Glovo,Sobre 802 € -876 €,Data Science - Becario por mes,839.0,10068
+1713,barcelona,BaseTIS,Sobre 9 € -10 € por hora,Data Science - Becario por hora,9.5,15525
+1714,barcelona,Boston Consulting Group,Sobre 83 mil € -93 mil €,Senior Data Scientist,88000.0,88000.0
+1715,barcelona,Novartis,Sobre 49 mil € -56 mil €,Senior Data Scientist,52500.0,52500.0
+1716,barcelona,NTENT,Sobre 63 mil € -73 mil €,Senior Data Scientist,68000.0,68000.0
+1717,barcelona,Glovo,Sobre 27 mil € -49 mil €,Junior Data Scientist,38000.0,38000.0
+1718,barcelona,Accenture,Sobre 39 mil € -43 mil €,Data Science,41000.0,41000.0
+1719,barcelona,everis,Sobre 6 € -7 € por hora,Data Science - Becario por hora,6.5,10350
+1720,barcelona,Capgemini,Sobre 10 € -11 € por hora,Data Science - Becario por hora,10.5,17250
+1721,barcelona,Capgemini,Sobre 29 mil € -32 mil €,Data Science,30500.0,30500.0
+1722,barcelona,HP Inc.,Sobre 8 € -8 € por hora,Data Science - Becario por hora,8.0,13800
+1723,barcelona,IQVIA,Sobre 1 mil € -1 mil €,Data Science - Becario por mes,1000.0,12000
+1724,barcelona,Hospital de la Santa Creu i Sant Pau,Sobre 27 mil € -30 mil €,Data Science - Becario,28500.0,28500.0
+1725,barcelona,The Hotels Network,Sobre 41 mil € -45 mil €,Data Science,43000.0,43000.0
+1726,barcelona,Zeptolab,Sobre 1 mil € -1 mil €,Data Science - Becario por mes,1000.0,12000
+1727,barcelona,Yum! Brands,Sobre 10 € -11 € por hora,Data Science - Becario por hora,10.5,17250
+1728,barcelona,inAtlas,Sobre 35 mil € -38 mil €,Data Science,36500.0,36500.0
+1729,barcelona,JaJaJa,Sobre 51 mil € -56 mil €,Data Science,53500.0,53500.0
+1730,barcelona,Red Rooster,Sobre 2 mil € -2 mil €,Data Science - Por mes,2000.0,24000
+1731,barcelona,Cover-Tek,Sobre 23 mil € -25 mil €,Data Science,24000.0,24000.0
+1732,barcelona,Uptake,Sobre 42 mil € -45 mil €,Data Science,43500.0,43500.0
+1733,barcelona,CRG,Sobre 49 mil € -53 mil €,Científico De Datos,51000.0,51000.0
+1734,barcelona,Unitronics,Sobre 43 mil € -47 mil €,Científico De Datos,45000.0,45000.0
+1735,barcelona,everis,Sobre 51 mil € -55 mil €,Senior Data Scientist,53000.0,53000.0
+1736,barcelona,Amadeus,Sobre 50 mil € -54 mil €,Senior Data Scientist,52000.0,52000.0
+1737,barcelona,GFT Technologies,Sobre 42 mil € -45 mil €,Senior Data Scientist,43500.0,43500.0
+1738,barcelona,Barcelona Supercomputing Center,Sobre 63 mil € -69 mil €,Senior Data Scientist,66000.0,66000.0
+1739,barcelona,Criteo,Sobre 47 mil € -50 mil €,Senior Data Scientist,48500.0,48500.0
+1740,barcelona,Microsoft,Sobre 73 mil € -79 mil €,Senior Data Scientist,76000.0,76000.0
+1741,barcelona,Zurich Insurance,Sobre 44 mil € -49 mil €,Senior Data Scientist,46500.0,46500.0
+1742,barcelona,Banco Sabadell,Sobre 57 mil € -62 mil €,Senior Data Scientist,59500.0,59500.0
+1743,barcelona,Sanofi,Sobre 71 mil € -76 mil €,Senior Data Scientist,73500.0,73500.0
+1744,barcelona,Ocado Technology,Sobre 58 mil € -63 mil €,Senior Data Scientist,60500.0,60500.0
+1745,barcelona,Stuart,Sobre 53 mil € -57 mil €,Senior Data Scientist,55000.0,55000.0
+1746,barcelona,SegurCaixa Adeslas,Sobre 39 mil € -41 mil €,Senior Data Scientist,40000.0,40000.0
+1747,barcelona,Exoticca,Sobre 62 mil € -67 mil €,Senior Data Scientist,64500.0,64500.0
+1748,barcelona,Raona,Sobre 42 mil € -45 mil €,Senior Data Scientist,43500.0,43500.0
+1749,barcelona,Activision Blizzard,Sobre 50 mil € -55 mil €,Senior Data Scientist,52500.0,52500.0
+1750,barcelona,Cofidis,Sobre 45 mil € -48 mil €,Senior Data Scientist,46500.0,46500.0
+1751,barcelona,Innovamat Education,Sobre 34 mil € -36 mil €,Senior Data Scientist,35000.0,35000.0
+1752,barcelona,Hospital Sant Joan de Déu,Sobre 32 mil € -35 mil €,Senior Data Scientist,33500.0,33500.0
+1753,barcelona,Kernel Analytics,Sobre 47 mil € -51 mil €,Senior Data Scientist,49000.0,49000.0
+1754,barcelona,Satellogic,Sobre 61 mil € -65 mil €,Senior Data Scientist,63000.0,63000.0
+1755,barcelona,WIND Mobility,Sobre 64 mil € -68 mil €,Senior Data Scientist,66000.0,66000.0
+1756,barcelona,Undisclosed,Sobre 36 mil € -39 mil €,Senior Data Scientist,37500.0,37500.0
+1757,barcelona,Nnergix,Sobre 49 mil € -53 mil €,Senior Data Scientist,51000.0,51000.0
+1758,barcelona,Hybrid Theory,Sobre 54 mil € -58 mil €,Senior Data Scientist,56000.0,56000.0
+1759,barcelona,Feedzai,Sobre 49 mil € -53 mil €,Senior Data Scientist,51000.0,51000.0
+1760,barcelona,Pandora,Sobre 85 mil € -92 mil €,Senior Data Scientist,88500.0,88500.0
+1761,barcelona,BigBlue Analytics,Sobre 49 mil € -53 mil €,Senior Data Scientist,51000.0,51000.0
+1762,barcelona,AIMS,Sobre 58 mil € -63 mil €,Senior Data Scientist,60500.0,60500.0
+1763,barcelona,Telefónica,Sobre 32 mil € -35 mil €,Junior Data Scientist,33500.0,33500.0
+1764,barcelona,"SEAT, S.A.",Sobre 27 mil € -29 mil €,Junior Data Scientist,28000.0,28000.0
+1765,barcelona,T-Systems,Sobre 29 mil € -32 mil €,Junior Data Scientist,30500.0,30500.0
+1766,barcelona,Sogeti,Sobre 22 mil € -24 mil €,Junior Data Scientist,23000.0,23000.0
+1767,barcelona,Eurecat,Sobre 20 mil € -22 mil €,Junior Data Scientist,21000.0,21000.0
+1768,barcelona,HolaLuz,Sobre 22 mil € -24 mil €,Junior Data Scientist,23000.0,23000.0
+1769,barcelona,Innova-Tsn,Sobre 27 mil € -29 mil €,Junior Data Scientist,28000.0,28000.0
+1770,barcelona,Prueba,Sobre 30 mil € -33 mil €,Junior Data Scientist,31500.0,31500.0
+1771,barcelona,Stayforlong,Sobre 13 mil € -14 mil €,Junior Data Scientist,13500.0,13500.0
+1772,barcelona,DMD,Sobre 43 mil € -46 mil €,Junior Data Scientist,44500.0,44500.0
+1773,barcelona,Siemens Energy,Sobre 31 mil € -33 mil €,Junior Data Scientist,32000.0,32000.0
+1774,barcelona,D-Link,Sobre 29 mil € -31 mil €,Junior Data Scientist,30000.0,30000.0
+1775,barcelona,San Juan USD - Sacramento County,Sobre 21 mil € -22 mil €,Junior Data Scientist,21500.0,21500.0
+1776,barcelona,Knowledge Discovery & Predictions,Sobre 37 mil € -40 mil €,Junior Data Scientist,38500.0,38500.0
+1777,barcelona,Softvic,Sobre 23 mil € -26 mil €,Junior Data Scientist,24500.0,24500.0
+1778,barcelona,PwC,Sobre 27 mil € -29 mil €,Data Analyst/Data Scientist,28000.0,28000.0
+1779,barcelona,Colt Technology Services,Sobre 43 mil € -46 mil €,Data Analyst/Data Scientist,44500.0,44500.0
+1780,barcelona,Merkle,Sobre 36 mil € -39 mil €,Data Analyst/Data Scientist,37500.0,37500.0
+1781,barcelona,Veepee,Sobre 34 mil € -36 mil €,Data Analyst/Data Scientist,35000.0,35000.0
+1782,barcelona,Kantar,Sobre 28 mil € -31 mil €,Data Analyst/Data Scientist,29500.0,29500.0
+1783,barcelona,Glovo,Sobre 69 mil € -75 mil €,Lead Data Scientist,72000.0,72000.0
+1784,barcelona,Mango,Sobre 50 mil € -54 mil €,Lead Data Scientist,52000.0,52000.0
+1785,barcelona,Boston Consulting Group,Sobre 110 mil € -120 mil €,Lead Data Scientist,115000.0,115000.0
+1786,barcelona,Banco Sabadell,Sobre 56 mil € -60 mil €,Lead Data Scientist,58000.0,58000.0
+1787,barcelona,Socialpoint,Sobre 73 mil € -78 mil €,Lead Data Scientist,75500.0,75500.0
+1788,barcelona,Sanofi,Sobre 75 mil € -82 mil €,Lead Data Scientist,78500.0,78500.0
+1789,barcelona,Lucta,Sobre 62 mil € -66 mil €,Lead Data Scientist,64000.0,64000.0
+1790,barcelona,Nemuru,Sobre 43 mil € -47 mil €,Lead Data Scientist,45000.0,45000.0
+1791,barcelona,Braingaze,Sobre 29 mil € -32 mil €,Lead Data Scientist,30500.0,30500.0
+1792,barcelona,CICLICA,Sobre 49 mil € -53 mil €,Data Science Intern,51000.0,51000.0
+1793,barcelona,Launchmetrics,Sobre 830 € -893 €,Data Scientist Intern - Por mes,861.5,10332
+1794,barcelona,realXdata,Sobre 1 mil € -1 mil €,Data Scientist Intern - Por mes,1000.0,12000
+1795,barcelona,CWT,Sobre 7 mil € -8 mil €,Principal Data Scientist,7500.0,7500.0
+1796,barcelona,Accenture,Sobre 58 mil € -62 mil €,Data Science Manager,60000.0,60000.0
+1797,barcelona,PepsiCo,Sobre 62 mil € -68 mil €,Data Science Manager,65000.0,65000.0
+1798,barcelona,Criteo,Sobre 1 mil € -1 mil €,Data Science Analyst - Becario por mes,1000.0,12000
+1799,barcelona,Draper Triangle,Sobre 43 mil € -47 mil €,Data Science Analyst,45000.0,45000.0
+1800,barcelona,Nemuru,Sobre 47 mil € -51 mil €,Sr Data Scientist,49000.0,49000.0
+1801,barcelona,Accenture,Sobre 43 mil € -46 mil €,Data Science Consultant,44500.0,44500.0
+1802,barcelona,Accenture,Sobre 1 mil € -1 mil €,Intern data scientist - Por mes,1000.0,12000
+1803,barcelona,Accenture,Sobre 1 mil € -1 mil €,Intern data scientist - Por mes,1000.0,12000
+1804,barcelona,Accenture,Sobre 53 mil € -58 mil €,Consultant Data Scientist,55500.0,55500.0
+1805,barcelona,Boston Consulting Group,Sobre 53 mil € -58 mil €,Consultant Data Scientist,55500.0,55500.0
+1806,barcelona,Novartis,Sobre 45 mil € -48 mil €,Sr. Data Scientist,46500.0,46500.0
+1807,barcelona,2510 Bedford Street Associates,Sobre 31 mil € -34 mil €,Jr. Data Scientist,32500.0,32500.0
+1808,barcelona,TheTopLineLab,Sobre 47 mil € -50 mil €,Data Scientist Consultant,48500.0,48500.0
+1809,barcelona,Citibeats,Sobre 52 mil € -56 mil €,Head of Data Science,54000.0,54000.0
+1810,barcelona,Barcelona Supercomputing Center,Sobre 49 mil € -53 mil €,Research Data Scientist,51000.0,51000.0
+1811,barcelona,Universitat de Barcelona,Sobre 30 mil € -33 mil €,Research Data Scientist,31500.0,31500.0
+1812,barcelona,Universidade de Barcelona,Sobre 49 mil € -53 mil €,Research Data Scientist,51000.0,51000.0
+1813,barcelona,EY,Sobre 85 mil € -91 mil €,Sr Manager Data Science,88000.0,88000.0
+1814,barcelona,Badi,Sobre 57 mil € -62 mil €,Product Data Scientist,59500.0,59500.0
+1815,barcelona,Socialpoint,Sobre 43 mil € -47 mil €,Marketing Data Scientist,45000.0,45000.0
+1816,barcelona,Gameloft,Sobre 49 mil € -53 mil €,Machine Learning Engineer/Data Scientist,51000.0,51000.0
+1817,barcelona,King,Sobre 36 mil € -39 mil €,Jr Data Scientist,37500.0,37500.0
+1818,barcelona,Cien,Sobre 10 € -10 € por hora,Internship data Science - Por hora,10.0,17250
+1819,barcelona,Lipotec,Sobre 31 mil € -33 mil €,Data Scientist Specialist,32000.0,32000.0
+1820,barcelona,Leitat - Technological Center,Sobre 50 mil € -54 mil €,Data Science Research,52000.0,52000.0
+1821,barcelona,IESE Business School,Sobre 49 mil € -53 mil €,Data Science Research Assistant,51000.0,51000.0
+1822,barcelona,Applus+ IDIADA,Sobre 49 mil € -53 mil €,"Data Scientist, Business Intelligence",51000.0,51000.0
+1823,barcelona,MC Services,Sobre 49 mil € -54 mil €,Developer/Data Scientist,51500.0,51500.0
+1824,barcelona,Accenture,Sobre 49 mil € -53 mil €,Consultant Data Scientist Analytics,51000.0,51000.0
+1825,barcelona,Parc Científic de Barcelona,Sobre 50 mil € -53 mil €,Data Research Scientist,51500.0,51500.0
+1826,barcelona,Sanofi,Sobre 70 mil € -76 mil €,Data Science Team Leader,73000.0,73000.0
+1827,barcelona,Bestiario,Sobre 542 € -590 €,Software Engineering/Data Science - Becario por mes,566.0,6792
+1828,barcelona,nx-swim.com,Sobre 46 mil € -50 mil €,Directeur Data Science,48000.0,48000.0
+1829,barcelona,Atrapalo,Sobre 35 mil € -38 mil €,Business Intelligence and Data Science Analyst,36500.0,36500.0
+1830,barcelona,Typeform,Sobre 44 mil € -47 mil €,Data Scientist Tech Lead,45500.0,45500.0
+1831,barcelona,Accenture,Sobre 49 mil € -53 mil €,Analista y científico de datos,51000.0,51000.0
+1832,barcelona,Eurecat,Sobre 28 mil € -31 mil €,Data Scientist & Research,29500.0,29500.0
