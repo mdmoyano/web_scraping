@@ -1,0 +1,119 @@
+% Ejemplo DE PEC en castellano.
+\documentclass[IB]{PlantillaPACnova_Est}
+\usepackage{hyperref} %url amb \ref. 
+\usepackage{float}
+\usepackage{amsmath}
+\usepackage{hyperref}
+\usepackage{url}
+\def\vi{\vec{\i} }
+\def\vj{\vec{\j} }
+\def\vk{\vec{k} }
+\def\vk{\vec{k} }
+\def\vB{\vec{B} }
+\def\vH{\vec{H} }
+\def\vM{\vec{M} }
+\def\vE{\vec{E} }
+%\def<d{/>{\rm d}}
+\def\vr{\vec{r}}
+\def\Ohm{\Omega}
+\def\qpi{\frac{1}{4\pi\varepsilon_0}}
+\DeclareMathSymbol{,}{\mathord}{letters}{"3B}
+%\usepackage{siunitx}
+%\DeclareSIUnit\grau{\degreeCelsius}
+%\sisetup{output-decimal-marker = {,}}
+%\sisetup{per-mode = symbol}%
+%\sisetup{exponent-product = \cdot}
+%\usepackage{upgreek}
+%\usepackage{cancel}
+\setcounter{secnumdepth}{0} 
+\usepackage[nottoc,numbib]{tocbibind}
+\usepackage{tocloft}
+\renewcommand{\cftsecleader}{\cftdotfill{\cftdotsep}}
+
+\begin{document}
+\textinicial
+%%%%%%%%%%%%%%%%%%%%%%%%% Código %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% --------------------> 1
+{M2.851} 				
+%%%%%%%%%%%%%%%%%%%%%%%%% Assignatura %%%%%%%%%%%%%%%%%%%%%%%%%%--------------------> 2
+{Tipología y ciclo de vida de los datos}
+%%%%%%%%%%%%%%%%%%%%%%%%% Número de PEC o Práctica %%%%%%%%%%%%%--------------------> 3
+{PRA1}
+%%%%%%%%%%%%%%%%%%%%%%%%% Curso i número de semestre %%%%%%%%%%%%--------------------> 4
+{2021-22-Sem.2}
+%%%%%%%%%%%%%%%%%%%%%%%%% Nombre Programa %%%%%%%%%%%%%%%%%%%%%%%%%--------------------> 5
+{Master de ciencia de datos}
+%%%%%%%%%%%%%%%%%%%%%%%%% Vuestro nombre %%%%%%%%%%%%%%%%%%%%%%%%%--------------------> 6
+{Maria Dolores Moyano Guerrero y Víctor Cáncer Castillo}
+
+
+
+
+\begin{center}
+\textbf{{\LARGE PRA 1 - Tipología y ciclo de vida de los datos}}\\[1cm]
+
+\textbf{{\Large Maria Dolores Moyano Guerrero y Víctor Cáncer Castillo}}
+\end{center}
+
+\tableofcontents
+
+\section{Contexto}
+
+Estos datos se han recogido para practicar el \textit{web scraping} en la asignatura de \textit{Tipología y ciclo de vida de los datos} del Máster de ciencia de datos de la UOC.\\
+
+Cómo (futuros) científicos de datos hemos tenido la curiosidad por saber cómo está el mercado laboral actualmente en varias ciudades europeas y americanas. Además hemos querido averiguar en qué lugares el trabajo de científico de datos está más reconocido por las empresas y por lo tanto mejor remunerados. \\
+Para ello hemos obtenido los suelos que se ofrecen por diferentes empresas utilizando la web \textit{Glassdoor} \cite{glassdoor}, donde los trabajadores pueden informar de su sueldo de manera anónima. Por otro lado hemos extraído datos de la web \textit{datosmacro.expansion.com} \cite{datosmacro} dónde hay múltiples datos económicos, entre ellos el salario medio, lo cual nos puede mostrar si el trabajo del científico de datos está mejor/peor remunerado que el resto de trabajos en ese pais o ciudad. 
+
+\section{Título}
+
+Obtendremos dos datasets de los cuales extraeremos nuestras conclusiones: 
+\begin{itemize}
+\item \textit{sueldos$\_$data$\_$scientist.csv}
+\item \textit{salario$\_$medio.csv}
+\end{itemize}
+
+\section{Descripción del dataset}
+
+--
+
+\section{Representación gráfica}
+
+
+--
+
+
+\section{Contenido}
+
+
+
+\section{Agradecimientos}
+
+
+
+\section{Inspiración}
+
+
+\section{Licencia}
+
+
+\section{Código}
+
+Para hacer tanto scraping como pre-procesado de datos hemos utilizado Python. El código está disponible en GitHub: \href{https://github.com/mdmoyano/web_scraping}.
+
+\section{Dataset}
+
+-- Publicar en Zenodo --
+
+\section{Vídeo}
+
+-- Link al video de cada uno --
+
+
+
+%\bibliographystyle{unsrt}
+%\bibliographystyle{alphadin}
+\newpage
+\bibliographystyle{plain}
+\bibliography{biblio} 
+
+\end{document}
+
