@@ -1,6 +1,7 @@
 import pandas as pd
 from descarga import sueldos
 from clean import clean_csv
+from SMI import SMI_FILE
 
 #Ignorar los FutureWarnings de Pandas/append
 import warnings
@@ -21,7 +22,20 @@ dataset_sueldos = sueldos('sevilla',dataset_sueldos)
 
 dataset_sueldos.to_csv('dataset_sueldos.csv',index=False)
 
-dataset_sueldos_clean=clean_csv()
+SMI_FILE()
 
+dataset_sueldos_clean,SMI_clean=clean_csv()
 
+del dataset_sueldos_clean['Sueldo']
+del dataset_sueldos_clean['Empresa']
 
+media_ciudad=dataset_sueldos_clean.groupby('Ciudad', as_index=False)['Sueldo anual'].mean()
+
+#Finalmente calculamos el sueldo vs Sueldo medio
+media_ciudad['Sueldo vs Sueldo Medio'] = ""
+
+media_ciudad[media_ciudad['Ciudad'].str.contains('sevilla|barcelona|madrid') == True]['Sueldo vs Sueldo Medio'] = media_ciudad[media_ciudad['Ciudad'].str.contains('sevilla|barcelona|madrid') == True]['Sueldo anual']/SMI_clean[SMI_clean['País']=='España']['SalMed €'].iloc[0]
+
+media_ciudad[media_ciudad['Ciudad'] == 'berlin']['Sueldo vs Sueldo Medio'] = media_ciudad[media_ciudad['Ciudad'] == 'berlin']['Sueldo anual']/SMI_clean[SMI_clean['País']=='Alemania']['SalMed €'].iloc[0]
+
+print(media_ciudad)

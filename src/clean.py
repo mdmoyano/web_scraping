@@ -49,9 +49,29 @@ def clean_csv():
         else:
             dataset_sueldos['Sueldo anual'][row] = dataset_sueldos['Sueldo texto limpio'][row]
 
+    del dataset_sueldos['Sueldo texto limpio']
+    del dataset_sueldos['Periodo']
+    del dataset_sueldos['index']
+
+    dataset_sueldos['Sueldo anual'] = dataset_sueldos['Sueldo anual'].astype('int')
+
     dataset_sueldos.to_csv('dataset_sueldos_clean.csv', index=False)
 
-    return dataset_sueldos
+    #Pasamos a limpiar el CSV de SMI
+    SMI_dataset=pd.read_csv('SMI.csv', delimiter=',',encoding='utf-8')
+
+    SMI_dataset['País'] = SMI_dataset['País'].str.replace(']', '')
+    SMI_dataset['País'] = SMI_dataset['País'].str.replace('+', '')
+    SMI_dataset['País'] = SMI_dataset['País'].str.replace('[', '')
+    SMI_dataset['País'] = SMI_dataset['País'].str.strip()
+    SMI_dataset['SalMed €']=SMI_dataset['SalMed €'].str.replace('€', '')
+    SMI_dataset['SalMed €'] = SMI_dataset['SalMed €'].str.replace('.', '')
+    SMI_dataset['SalMed €'] = SMI_dataset['SalMed €'].str.replace(u'\xa0', '')
+    #Pasamos la columna a Integer
+    SMI_dataset['SalMed €'] = SMI_dataset['SalMed €'].fillna(-1)
+    SMI_dataset['SalMed €'] = SMI_dataset['SalMed €'].astype('int')
+
+    return dataset_sueldos , SMI_dataset
 
 
 
