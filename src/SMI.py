@@ -15,9 +15,9 @@ def SMI_FILE():
         cols = row.find_all('td')
         cols = [ele.text.strip() for ele in cols]
         data.append([ele for ele in cols if ele]) # Get rid of empty values
-    print(tabulate(data, headers=["País", "Año",  "SalMed Local","Moneda","SalMed $","SalMed €", "Var"]))
+    #print(tabulate(data, headers=["País", "Año",  "SalMed Local","Moneda","SalMed $","SalMed €", "Var"]))
 
-    print(data)
+    #print(data)
     SMI=tabulate(data, headers=["País", "Año",  "SalMed Local","Moneda","SalMed $","SalMed €", "Var"],tablefmt="csv")
 
     with open('SMI.csv','w',encoding = 'utf-8',newline='') as csvfile:

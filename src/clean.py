@@ -6,6 +6,12 @@ def clean_csv():
 
     dataset_sueldos = pd.read_csv('dataset_sueldos.csv', delimiter=',')
 
+    # Hay una oferta de San Francisco que contiene una oferta de la Universidad de Canberra, otra de la india e incluso Brasil
+    # No nos interesan. Nos quedamos solo con ofertas en euros o dolares. Vamos a suponer que el valor del dolar y el euro es similar
+    dataset_sueldos = dataset_sueldos[dataset_sueldos['Sueldo'].str.contains('€|\$') == True]
+    dataset_sueldos = dataset_sueldos.reset_index()
+
+
     # Limpiamos el campo de Sueldo
     dataset_sueldos['Sueldo texto limpio'] = dataset_sueldos['Sueldo'].str.lower()
     dataset_sueldos['Sueldo texto limpio'] = dataset_sueldos['Sueldo texto limpio'].str.replace('sobre', '')
@@ -20,10 +26,7 @@ def clean_csv():
     dataset_sueldos['Sueldo texto limpio'] = dataset_sueldos['Sueldo texto limpio'].str.replace('us\$', '')
     dataset_sueldos['Sueldo texto limpio'] = dataset_sueldos['Sueldo texto limpio'].str.replace('ca\$', '')
 
-    # Hay una oferta de San Francisco que contiene una oferta de la Universidad de Canberra, otra de la india e incluso Brasil
-    # No nos interesan.
-    dataset_sueldos = dataset_sueldos[dataset_sueldos['Sueldo texto limpio'].str.contains('aud|inr|brl|gbp') == False]
-    dataset_sueldos = dataset_sueldos.reset_index()
+
 
     dataset_sueldos['Sueldo anual'] = ""
 
