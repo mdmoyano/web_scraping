@@ -22,7 +22,7 @@ def clean_csv():
 
     # Hay una oferta de San Francisco que contiene una oferta de la Universidad de Canberra, otra de la india e incluso Brasil
     # No nos interesan.
-    dataset_sueldos = dataset_sueldos[dataset_sueldos['Sueldo texto limpio'].str.contains('aud|inr|brl') == False]
+    dataset_sueldos = dataset_sueldos[dataset_sueldos['Sueldo texto limpio'].str.contains('aud|inr|brl|gbp') == False]
     dataset_sueldos = dataset_sueldos.reset_index()
 
     dataset_sueldos['Sueldo anual'] = ""
