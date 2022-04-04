@@ -1,10 +1,18 @@
-% Ejemplo DE PEC en castellano.
 \documentclass[IB]{PlantillaPACnova_Est}
 \usepackage{hyperref} %url amb \ref. 
 \usepackage{float}
 \usepackage{amsmath}
 \usepackage{hyperref}
+\usepackage{pgfplots}
+\usepackage{xcolor}
+\usepackage{tikz}
 \usepackage{url}
+\usepackage{wrapfig}
+\usepackage{natbib}
+\usepackage[landscape]{geometry}
+\usepackage{graphicx}
+\usepackage{tikz-er2}
+\usepackage{ragged2e}
 \def\vi{\vec{\i} }
 \def\vj{\vec{\j} }
 \def\vk{\vec{k} }
@@ -29,6 +37,12 @@
 \usepackage[nottoc,numbib]{tocbibind}
 \usepackage{tocloft}
 \renewcommand{\cftsecleader}{\cftdotfill{\cftdotsep}}
+\bibliography{biblio.bib} 
+% Colores de las barras
+\definecolor{bblue}{HTML}{4F81BD}
+\definecolor{rred}{HTML}{C0504D}
+\definecolor{ggreen}{HTML}{9BBB59}
+\definecolor{ppurple}{HTML}{9F4C7C}
 
 \begin{document}
 \textinicial
@@ -55,53 +69,168 @@
 \end{center}
 
 \tableofcontents
+\newpage 
 
 \section{Contexto}
 
 Estos datos se han recogido para practicar el \textit{web scraping} en la asignatura de \textit{Tipología y ciclo de vida de los datos} del Máster de ciencia de datos de la UOC.\\
+Cómo (futuros) científicos de datos hemos tenido la curiosidad de estudiar cómo está el mercado laboral actualmente en varias ciudades europeas y americanas. Además hemos querido averiguar en qué lugares el trabajo de científico de datos está más reconocido por las empresas y por lo tanto mejor remunerados. \\
+Para ello hemos obtenido los suelos que se ofrecen por diferentes empresas utilizando la web \textit{\url{https://glassdoor.es/}}, donde los trabajadores pueden informar de su sueldo de manera anónima. Por otro lado hemos extraído datos de la web \textit{ \url{https://datosmacro.expansion.com/}} dónde hay múltiples datos económicos, entre ellos el salario medio, lo cual nos puede mostrar si el trabajo del científico de datos está mejor/peor remunerado que el resto de trabajos en ese pais o ciudad. 
+\\
 
-Cómo (futuros) científicos de datos hemos tenido la curiosidad por saber cómo está el mercado laboral actualmente en varias ciudades europeas y americanas. Además hemos querido averiguar en qué lugares el trabajo de científico de datos está más reconocido por las empresas y por lo tanto mejor remunerados. \\
-Para ello hemos obtenido los suelos que se ofrecen por diferentes empresas utilizando la web \textit{Glassdoor} \cite{glassdoor}, donde los trabajadores pueden informar de su sueldo de manera anónima. Por otro lado hemos extraído datos de la web \textit{datosmacro.expansion.com} \cite{datosmacro} dónde hay múltiples datos económicos, entre ellos el salario medio, lo cual nos puede mostrar si el trabajo del científico de datos está mejor/peor remunerado que el resto de trabajos en ese pais o ciudad. 
+\includegraphics{fuentes.png}
 
+\newpage 
 \section{Título}
 
 Obtendremos dos datasets de los cuales extraeremos nuestras conclusiones: 
 \begin{itemize}
-\item \textit{sueldos$\_$data$\_$scientist.csv}
-\item \textit{salario$\_$medio.csv}
+\item \textit{Sueldos\_DataScientist\_ciudades.csv}
+\item \textit{SMI.csv}
 \end{itemize}
 
 \section{Descripción del dataset}
 
---
+Para las ciudades descritas se recogen los datos:
+
+\begin{itemize}
+\item Dataset\_sueldos.csv
+\item Dataset\_sueldos\_clean.csv
+\item SMI.csv
+\item Sueldos\_DataScientist\_ciudades.csv
+\end{itemize}
+
+Los datos obtenidos recogen los datos siguientes, a fecha 3/04/2022, gráficamente:
+\\
+\begin{tikzpicture}
+    \begin{axis}[
+        width  = 1*\textwidth,
+        height = 8cm,
+        major x tick style = transparent,
+        ybar,
+        bar width=14pt,
+        ymajorgrids = true,
+        ylabel = {Salario Anual},
+        symbolic x coords={Amsterdam,Barcelona,Berlin,Bruselas,Madrid,París,San Francisco},
+        xtick = data,
+        scaled y ticks = false,
+    ]
+        \addplot[style={ppurple,fill=ppurple,mark=none}]
+        coordinates {(Amsterdam,54787.59) (Barcelona,36419.1) (Berlin,59295.32) (Bruselas,50670.96) (Madrid,37781.09) (París,37525.64)(San Francisco,136654.92)};
+            
+         \addplot[style={rred,fill=rred,mark=none}]
+        coordinates {(Amsterdam,55338.99) (Barcelona,26832.00) (Berlin,52556.02) (Bruselas,52248.02) (Madrid,26832.00) (París,39970.99)(San Francisco,53229.00)};
+
+      
+        \legend{Sueldo anual Cientif. Datos,Sueldo Medio País}
+    \end{axis}
+\end{tikzpicture}
+
 
 \section{Representación gráfica}
+\usetikzlibrary{positioning}
+\usetikzlibrary{shadows}
 
+\tikzstyle{every entity} = [top color=white, bottom color=blue!30, 
+                            draw=blue!50!black!100, drop shadow]
+\tikzstyle{every weak entity} = [drop shadow={shadow xshift=.7ex, 
+                                 shadow yshift=-.7ex}]
+\tikzstyle{every attribute} = [top color=white, bottom color=yellow!20, 
+                               draw=yellow, node distance=1cm, drop shadow]
+\tikzstyle{every relationship} = [top color=white, bottom color=red!20, 
+                                  draw=red!50!black!100, drop shadow]
+\tikzstyle{every isa} = [top color=white, bottom color=green!20, 
+                         draw=green!50!black!100, drop shadow]
 
---
+\centering
+\scalebox{.87}{
+\begin{tikzpicture}[node distance=1.5cm, every edge/.style={link}]
 
+  \node[entity] (pai) {Pais};
+  \node[attribute] (smi) [above=of pai] {SueldoMedio} edge (pai);
+  \node[attribute] (anio) [right=of pai] {Anio} edge (pai);
+  \node[attribute] (mon) [below right=of pai] {Moneda} edge (pai);
+  \node[attribute] (nom) [above right=of pai] {Nombre} edge (pai);
 
+  \node[relationship] (pertenece) [left=of pai] {Tributa} edge (pai);
+
+  \node[entity] (emp) [below=of pertenece] {Empresa} edge (pertenece);
+  \node[attribute] (nombe) [left=of emp] {Nombre} edge (emp);  
+
+  \node[relationship] (ofrece) [below=of emp] {Oferta  } edge  (emp);
+
+  \node[entity] (Pue) [right=of ofrece] {Puesto} edge (ofrece);
+  \node[attribute] (per) [below=of Pue] {Periodo} edge (Pue);
+  \node[attribute] (suele) [right=of Pue] {Sueldo} edge (Pue);  
+  \node[attribute] (nombp) [below right=of Pue] {Nombre} edge (Pue);  
+  
+  \node[relationship] (esta) [below=of pai] {Está en} edge  (Pue);
+  \draw[link] (Pue.27) -| (esta) (esta) edge (pai);
+
+\end{tikzpicture}
+}
+
+\raggedright
 \section{Contenido}
+Dataset\_sueldos.csv
+\begin{itemize}
+\item \textbf{Ciudad:} Ciudad donde está radicado el empleo.
+\item \textbf{Empresa:} Empresa que proporciona el empleo.
+\item \textbf{Sueldo:} Sueldo bruto correspondiente al empleo, ciudad y empresa.
+\item \textbf{Periodo:} Empleo en el periodo indicado, en su caso.
+\end{itemize}
 
+Dataset\_sueldos\_clean.csv
+\begin{itemize}
+\item \textbf{Ciudad: } Ciudad donde está el empleo.
+\item \textbf{Empresa:} Empresa que proporciona el empleo.
+\item \textbf{Sueldo:} Sueldo bruto correspondiente al empleo, ciudad y empresa.
+\item \textbf{Sueldo Anual:}. Sueldo ajustado a un año (algunas empresas, no lo proporcionan anualizado).
+\end{itemize}
 
+SMI.csv
+\begin{itemize}
+\item \textbf{País: }País que se corresponde al sueldo medio.
+\item \textbf{Año: }Año de cálculo del sueldo medio.
+\item \textbf{SalMed Local: }Salario medio en moneda local.
+\item \textbf{Moneda:} Moneda del salario local.
+\item \textbf{Salmed \$:} Salario medio en dólares.
+\item \textbf{Salmed €:} Salario medio en euros.
+\item \textbf{Var:} Variación del salario medio.
+\end{itemize}
+
+Sueldos\_DataScientist\_ciudades.csv
+\begin{itemize}
+\item \textbf{Ciudad:}  Ciudad donde está el empleo.
+\item \textbf{Sueldo anual:} Sueldo anual de los empleos descargados.
+\item \textbf{Suelvo vs Sueldo Medio: }Diferencia entre el sueldo del puesto de Científico de Datos y el sueldo medio del país.
+\end{itemize}
 
 \section{Agradecimientos}
 
-
+Agradecemos a los propietarios de las páginas  \textit{\url{https://glassdoor.es/}} y \textit{ \url{https://datosmacro.expansion.com/}}, por los datos de los que nos hemos podido alimentar en este proyecto de Web Scraping. 
 
 \section{Inspiración}
 
+Los datos recogidos son interesantes porque permiten comparar los sueldos de los científicos de datos en caliente, utilizando el factor de corrección del sueldo medio del país, para poder analizar si efectivamente esos puestos de trabajo son valorados en la ciudad donde se demandan. 
 
+\newpage 
 \section{Licencia}
+Se ha escogido la licencia CC BY-SA 4.0 ya que es la más correcta en cuanto a las libertades que se han de cumplir:
+\\
+\includegraphics [scale=0.75]{licencia1.png}
+\\
+\includegraphics [scale=0.75]{licencia2.png}
 
 
 \section{Código}
 
-Para hacer tanto scraping como pre-procesado de datos hemos utilizado Python. El código está disponible en GitHub: \href{https://github.com/mdmoyano/web_scraping}.
+Para hacer tanto scraping como pre-procesado de datos hemos utilizado Python. El código está disponible en GitHub: \url{https://github.com/mdmoyano/web_scraping/src}.
 
 \section{Dataset}
 
--- Publicar en Zenodo --
+El Dataset está publicado en Zenodo, disponible en  \url{10.5281/zenodo.6408002}
+
 
 \section{Vídeo}
 
@@ -117,3 +246,4 @@ Para hacer tanto scraping como pre-procesado de datos hemos utilizado Python. El
 
 \end{document}
 
+   
