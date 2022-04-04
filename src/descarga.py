@@ -4,8 +4,10 @@ import pandas as pd
 
 
 #Descarga completa de una ciudad
+
 def sueldos(ciudad, dataset_sueldos):
 
+    #Añadimos un header para que no nos detecten como bots
     headers = {
         "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,\
     */*;q=0.8",
@@ -19,11 +21,13 @@ def sueldos(ciudad, dataset_sueldos):
     37.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36"
     }
 
+    #Cada ciudad tiene un codigo diferente en la web, que hemos ido recopilando en un CSV
     lista_codigos = pd.read_csv('codigos.csv', delimiter=',')
 
     url_base = "https://www.glassdoor.es/Sueldos/"
     url_puesto = "-data-scientist-sueldo-"
 
+    #Pasamos ciudad a lower por si se ha escrito de otra manera
     ciudad = ciudad.lower()
 
     if lista_codigos[lista_codigos["ciudad"] == ciudad]['codigo'].empty:
@@ -31,6 +35,8 @@ def sueldos(ciudad, dataset_sueldos):
         return 0
     else:
         codigo_ciudad = lista_codigos[lista_codigos["ciudad"] == ciudad]['codigo'].item()
+
+        #Ciudades con nombres computestos: cambiamos el espacio por un guion
         ciudad_url=ciudad.replace(' ','-')
 
     url_completa = url_base + ciudad_url + url_puesto + codigo_ciudad + ".htm"
@@ -51,7 +57,7 @@ def sueldos(ciudad, dataset_sueldos):
 
     for pagina in range(total_paginas):
 
-        print("Ciudad: ",ciudad,". Pagina ",pagina," de un total de ",total_paginas)
+        print("Ciudad: ",ciudad,". Pagina ",pagina+1," de un total de ",total_paginas)
 
         url_completa = url_base + ciudad + url_puesto + codigo_ciudad + "_IP" + str(pagina+1) + ".htm"
 
@@ -63,10 +69,12 @@ def sueldos(ciudad, dataset_sueldos):
             print("HTTP error: ", page.status_code)
             return 0
 
+        #Cogemos la parte que nos interesa
         resultados = soup.findAll('div', {'class': 'py css-17435dd'})
 
         if not resultados:
-            print('Hemos llegado a la ultima pagina con resultados. Pagina: ',pagina)
+            #Revisando la web vemos que ha paginas a las que se puede acceder pero ya no tiene la información que buscamos, por lo que paramos cuando ya no encontremos esta etiqueta
+            print('Hemos llegado a la ultima pagina con resultados. Pagina: ',pagina+1)
 
             return dataset_sueldos
 
@@ -77,11 +85,4 @@ def sueldos(ciudad, dataset_sueldos):
                  'Periodo':item.find('span',{'class':'m-0 css-18stkbk'}).text}, ignore_index=True)
 
     return dataset_sueldos
-
-
-
-
-
-
-
 

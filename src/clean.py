@@ -1,6 +1,7 @@
 import pandas as pd
 import numpy as np
 
+#En este documento definimos la función que se encarga de limpiar el dataset
 
 def clean_csv():
 
@@ -27,23 +28,27 @@ def clean_csv():
     dataset_sueldos['Sueldo texto limpio'] = dataset_sueldos['Sueldo texto limpio'].str.replace('ca\$', '')
 
 
-
+    #Creamos una columna nueva
     dataset_sueldos['Sueldo anual'] = ""
 
+    #Empezamos a procesar los datos
     for row in range(dataset_sueldos.shape[0]):
 
+        #Separamos los valores según el guión
         if '-' in dataset_sueldos['Sueldo texto limpio'][row]:
             valores = dataset_sueldos['Sueldo texto limpio'][row].split('-')
 
             for i in range(len(valores)):
                 if 'mil' in valores[i]:
+                    #Si contiene la palabra 'mil' multiplicamos por mil
                     valores[i] = valores[i].replace('mil', '')
                     valores[i] = 1000 * int(valores[i])
                 else:
                     valores[i] = int(valores[i])
-
+            #Tomamos el valor medio de estos dos valores
             dataset_sueldos['Sueldo texto limpio'][row] = np.mean(valores)
 
+        #Si el sueldo viene mensual o horario lo pasamos a anual
         if 'mes' in dataset_sueldos['Periodo'][row]:
             dataset_sueldos['Sueldo anual'][row] = int(dataset_sueldos['Sueldo texto limpio'][row]) * 12
         elif 'hora' in dataset_sueldos['Periodo'][row]:
@@ -60,9 +65,13 @@ def clean_csv():
 
     dataset_sueldos.to_csv('dataset_sueldos_clean.csv', index=False)
 
-    #Pasamos a limpiar el CSV de SMI
+    #################################
+    #Pasamos a limpiar el CSV de SMI#
+    #################################
+
     SMI_dataset=pd.read_csv('SMI.csv', delimiter=',',encoding='utf-8')
 
+    #Limpiamos el dataset
     SMI_dataset['País'] = SMI_dataset['País'].str.replace(']', '')
     SMI_dataset['País'] = SMI_dataset['País'].str.replace('+', '')
     SMI_dataset['País'] = SMI_dataset['País'].str.replace('[', '')
@@ -75,7 +84,4 @@ def clean_csv():
     SMI_dataset['SalMed €'] = SMI_dataset['SalMed €'].astype('int')
 
     return dataset_sueldos , SMI_dataset
-
-
-
 
