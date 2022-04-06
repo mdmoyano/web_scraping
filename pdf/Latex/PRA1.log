@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.4.4)  6 APR 2022 20:46
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.4.4)  6 APR 2022 21:18
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -959,8 +959,10 @@ No file PRA1.bbl.
 File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count324
 \l__pdf_internal_box=\box70
+) (PRA1.aux
+LaTeX Info: Redefining \. on input line 25.
+LaTeX Info: Redefining \% on input line 25.
 )
-No file PRA1.aux.
 \openout1 = `PRA1.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 50.
@@ -981,6 +983,7 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 50.
 LaTeX Font Info:    ... okay on input line 50.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 50.
 LaTeX Font Info:    ... okay on input line 50.
+
 (C:\Users\M Dolores\AppData\Local\Programs\MiKTeX\tex/latex/ucs\ucsencs.def
 File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
 )
@@ -1030,6 +1033,7 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 50.
 LaTeX Info: Redefining \pageref on input line 50.
 LaTeX Info: Redefining \nameref on input line 50.
+ (PRA1.out) (PRA1.out)
 \@outlinefile=\write4
 \openout4 = `PRA1.out'.
 
@@ -1079,11 +1083,14 @@ Package caption Info: End \AtBeginDocument code.
 (C:\Users\M Dolores\AppData\Local\Programs\MiKTeX\tex/latex/ucs\uni-0.def
 File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
 )
+(PRA1.toc
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+)
 \tf@toc=\write5
 \openout5 = `PRA1.toc'.
 
-
-[1
+ [1
 Non-PDF special ignored!
 <special> papersize=614.295pt,794.96999pt
 
@@ -1102,7 +1109,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 83--84
 
  []
 
-<fuentes.png, id=15, 444.15938pt x 159.59625pt>
+<fuentes.png, id=76, 444.15938pt x 159.59625pt>
 File: fuentes.png Graphic file (type png)
 <use fuentes.png>
 Package pdftex.def Info: fuentes.png  used on input line 88.
@@ -1112,14 +1119,14 @@ Overfull \hbox (14.15366pt too wide) in paragraph at lines 88--89
 [][] 
  []
 
-<noulogo.png, id=17, 671.6292pt x 173.448pt>
+<noulogo.png, id=78, 671.6292pt x 173.448pt>
 File: noulogo.png Graphic file (type png)
 <use noulogo.png>
 Package pdftex.def Info: noulogo.png  used on input line 92.
 (pdftex.def)             Requested size: 110.1684pt x 28.45274pt.
 LaTeX Info: Redefining \. on input line 92.
 LaTeX Info: Redefining \% on input line 92.
-<eimt.png, id=18, 74.1972pt x 10.1178pt>
+<eimt.png, id=79, 74.1972pt x 10.1178pt>
 File: eimt.png Graphic file (type png)
 <use eimt.png>
 Package pdftex.def Info: eimt.png  used on input line 92.
@@ -1249,27 +1256,25 @@ Package pdftex.def Info: eimt.png  used on input line 297.
 (pdftex.def)             Requested size: 73.03314pt x 9.95863pt.
 [8]
 No file PRA1.bbl.
+(PRA1.lof
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+)
 \tf@lof=\write6
 \openout6 = `PRA1.lof'.
 
-[9] (PRA1.aux
+ [9] (PRA1.aux
 LaTeX Info: Redefining \. on input line 25.
 LaTeX Info: Redefining \% on input line 25.
 )
-
-Package rerunfilecheck Warning: File `PRA1.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `PRA1.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  E8A7B466A9F9ADC39C2C68669D53C849;1261.
+Package rerunfilecheck Info: File `PRA1.out' has not changed.
+(rerunfilecheck)             Checksum: E8A7B466A9F9ADC39C2C68669D53C849;1261.
  ) 
 Here is how much of TeX's memory you used:
- 36636 strings out of 478582
- 850798 string characters out of 2842421
- 1213090 words of memory out of 3000000
- 54230 multiletter control sequences out of 15000+600000
+ 36659 strings out of 478582
+ 851225 string characters out of 2842421
+ 1213068 words of memory out of 3000000
+ 54243 multiletter control sequences out of 15000+600000
  472414 words of font info for 40 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,20n,94p,737b,2326s stack positions out of 10000i,1000n,20000p,200000b,80000s
@@ -1286,9 +1291,9 @@ msfonts/cm/cmsl10.pfb><C:/Users/M Dolores/AppData/Local/Programs/MiKTeX/fonts/t
 ype1/public/amsfonts/cm/cmsy10.pfb><C:/Users/M Dolores/AppData/Local/Programs/M
 iKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/M Dolores/AppData/Loc
 al/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on PRA1.pdf (9 pages, 258031 bytes).
+Output written on PRA1.pdf (9 pages, 266359 bytes).
 PDF statistics:
- 172 PDF objects out of 1000 (max. 8388607)
+ 224 PDF objects out of 1000 (max. 8388607)
  25 named destinations out of 1000 (max. 500000)
- 142 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 238 words of extra memory for PDF output out of 10000 (max. 10000000)
 
