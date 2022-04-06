@@ -8,4 +8,4 @@ Si se quiere ejecutar el script tan solo tenemos que ejecutar el fichero *main.p
 
 Por otro lado en la carpeta *csv* tenemos los ficheros resultantes de esta ejecución.
 
-En la carpeta *pdf* tenemos los ficheros de Latex que hemos usado para crear el pdf resultante con las respuestas: *PRA1.pdf*.
+En la carpeta *pdf/Latex* tenemos los ficheros de Latex que hemos usado para crear el pdf resultante con las respuestas, *PRA1.pdf*, que se encuentra en la misma carpeta.
