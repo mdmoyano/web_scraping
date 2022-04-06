@@ -1,0 +1,13 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {section}{Contexto}{2}{section*.1}%
+\contentsline {section}{T\IeC {\'\i }tulo}{3}{section*.3}%
+\contentsline {section}{Descripci\IeC {\'o}n del dataset}{3}{section*.4}%
+\contentsline {section}{Representaci\IeC {\'o}n gr\IeC {\'a}fica}{4}{section*.5}%
+\contentsline {section}{Contenido}{6}{section*.8}%
+\contentsline {section}{Agradecimientos}{7}{section*.9}%
+\contentsline {section}{Inspiraci\IeC {\'o}n}{7}{section*.10}%
+\contentsline {section}{Licencia}{8}{section*.11}%
+\contentsline {section}{C\IeC {\'o}digo}{8}{section*.12}%
+\contentsline {section}{Dataset}{8}{section*.13}%
+\contentsline {section}{V\IeC {\'\i }deo}{8}{section*.14}%
+\contentsline {section}{\'{I}ndice de figuras}{9}{section*.15}%
