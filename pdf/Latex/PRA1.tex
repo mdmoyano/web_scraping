@@ -75,9 +75,13 @@
 \newpage 
 
 \section{Contexto}
-\paragraph{Explicar en qué contexto se ha recolectado la información. Explicar por qué el sitio web elegido proporciona dicha información.\\} 
+
+\textbf{Explicar en qué contexto se ha recolectado la información. Explicar por qué el sitio web elegido proporciona dicha información.}  \\
+
 Estos datos se han recogido para practicar el \textit{web scraping} en la asignatura de \textit{Tipología y ciclo de vida de los datos} del Máster de ciencia de datos de la UOC.\\
+
 Cómo (futuros) científicos de datos hemos tenido la curiosidad de estudiar cómo está el mercado laboral actualmente en varias ciudades europeas y americanas. Además hemos querido averiguar en qué lugares el trabajo de científico de datos está más reconocido por las empresas y por lo tanto mejor remunerados. \\
+
 Para ello hemos obtenido los sueldos que se ofrecen por diferentes empresas utilizando la web \textit{\url{https://glassdoor.es/}}, donde los trabajadores pueden informar de su sueldo de manera anónima. Por otro lado hemos extraído datos de la web \textit{ \url{https://datosmacro.expansion.com/}} dónde hay múltiples datos económicos, entre ellos el salario medio, lo cual nos puede mostrar si el trabajo del científico de datos está mejor/peor remunerado que el resto de trabajos en ese pais o ciudad.
 
 \begin{figure}[h]
@@ -87,23 +91,31 @@ Para ello hemos obtenido los sueldos que se ofrecen por diferentes empresas util
 
 \newpage 
 \section{Título}
-\paragraph{Definir un título que sea descriptivo para el dataset.\\}
+\textbf{Definir un título que sea descriptivo para el dataset.} \\
 
-El título que describe el dataset final es: comparación de los sueldos para un científico de datos en determinadas ciudades con el sueldo medio de los países donde radican dichas ciudades.
+El objetivo de los datasets es poder hacer una comparación de los sueldos para un científico de datos en determinadas ciudades con el sueldo medio de los países donde radican dichas ciudades.\\
+
+Los dos datasets principales que extraemos son: SMI.csv (Salario Medio interprofesional) y dataset\_sueldos\_clean.csv (Suelos de cientificos de datos tras un preproceso de datos).
 
 \section{Descripción del dataset}
-\paragraph{Desarrollar una descripción breve del conjunto de datos que se ha extraído. Es necesario que esta descripción tenga sentido con el título elegido.\\}
+\textbf{Desarrollar una descripción breve del conjunto de datos que se ha extraído. Es necesario que esta descripción tenga sentido con el título elegido.} \\
 
 Para las ciudades descritas se recogen los datos:
 \begin{itemize}
 \item \textit{Sueldos\_DataScientist\_vs\_SMI}: Comparación de los sueldos de las distintas ciudades con el Sueldo Medio.
 \item \textit{SMI.csv}: Contiene los sueldos medios de un listado de países.
 \item \textit{dataset\_sueldos.csv}: Sueldos extraídos para científicos de datos en distintos periodos.
-\item \textit{dataset\_sueldos\_clean.csv}: Sueldos de un científico de datos para un año.
+\item \textit{dataset\_sueldos\_clean.csv}: Sueldos de un científico de datos tratados para que todos tengan un sueldo anual.
 \end{itemize}
 
 \newpage
-Los datos obtenidos recogen los datos siguientes:
+\section{Representación gráfica}
+
+\FloatBarrier
+\textbf{\\Dibujar un esquema o diagrama que identifique el dataset visualmente y el proyecto elegido.} \\
+\FloatBarrier
+
+Los datos obtenidos en los dos datasets recogen, de manera resumida, los datos siguientes:
 \\
 \begin{figure}[h]
 \begin{tikzpicture}
@@ -133,11 +145,12 @@ Los datos obtenidos recogen los datos siguientes:
 \end{figure}
 \newpage 
 
-\section{Representación gráfica}
-\FloatBarrier
-\paragraph{\\Dibujar un esquema o diagrama que identifique el dataset visualmente y el proyecto elegido.\\}
-\FloatBarrier
-\begin{figure}[h]
+
+
+
+Por otro lado creamos el siguiente esquema que relaciona los datos de los datasets:
+
+\begin{figure}[htpb]
 \usetikzlibrary{positioning}
 \usetikzlibrary{shadows}
 
@@ -184,24 +197,25 @@ Los datos obtenidos recogen los datos siguientes:
 
 \newpage 
 \section{Contenido}
-\paragraph{Explicar los campos que incluye el dataset, el periodo de tiempo de los datos y cómo se han recogido.\\}
-Dataset\_sueldos.csv: se ha obtenido de la página  \textit{\url{https://glassdoor.es/}} el 6/4/2022. No ha sido necesario recoger los datos en varios días debido a la naturaleza del proyecto.
+\textbf{Explicar los campos que incluye el dataset, el periodo de tiempo de los datos y cómo se han recogido.} \\
+
+Dataset\_sueldos.csv: se ha obtenido de la página  \textit{\url{https://glassdoor.es/}} el 5/4/2022. No ha sido necesario recoger los datos en varios días debido a la naturaleza del proyecto.
 \begin{itemize}
 \item \textbf{Ciudad:} Ciudad donde está radicado el empleo.
 \item \textbf{Empresa:} Empresa que proporciona el empleo.
 \item \textbf{Sueldo:} Sueldo bruto correspondiente al empleo, ciudad y empresa.
-\item \textbf{Periodo:} Empleo en el periodo indicado, en su caso.
+\item \textbf{Periodo:} Nos ofrece información sobre si el sueldo es por hora, por mes o anual.
 \end{itemize}
 
-Dataset\_sueldos\_clean.csv: se ha obtenido de la página  \textit{\url{https://glassdoor.es/}} el 6/4/2022. No ha sido necesario recoger los datos en varios días debido a la naturaleza del proyecto.
+Dataset\_sueldos\_clean.csv: se ha obtenido de la página  \textit{\url{https://glassdoor.es/}} el 5/4/2022. No ha sido necesario recoger los datos en varios días debido a la naturaleza del proyecto.
 \begin{itemize}
 \item \textbf{Ciudad: } Ciudad donde está el empleo.
 \item \textbf{Empresa:} Empresa que proporciona el empleo.
 \item \textbf{Sueldo:} Sueldo bruto correspondiente al empleo, ciudad y empresa.
-\item \textbf{Sueldo Anual:}. Sueldo ajustado a un año (algunas empresas, no lo proporcionan anualizado).
+\item \textbf{Sueldo Anual:}. Sueldo ajustado a un año (algunas empresas no lo proporcionan anualizado).
 \end{itemize}
 
-SMI.csv: se ha obtenido de la página  \textit{\url{https://datosmacro.expansion.com/}} el 6/4/2022. No ha sido necesario recoger los datos en varios días debido a la naturaleza del proyecto.
+SMI.csv: se ha obtenido de la página  \textit{\url{https://datosmacro.expansion.com/}} el 5/4/2022. No ha sido necesario recoger los datos en varios días debido a la naturaleza del proyecto.
 \begin{itemize}
 \item \textbf{País: }País que se corresponde al sueldo medio.
 \item \textbf{Año: }Año de cálculo del sueldo medio.
@@ -212,16 +226,18 @@ SMI.csv: se ha obtenido de la página  \textit{\url{https://datosmacro.expansion
 \item \textbf{Var:} Variación del salario medio.
 \end{itemize}
 \newpage
-Sueldos\_DataScientist\_vs\_SMI: Se han calculado a partir de los datos extraidos en las páginas descritas.
+Sueldos\_DataScientist\_vs\_SMI: Se han calculado a partir de los datos extraídos en las páginas descritas.
 \begin{itemize}
 \item \textbf{Ciudad:}  Ciudad donde está el empleo.
 \item \textbf{Sueldo anual:} Sueldo anual de los empleos descargados.
-\item \textbf{Suelvo vs Sueldo Medio: }Diferencia entre el sueldo del puesto de Científico de Datos y el sueldo medio del país.
+\item \textbf{Suelvo vs Sueldo Medio: }Ratio entre el sueldo del puesto de Científico de Datos y el sueldo medio del país.
 \end{itemize}
 
 \section{Agradecimientos}
 
-Agradecemos a los propietarios de las páginas  \textit{\url{https://glassdoor.es/}} y \textit{ \url{https://datosmacro.expansion.com/}}, por los datos de los que nos hemos podido alimentar en este proyecto de Web Scraping. 
+Agradecemos a los propietarios de las páginas  \textit{\url{https://glassdoor.es/}} y \textit{ \url{https://datosmacro.expansion.com/}}, por los datos de los que nos hemos podido alimentar en este proyecto de Web Scraping. \\
+
+En cuanto a los principios éticos/legales hemos intentado seguir lo que se indicaba en los ficheros \textit{robots.txt} pero desgraciadamente eso limitaba mucho los proyectos que queríamos desarrollar, por lo que finalmente hemos tenido que acceder a parte de la web que no permitían en dicho fichero.
 
 \section{Inspiración}
 
@@ -231,11 +247,20 @@ Este proyecto podría ampliarse a la búsqueda de trabajo para otra tipología d
 
 \newpage 
 \section{Licencia}
-Se ha escogido la licencia CC BY-SA 4.0 ya que es la más correcta en cuanto a las libertades que se han de cumplir:
-\\
-\includegraphics [scale=0.75]{licencia1.png}
-\\
-\includegraphics [scale=0.75]{licencia2.png}
+Se ha escogido la licencia \textbf{CC BY-SA 4.0} ya que se ajusta a los requerimientos que nosotros creemos convenientes. Las clausulas que debemos cumplir para ello se podrían resumir en:
+
+\begin{itemize}
+\item Se debe dar crédito a los propietarios originales indicando los cambios realizados. De esta manera la autoría de dichos datos queda respetada por nuestra parte.
+\item Permitimos el uso de los datos generados y cualquier uso de éstos debe trabajar bajo esta licencia, permitiendo que su uso sea lo más amplio posible.
+\item Se permite su uso comercial, permitiendo que estos datos se pudieran utilizar por parte de empresas.
+
+\end{itemize}
+
+
+%\\
+%\includegraphics [scale=0.75]{licencia1.png}
+%\\
+%\includegraphics [scale=0.75]{licencia2.png}
 
 
 \section{Código}
@@ -249,8 +274,22 @@ El Dataset está publicado en Zenodo, disponible en  \url{10.5281/zenodo.6408002
 
 \section{Vídeo}
 
--- Link al video de cada uno --
+Cada uno de los integrantes del grupo hará un vídeo cuyo enlace será enviado al profesor.\\
 
+\begin{center}
+\begin{tabular}{|c|c|}
+\hline
+\textbf{Contribuciones} & \textbf{Firma} \\ 
+\hline
+ Investigación previa & VCC, MMG \\ 
+ \hline
+ Redacción de las respuestas & VCC, MMG \\
+ \hline 
+ Desarrollo del código & VCC, MMG \\
+ \hline
+\end{tabular}
+
+\end{center}
 
 
 %\bibliographystyle{unsrt}
